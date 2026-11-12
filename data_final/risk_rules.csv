@@ -1,0 +1,6 @@
+rule_id,rule_name,rule_type,description,parameters,weight,effective_from,effective_to,is_active
+RUL-001,Velocity spike,velocity_spike,8 or more debits on one account within 60 minutes,"{""window_minutes"":60,""min_count"":8}",40,2026-01-01,,true
+RUL-002,New device with high spend,new_device,"First use of a device on an account (after 5 or more earlier transactions) followed by debits of 25,000 or more within 24 hours","{""min_prior_txns"":5,""window_hours"":24,""min_debit_total"":25000}",45,2026-01-01,,true
+RUL-003,Circular transfer,circular_transfer,Funds return to the origin account through 3 or more hops within 72 hours,"{""min_hops"":3,""max_hops"":4,""window_hours"":72}",60,2026-01-01,,true
+RUL-004,Dormant account reactivation,dormant_reactivation,"First transaction after 90 or more days of dormancy is a debit of 25,000 or more","{""dormant_days"":90,""min_amount"":25000}",50,2026-01-01,,true
+RUL-005,High-value purchase,high_amount,"Single purchase of 100,000 or more (suppressed when RUL-004 already alerts the same transaction)","{""min_amount"":100000,""txn_type"":""purchase""}",25,2026-01-01,,true
