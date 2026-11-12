@@ -22,3 +22,4 @@ Note: claude.ai chats cannot be exported as a prompt-only file. This is a number
 16. Shared screen recordings of the Streamlit app for checking; the evaluation table was fixed.
 17. Tested the Log action feature successfully and pushed Step 6.
 18. Shared the repository zip and a screen recording of the app, listed the step/time table (Steps 3-7), and asked for help with the pending Step 7 (README, prompt log, final checks) and to include the website output in it. Claude re-ran the generator and `run_all.py` on a fresh copy (RESULT: PASS, all `data_final/` CSVs identical), wrote the README, added screenshots taken from the recording, and updated this log.
+19. Reviewed the Step 7 files, applied the README edits, ran the SQL export, pushed, and verified a fresh clone (RESULT: PASS).
