@@ -7,6 +7,7 @@ Synthetic data only. All people, accounts, merchants and devices are generated.
 - **Money:** decimal with 2 places, currency INR (one currency to keep reconciliation simple).
 - **Timestamps:** ISO 8601, UTC. **Dates:** `YYYY-MM-DD`.
 - **IDs:** zero-padded, immutable, identical across every file that references them.
+- **Folders:** `data/` is the clean baseline written by `generator.py` (steps 1-2). `data_final/` is the full dataset written by `build_triage.py` (adds rules, alerts, cases, actions and the injected anomalies). The baseline is never modified.
 - **Seed:** `20261022` (default). Scale is a parameter so starter and full datasets use the same generator.
 - **History:** state changes are appended as new rows (see `AccountStatusHistory`, `AnalystAction`). Nothing is overwritten.
 - **Derived** means the value is computed from other records, never generated independently.
@@ -174,7 +175,7 @@ PK: `alert_id`. FKs: `rule_id` -> RiskRule, `transaction_id` -> Transaction, `ac
 | risk_score | integer | Y | 0-100, derived from `score_breakdown` | N |
 | score_breakdown | json | Y | per-factor points that add up to `risk_score` | N |
 | evidence | string | Y | plain-language reason the rule fired | N |
-| status | enum | Y | open, under_review, closed | N |
+| status | enum | Y | open, under_review, closed; mirrors the case (open / in_review / closed) | N |
 
 ## 11. Case (event)
 
@@ -186,7 +187,7 @@ PK: `case_id`. FK: `customer_id` -> Customer. Bridge to Alert via CaseAlert.
 | customer_id | string | Y | must exist in Customer | N |
 | opened_at | datetime | Y | >= earliest linked alert `created_at` | N |
 | status | enum | Y | open, in_review, closed | N |
-| priority_score | integer | Y | derived: max alert score plus a bonus per extra alert, capped at 100 | N |
+| priority_score | integer | Y | derived: max alert score plus 5 per extra alert, capped at 100 | N |
 | final_disposition | enum | O | required iff status = closed; confirmed_suspicious, false_positive, inconclusive | N |
 | closed_at | datetime | O | required iff status = closed; > `opened_at` | N |
 
@@ -209,7 +210,7 @@ PK: `action_id`. FKs: `case_id` -> Case, `alert_id` -> Alert (optional). Append-
 |---|---|---|---|---|
 | action_id | string | Y | `ACT-2026-\d{6}` | Y |
 | case_id | string | Y | must exist in Case | N |
-| alert_id | string | O | must belong to the case | N |
+| alert_id | string | O | must belong to the case; set on review and disposition actions, empty on assign, escalate, request_info | N |
 | analyst_id | string | Y | synthetic, `ANL-\d{2}` | N |
 | analyst_role | enum | Y | operations_analyst, risk_reviewer, administrator | N |
 | action_type | enum | Y | assign, review, escalate, request_info, disposition | N |
@@ -224,9 +225,12 @@ PK: `truth_id`.
 | Field | Type | Req | Allowed values / rule | Unique |
 |---|---|---|---|---|
 | truth_id | string | Y | `GT-\d{6}` | Y |
-| entity_type | enum | Y | transaction, account, transfer, alert, case | N |
+| entity_type | enum | Y | transaction, account, transfer, alert, case, analyst_action | N |
 | entity_id | string | Y | ID of the affected record | N |
 | label_kind | enum | Y | planted_pattern, injected_anomaly, false_positive | N |
 | issue_type | enum | Y | velocity_spike, new_device_activity, circular_transfer, dormant_reactivation, txn_on_closed_account, negative_balance_no_overdraft, transfer_legs_mismatch, alert_without_trigger, disposition_before_alert, benign_lookalike | N |
-| expected_decision | enum | Y | should_alert, should_not_alert, should_fail_validation | N |
+| expected_decision | enum | Y | should_alert, should_alert_then_dismiss (benign look-alike: the rule fires, the analyst should close it as a false positive), should_not_alert, should_fail_validation | N |
 | generating_rule | string | O | documented rule that produced the label | N |
+| pattern_instance_id | string | O | groups all rows of one planted pattern (`PI-VEL-0001`) or names the injected anomaly (`INJ-01`) | N |
+
+Pattern labels sit on transactions and transfers. An alert is judged by the label of its triggering transaction. Injected anomalies (`label_kind` = injected_anomaly, `expected_decision` = should_fail_validation) are added by `build_triage.py`, one `INJ-nn` each, and the validator must report every one of them and nothing else.
