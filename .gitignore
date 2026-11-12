@@ -220,3 +220,4 @@ __marimo__/
 .streamlit/secrets.toml
 
 app_state/
+sql/fraud_triage.db
