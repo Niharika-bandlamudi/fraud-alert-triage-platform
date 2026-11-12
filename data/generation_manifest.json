@@ -1,0 +1,65 @@
+{
+  "generator_version": "0.1.0",
+  "seed": 20261022,
+  "customers": 5000,
+  "accounts": 7000,
+  "transactions": 100000,
+  "alerts_target": 1000,
+  "pattern_instances_requested": {
+    "velocity": 100,
+    "new_device": 150,
+    "circular": 70,
+    "dormant": 80,
+    "bill_burst": 80,
+    "upgrade": 80,
+    "large_known": 40
+  },
+  "pattern_instances_placed": {
+    "CIR": 70,
+    "DOR": 80,
+    "FPB": 80,
+    "FPL": 40,
+    "FPU": 80,
+    "NDV": 150,
+    "VEL": 100
+  },
+  "normal_transfers": 1500,
+  "files": {
+    "customers.csv": {
+      "rows": 5000,
+      "sha256": "4b88f8232739e38f6f70bab08f82996766136dcb9c651b73ac2b2067365c7de2"
+    },
+    "accounts.csv": {
+      "rows": 7000,
+      "sha256": "65ff60f0e766b369d3503e6fd6ace723eacfc38760bcaff26f6cae34477b11a5"
+    },
+    "account_status_history.csv": {
+      "rows": 7974,
+      "sha256": "a1ed843f2d8e253683238b29d6e02cd933e0411e4b30a026a57eea90028c92e3"
+    },
+    "merchants.csv": {
+      "rows": 500,
+      "sha256": "5f2f279c0e96b6f5b6d36a56ee8927e91e22601ce4ae3b85102af27852b69cfb"
+    },
+    "devices.csv": {
+      "rows": 7582,
+      "sha256": "f474340361d273090ac4cc5121e69e3eefef75fb35128bd22e9719ac23ba480b"
+    },
+    "device_account_links.csv": {
+      "rows": 15008,
+      "sha256": "45197464e37739b72e6ca1f0c824316b2302cb949bbbcb3ef1478c9cca4ce96d"
+    },
+    "transactions.csv": {
+      "rows": 100000,
+      "sha256": "8e5856af6dcef363713dd4d9f0d38e168eb3ea37cfaa1a42fee24ea204ba999d"
+    },
+    "transfer_links.csv": {
+      "rows": 1739,
+      "sha256": "5d2e1d9f800cd51ebb4834bd2bc16c27b7fbd0bf84517c460f4a87e142944a1e"
+    },
+    "ground_truth.csv": {
+      "rows": 3390,
+      "sha256": "c31cc717243c5b85b39272f8f91e7a569fbb4ff1995a8fcfb1548cd93bd1b74a"
+    }
+  }
+}
