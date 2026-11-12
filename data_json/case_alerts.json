@@ -1,0 +1,3644 @@
+[
+  {
+    "case_alert_id": "CAL-000001",
+    "case_id": "CASE-2026-000001",
+    "alert_id": "ALT-2026-000001",
+    "linked_at": "2026-01-09T13:37:40Z"
+  },
+  {
+    "case_alert_id": "CAL-000002",
+    "case_id": "CASE-2026-000002",
+    "alert_id": "ALT-2026-000002",
+    "linked_at": "2026-01-11T04:09:11Z"
+  },
+  {
+    "case_alert_id": "CAL-000003",
+    "case_id": "CASE-2026-000003",
+    "alert_id": "ALT-2026-000003",
+    "linked_at": "2026-01-16T09:25:45Z"
+  },
+  {
+    "case_alert_id": "CAL-000004",
+    "case_id": "CASE-2026-000004",
+    "alert_id": "ALT-2026-000004",
+    "linked_at": "2026-01-16T10:52:19Z"
+  },
+  {
+    "case_alert_id": "CAL-000005",
+    "case_id": "CASE-2026-000005",
+    "alert_id": "ALT-2026-000005",
+    "linked_at": "2026-01-16T11:37:48Z"
+  },
+  {
+    "case_alert_id": "CAL-000006",
+    "case_id": "CASE-2026-000006",
+    "alert_id": "ALT-2026-000006",
+    "linked_at": "2026-01-17T03:34:31Z"
+  },
+  {
+    "case_alert_id": "CAL-000007",
+    "case_id": "CASE-2026-000007",
+    "alert_id": "ALT-2026-000007",
+    "linked_at": "2026-01-18T10:50:22Z"
+  },
+  {
+    "case_alert_id": "CAL-000008",
+    "case_id": "CASE-2026-000008",
+    "alert_id": "ALT-2026-000008",
+    "linked_at": "2026-01-18T15:34:22Z"
+  },
+  {
+    "case_alert_id": "CAL-000009",
+    "case_id": "CASE-2026-000009",
+    "alert_id": "ALT-2026-000009",
+    "linked_at": "2026-01-21T04:50:46Z"
+  },
+  {
+    "case_alert_id": "CAL-000010",
+    "case_id": "CASE-2026-000010",
+    "alert_id": "ALT-2026-000010",
+    "linked_at": "2026-01-21T06:03:27Z"
+  },
+  {
+    "case_alert_id": "CAL-000011",
+    "case_id": "CASE-2026-000011",
+    "alert_id": "ALT-2026-000011",
+    "linked_at": "2026-01-23T00:00:23Z"
+  },
+  {
+    "case_alert_id": "CAL-000012",
+    "case_id": "CASE-2026-000012",
+    "alert_id": "ALT-2026-000012",
+    "linked_at": "2026-01-25T11:59:31Z"
+  },
+  {
+    "case_alert_id": "CAL-000013",
+    "case_id": "CASE-2026-000013",
+    "alert_id": "ALT-2026-000013",
+    "linked_at": "2026-01-25T19:38:46Z"
+  },
+  {
+    "case_alert_id": "CAL-000014",
+    "case_id": "CASE-2026-000014",
+    "alert_id": "ALT-2026-000014",
+    "linked_at": "2026-01-26T15:03:52Z"
+  },
+  {
+    "case_alert_id": "CAL-000015",
+    "case_id": "CASE-2026-000015",
+    "alert_id": "ALT-2026-000015",
+    "linked_at": "2026-01-26T20:40:59Z"
+  },
+  {
+    "case_alert_id": "CAL-000016",
+    "case_id": "CASE-2026-000016",
+    "alert_id": "ALT-2026-000016",
+    "linked_at": "2026-01-27T08:35:56Z"
+  },
+  {
+    "case_alert_id": "CAL-000017",
+    "case_id": "CASE-2026-000017",
+    "alert_id": "ALT-2026-000017",
+    "linked_at": "2026-01-29T11:06:58Z"
+  },
+  {
+    "case_alert_id": "CAL-000018",
+    "case_id": "CASE-2026-000018",
+    "alert_id": "ALT-2026-000018",
+    "linked_at": "2026-01-29T21:43:26Z"
+  },
+  {
+    "case_alert_id": "CAL-000019",
+    "case_id": "CASE-2026-000019",
+    "alert_id": "ALT-2026-000019",
+    "linked_at": "2026-01-31T09:48:06Z"
+  },
+  {
+    "case_alert_id": "CAL-000020",
+    "case_id": "CASE-2026-000020",
+    "alert_id": "ALT-2026-000020",
+    "linked_at": "2026-02-03T06:57:46Z"
+  },
+  {
+    "case_alert_id": "CAL-000021",
+    "case_id": "CASE-2026-000021",
+    "alert_id": "ALT-2026-000021",
+    "linked_at": "2026-02-04T22:57:25Z"
+  },
+  {
+    "case_alert_id": "CAL-000022",
+    "case_id": "CASE-2026-000022",
+    "alert_id": "ALT-2026-000022",
+    "linked_at": "2026-02-05T16:13:11Z"
+  },
+  {
+    "case_alert_id": "CAL-000023",
+    "case_id": "CASE-2026-000023",
+    "alert_id": "ALT-2026-000023",
+    "linked_at": "2026-02-06T03:14:18Z"
+  },
+  {
+    "case_alert_id": "CAL-000024",
+    "case_id": "CASE-2026-000024",
+    "alert_id": "ALT-2026-000024",
+    "linked_at": "2026-02-07T03:44:19Z"
+  },
+  {
+    "case_alert_id": "CAL-000025",
+    "case_id": "CASE-2026-000025",
+    "alert_id": "ALT-2026-000025",
+    "linked_at": "2026-02-10T22:42:05Z"
+  },
+  {
+    "case_alert_id": "CAL-000026",
+    "case_id": "CASE-2026-000026",
+    "alert_id": "ALT-2026-000026",
+    "linked_at": "2026-02-12T06:44:04Z"
+  },
+  {
+    "case_alert_id": "CAL-000027",
+    "case_id": "CASE-2026-000027",
+    "alert_id": "ALT-2026-000027",
+    "linked_at": "2026-02-12T15:46:32Z"
+  },
+  {
+    "case_alert_id": "CAL-000028",
+    "case_id": "CASE-2026-000028",
+    "alert_id": "ALT-2026-000028",
+    "linked_at": "2026-02-13T03:32:41Z"
+  },
+  {
+    "case_alert_id": "CAL-000029",
+    "case_id": "CASE-2026-000029",
+    "alert_id": "ALT-2026-000029",
+    "linked_at": "2026-02-13T12:10:04Z"
+  },
+  {
+    "case_alert_id": "CAL-000030",
+    "case_id": "CASE-2026-000030",
+    "alert_id": "ALT-2026-000030",
+    "linked_at": "2026-02-14T01:27:53Z"
+  },
+  {
+    "case_alert_id": "CAL-000031",
+    "case_id": "CASE-2026-000031",
+    "alert_id": "ALT-2026-000031",
+    "linked_at": "2026-02-14T14:54:08Z"
+  },
+  {
+    "case_alert_id": "CAL-000032",
+    "case_id": "CASE-2026-000032",
+    "alert_id": "ALT-2026-000032",
+    "linked_at": "2026-02-14T21:56:10Z"
+  },
+  {
+    "case_alert_id": "CAL-000033",
+    "case_id": "CASE-2026-000033",
+    "alert_id": "ALT-2026-000033",
+    "linked_at": "2026-02-16T03:41:19Z"
+  },
+  {
+    "case_alert_id": "CAL-000034",
+    "case_id": "CASE-2026-000034",
+    "alert_id": "ALT-2026-000034",
+    "linked_at": "2026-02-19T22:36:50Z"
+  },
+  {
+    "case_alert_id": "CAL-000035",
+    "case_id": "CASE-2026-000035",
+    "alert_id": "ALT-2026-000035",
+    "linked_at": "2026-02-20T09:25:11Z"
+  },
+  {
+    "case_alert_id": "CAL-000036",
+    "case_id": "CASE-2026-000036",
+    "alert_id": "ALT-2026-000036",
+    "linked_at": "2026-02-20T20:20:00Z"
+  },
+  {
+    "case_alert_id": "CAL-000037",
+    "case_id": "CASE-2026-000037",
+    "alert_id": "ALT-2026-000037",
+    "linked_at": "2026-02-22T02:36:53Z"
+  },
+  {
+    "case_alert_id": "CAL-000038",
+    "case_id": "CASE-2026-000038",
+    "alert_id": "ALT-2026-000038",
+    "linked_at": "2026-02-22T14:08:10Z"
+  },
+  {
+    "case_alert_id": "CAL-000039",
+    "case_id": "CASE-2026-000039",
+    "alert_id": "ALT-2026-000039",
+    "linked_at": "2026-02-23T19:48:50Z"
+  },
+  {
+    "case_alert_id": "CAL-000040",
+    "case_id": "CASE-2026-000040",
+    "alert_id": "ALT-2026-000040",
+    "linked_at": "2026-02-24T04:48:00Z"
+  },
+  {
+    "case_alert_id": "CAL-000041",
+    "case_id": "CASE-2026-000041",
+    "alert_id": "ALT-2026-000041",
+    "linked_at": "2026-02-24T20:15:03Z"
+  },
+  {
+    "case_alert_id": "CAL-000042",
+    "case_id": "CASE-2026-000042",
+    "alert_id": "ALT-2026-000042",
+    "linked_at": "2026-02-27T11:32:20Z"
+  },
+  {
+    "case_alert_id": "CAL-000043",
+    "case_id": "CASE-2026-000043",
+    "alert_id": "ALT-2026-000043",
+    "linked_at": "2026-02-27T16:27:13Z"
+  },
+  {
+    "case_alert_id": "CAL-000044",
+    "case_id": "CASE-2026-000044",
+    "alert_id": "ALT-2026-000044",
+    "linked_at": "2026-03-01T00:47:40Z"
+  },
+  {
+    "case_alert_id": "CAL-000045",
+    "case_id": "CASE-2026-000045",
+    "alert_id": "ALT-2026-000045",
+    "linked_at": "2026-03-01T15:40:07Z"
+  },
+  {
+    "case_alert_id": "CAL-000046",
+    "case_id": "CASE-2026-000046",
+    "alert_id": "ALT-2026-000046",
+    "linked_at": "2026-03-03T00:43:08Z"
+  },
+  {
+    "case_alert_id": "CAL-000047",
+    "case_id": "CASE-2026-000047",
+    "alert_id": "ALT-2026-000047",
+    "linked_at": "2026-03-03T07:16:20Z"
+  },
+  {
+    "case_alert_id": "CAL-000048",
+    "case_id": "CASE-2026-000048",
+    "alert_id": "ALT-2026-000048",
+    "linked_at": "2026-03-03T14:05:32Z"
+  },
+  {
+    "case_alert_id": "CAL-000049",
+    "case_id": "CASE-2026-000049",
+    "alert_id": "ALT-2026-000049",
+    "linked_at": "2026-03-03T18:44:32Z"
+  },
+  {
+    "case_alert_id": "CAL-000050",
+    "case_id": "CASE-2026-000050",
+    "alert_id": "ALT-2026-000050",
+    "linked_at": "2026-03-06T22:33:11Z"
+  },
+  {
+    "case_alert_id": "CAL-000051",
+    "case_id": "CASE-2026-000051",
+    "alert_id": "ALT-2026-000051",
+    "linked_at": "2026-03-08T11:46:46Z"
+  },
+  {
+    "case_alert_id": "CAL-000052",
+    "case_id": "CASE-2026-000052",
+    "alert_id": "ALT-2026-000052",
+    "linked_at": "2026-03-09T00:30:06Z"
+  },
+  {
+    "case_alert_id": "CAL-000053",
+    "case_id": "CASE-2026-000053",
+    "alert_id": "ALT-2026-000053",
+    "linked_at": "2026-03-10T04:17:25Z"
+  },
+  {
+    "case_alert_id": "CAL-000054",
+    "case_id": "CASE-2026-000054",
+    "alert_id": "ALT-2026-000054",
+    "linked_at": "2026-03-10T13:28:07Z"
+  },
+  {
+    "case_alert_id": "CAL-000055",
+    "case_id": "CASE-2026-000055",
+    "alert_id": "ALT-2026-000055",
+    "linked_at": "2026-03-12T03:36:38Z"
+  },
+  {
+    "case_alert_id": "CAL-000056",
+    "case_id": "CASE-2026-000056",
+    "alert_id": "ALT-2026-000056",
+    "linked_at": "2026-03-14T20:27:27Z"
+  },
+  {
+    "case_alert_id": "CAL-000057",
+    "case_id": "CASE-2026-000057",
+    "alert_id": "ALT-2026-000057",
+    "linked_at": "2026-03-16T07:32:07Z"
+  },
+  {
+    "case_alert_id": "CAL-000058",
+    "case_id": "CASE-2026-000057",
+    "alert_id": "ALT-2026-000058",
+    "linked_at": "2026-03-16T22:30:56Z"
+  },
+  {
+    "case_alert_id": "CAL-000059",
+    "case_id": "CASE-2026-000058",
+    "alert_id": "ALT-2026-000059",
+    "linked_at": "2026-03-17T02:23:51Z"
+  },
+  {
+    "case_alert_id": "CAL-000060",
+    "case_id": "CASE-2026-000059",
+    "alert_id": "ALT-2026-000060",
+    "linked_at": "2026-03-17T23:17:07Z"
+  },
+  {
+    "case_alert_id": "CAL-000061",
+    "case_id": "CASE-2026-000060",
+    "alert_id": "ALT-2026-000061",
+    "linked_at": "2026-03-19T12:53:41Z"
+  },
+  {
+    "case_alert_id": "CAL-000062",
+    "case_id": "CASE-2026-000061",
+    "alert_id": "ALT-2026-000062",
+    "linked_at": "2026-03-21T09:10:07Z"
+  },
+  {
+    "case_alert_id": "CAL-000063",
+    "case_id": "CASE-2026-000061",
+    "alert_id": "ALT-2026-000064",
+    "linked_at": "2026-03-21T23:53:29Z"
+  },
+  {
+    "case_alert_id": "CAL-000064",
+    "case_id": "CASE-2026-000062",
+    "alert_id": "ALT-2026-000063",
+    "linked_at": "2026-03-21T18:22:19Z"
+  },
+  {
+    "case_alert_id": "CAL-000065",
+    "case_id": "CASE-2026-000063",
+    "alert_id": "ALT-2026-000065",
+    "linked_at": "2026-03-22T08:48:57Z"
+  },
+  {
+    "case_alert_id": "CAL-000066",
+    "case_id": "CASE-2026-000064",
+    "alert_id": "ALT-2026-000066",
+    "linked_at": "2026-03-22T22:48:49Z"
+  },
+  {
+    "case_alert_id": "CAL-000067",
+    "case_id": "CASE-2026-000065",
+    "alert_id": "ALT-2026-000067",
+    "linked_at": "2026-03-23T06:17:03Z"
+  },
+  {
+    "case_alert_id": "CAL-000068",
+    "case_id": "CASE-2026-000066",
+    "alert_id": "ALT-2026-000068",
+    "linked_at": "2026-03-24T08:10:07Z"
+  },
+  {
+    "case_alert_id": "CAL-000069",
+    "case_id": "CASE-2026-000067",
+    "alert_id": "ALT-2026-000069",
+    "linked_at": "2026-03-24T08:16:46Z"
+  },
+  {
+    "case_alert_id": "CAL-000070",
+    "case_id": "CASE-2026-000068",
+    "alert_id": "ALT-2026-000070",
+    "linked_at": "2026-03-24T15:00:00Z"
+  },
+  {
+    "case_alert_id": "CAL-000071",
+    "case_id": "CASE-2026-000069",
+    "alert_id": "ALT-2026-000071",
+    "linked_at": "2026-03-25T17:46:44Z"
+  },
+  {
+    "case_alert_id": "CAL-000072",
+    "case_id": "CASE-2026-000070",
+    "alert_id": "ALT-2026-000072",
+    "linked_at": "2026-03-27T16:32:09Z"
+  },
+  {
+    "case_alert_id": "CAL-000073",
+    "case_id": "CASE-2026-000071",
+    "alert_id": "ALT-2026-000073",
+    "linked_at": "2026-03-27T22:20:47Z"
+  },
+  {
+    "case_alert_id": "CAL-000074",
+    "case_id": "CASE-2026-000072",
+    "alert_id": "ALT-2026-000074",
+    "linked_at": "2026-03-28T04:49:04Z"
+  },
+  {
+    "case_alert_id": "CAL-000075",
+    "case_id": "CASE-2026-000073",
+    "alert_id": "ALT-2026-000075",
+    "linked_at": "2026-03-30T09:38:02Z"
+  },
+  {
+    "case_alert_id": "CAL-000076",
+    "case_id": "CASE-2026-000074",
+    "alert_id": "ALT-2026-000076",
+    "linked_at": "2026-03-30T12:38:54Z"
+  },
+  {
+    "case_alert_id": "CAL-000077",
+    "case_id": "CASE-2026-000075",
+    "alert_id": "ALT-2026-000077",
+    "linked_at": "2026-03-31T06:45:14Z"
+  },
+  {
+    "case_alert_id": "CAL-000078",
+    "case_id": "CASE-2026-000076",
+    "alert_id": "ALT-2026-000078",
+    "linked_at": "2026-04-01T20:15:15Z"
+  },
+  {
+    "case_alert_id": "CAL-000079",
+    "case_id": "CASE-2026-000077",
+    "alert_id": "ALT-2026-000079",
+    "linked_at": "2026-04-02T22:53:01Z"
+  },
+  {
+    "case_alert_id": "CAL-000080",
+    "case_id": "CASE-2026-000078",
+    "alert_id": "ALT-2026-000080",
+    "linked_at": "2026-04-06T03:46:45Z"
+  },
+  {
+    "case_alert_id": "CAL-000081",
+    "case_id": "CASE-2026-000079",
+    "alert_id": "ALT-2026-000081",
+    "linked_at": "2026-04-08T13:08:40Z"
+  },
+  {
+    "case_alert_id": "CAL-000082",
+    "case_id": "CASE-2026-000080",
+    "alert_id": "ALT-2026-000082",
+    "linked_at": "2026-04-08T16:01:52Z"
+  },
+  {
+    "case_alert_id": "CAL-000083",
+    "case_id": "CASE-2026-000081",
+    "alert_id": "ALT-2026-000083",
+    "linked_at": "2026-04-09T07:17:48Z"
+  },
+  {
+    "case_alert_id": "CAL-000084",
+    "case_id": "CASE-2026-000082",
+    "alert_id": "ALT-2026-000084",
+    "linked_at": "2026-04-09T11:43:03Z"
+  },
+  {
+    "case_alert_id": "CAL-000085",
+    "case_id": "CASE-2026-000083",
+    "alert_id": "ALT-2026-000085",
+    "linked_at": "2026-04-09T17:18:48Z"
+  },
+  {
+    "case_alert_id": "CAL-000086",
+    "case_id": "CASE-2026-000084",
+    "alert_id": "ALT-2026-000086",
+    "linked_at": "2026-04-10T13:39:00Z"
+  },
+  {
+    "case_alert_id": "CAL-000087",
+    "case_id": "CASE-2026-000085",
+    "alert_id": "ALT-2026-000087",
+    "linked_at": "2026-04-11T15:46:48Z"
+  },
+  {
+    "case_alert_id": "CAL-000088",
+    "case_id": "CASE-2026-000086",
+    "alert_id": "ALT-2026-000088",
+    "linked_at": "2026-04-12T09:59:50Z"
+  },
+  {
+    "case_alert_id": "CAL-000089",
+    "case_id": "CASE-2026-000087",
+    "alert_id": "ALT-2026-000089",
+    "linked_at": "2026-04-12T20:50:12Z"
+  },
+  {
+    "case_alert_id": "CAL-000090",
+    "case_id": "CASE-2026-000088",
+    "alert_id": "ALT-2026-000090",
+    "linked_at": "2026-04-13T09:22:08Z"
+  },
+  {
+    "case_alert_id": "CAL-000091",
+    "case_id": "CASE-2026-000089",
+    "alert_id": "ALT-2026-000091",
+    "linked_at": "2026-04-13T19:16:24Z"
+  },
+  {
+    "case_alert_id": "CAL-000092",
+    "case_id": "CASE-2026-000090",
+    "alert_id": "ALT-2026-000092",
+    "linked_at": "2026-04-14T02:52:32Z"
+  },
+  {
+    "case_alert_id": "CAL-000093",
+    "case_id": "CASE-2026-000091",
+    "alert_id": "ALT-2026-000093",
+    "linked_at": "2026-04-15T20:20:53Z"
+  },
+  {
+    "case_alert_id": "CAL-000094",
+    "case_id": "CASE-2026-000092",
+    "alert_id": "ALT-2026-000094",
+    "linked_at": "2026-04-16T09:31:40Z"
+  },
+  {
+    "case_alert_id": "CAL-000095",
+    "case_id": "CASE-2026-000093",
+    "alert_id": "ALT-2026-000095",
+    "linked_at": "2026-04-16T23:59:35Z"
+  },
+  {
+    "case_alert_id": "CAL-000096",
+    "case_id": "CASE-2026-000094",
+    "alert_id": "ALT-2026-000096",
+    "linked_at": "2026-04-17T20:46:08Z"
+  },
+  {
+    "case_alert_id": "CAL-000097",
+    "case_id": "CASE-2026-000095",
+    "alert_id": "ALT-2026-000097",
+    "linked_at": "2026-04-18T14:51:10Z"
+  },
+  {
+    "case_alert_id": "CAL-000098",
+    "case_id": "CASE-2026-000096",
+    "alert_id": "ALT-2026-000098",
+    "linked_at": "2026-04-18T22:09:21Z"
+  },
+  {
+    "case_alert_id": "CAL-000099",
+    "case_id": "CASE-2026-000097",
+    "alert_id": "ALT-2026-000099",
+    "linked_at": "2026-04-19T02:50:37Z"
+  },
+  {
+    "case_alert_id": "CAL-000100",
+    "case_id": "CASE-2026-000098",
+    "alert_id": "ALT-2026-000100",
+    "linked_at": "2026-04-19T04:12:05Z"
+  },
+  {
+    "case_alert_id": "CAL-000101",
+    "case_id": "CASE-2026-000099",
+    "alert_id": "ALT-2026-000101",
+    "linked_at": "2026-04-19T08:44:05Z"
+  },
+  {
+    "case_alert_id": "CAL-000102",
+    "case_id": "CASE-2026-000100",
+    "alert_id": "ALT-2026-000102",
+    "linked_at": "2026-04-19T10:55:45Z"
+  },
+  {
+    "case_alert_id": "CAL-000103",
+    "case_id": "CASE-2026-000101",
+    "alert_id": "ALT-2026-000103",
+    "linked_at": "2026-04-19T23:02:32Z"
+  },
+  {
+    "case_alert_id": "CAL-000104",
+    "case_id": "CASE-2026-000102",
+    "alert_id": "ALT-2026-000104",
+    "linked_at": "2026-04-20T19:30:17Z"
+  },
+  {
+    "case_alert_id": "CAL-000105",
+    "case_id": "CASE-2026-000103",
+    "alert_id": "ALT-2026-000105",
+    "linked_at": "2026-04-21T17:19:35Z"
+  },
+  {
+    "case_alert_id": "CAL-000106",
+    "case_id": "CASE-2026-000104",
+    "alert_id": "ALT-2026-000106",
+    "linked_at": "2026-04-22T00:30:59Z"
+  },
+  {
+    "case_alert_id": "CAL-000107",
+    "case_id": "CASE-2026-000105",
+    "alert_id": "ALT-2026-000107",
+    "linked_at": "2026-04-23T23:21:01Z"
+  },
+  {
+    "case_alert_id": "CAL-000108",
+    "case_id": "CASE-2026-000106",
+    "alert_id": "ALT-2026-000108",
+    "linked_at": "2026-04-24T03:38:28Z"
+  },
+  {
+    "case_alert_id": "CAL-000109",
+    "case_id": "CASE-2026-000107",
+    "alert_id": "ALT-2026-000109",
+    "linked_at": "2026-04-27T08:47:03Z"
+  },
+  {
+    "case_alert_id": "CAL-000110",
+    "case_id": "CASE-2026-000108",
+    "alert_id": "ALT-2026-000110",
+    "linked_at": "2026-04-28T12:43:44Z"
+  },
+  {
+    "case_alert_id": "CAL-000111",
+    "case_id": "CASE-2026-000109",
+    "alert_id": "ALT-2026-000111",
+    "linked_at": "2026-04-29T21:18:06Z"
+  },
+  {
+    "case_alert_id": "CAL-000112",
+    "case_id": "CASE-2026-000110",
+    "alert_id": "ALT-2026-000112",
+    "linked_at": "2026-04-29T21:41:12Z"
+  },
+  {
+    "case_alert_id": "CAL-000113",
+    "case_id": "CASE-2026-000111",
+    "alert_id": "ALT-2026-000113",
+    "linked_at": "2026-04-30T21:26:08Z"
+  },
+  {
+    "case_alert_id": "CAL-000114",
+    "case_id": "CASE-2026-000112",
+    "alert_id": "ALT-2026-000114",
+    "linked_at": "2026-05-02T01:37:01Z"
+  },
+  {
+    "case_alert_id": "CAL-000115",
+    "case_id": "CASE-2026-000113",
+    "alert_id": "ALT-2026-000115",
+    "linked_at": "2026-05-02T12:24:12Z"
+  },
+  {
+    "case_alert_id": "CAL-000116",
+    "case_id": "CASE-2026-000114",
+    "alert_id": "ALT-2026-000116",
+    "linked_at": "2026-05-02T12:48:46Z"
+  },
+  {
+    "case_alert_id": "CAL-000117",
+    "case_id": "CASE-2026-000115",
+    "alert_id": "ALT-2026-000117",
+    "linked_at": "2026-05-02T21:23:39Z"
+  },
+  {
+    "case_alert_id": "CAL-000118",
+    "case_id": "CASE-2026-000116",
+    "alert_id": "ALT-2026-000118",
+    "linked_at": "2026-05-03T10:38:45Z"
+  },
+  {
+    "case_alert_id": "CAL-000119",
+    "case_id": "CASE-2026-000117",
+    "alert_id": "ALT-2026-000119",
+    "linked_at": "2026-05-03T16:40:28Z"
+  },
+  {
+    "case_alert_id": "CAL-000120",
+    "case_id": "CASE-2026-000118",
+    "alert_id": "ALT-2026-000120",
+    "linked_at": "2026-05-03T17:54:01Z"
+  },
+  {
+    "case_alert_id": "CAL-000121",
+    "case_id": "CASE-2026-000119",
+    "alert_id": "ALT-2026-000121",
+    "linked_at": "2026-05-04T04:37:36Z"
+  },
+  {
+    "case_alert_id": "CAL-000122",
+    "case_id": "CASE-2026-000120",
+    "alert_id": "ALT-2026-000122",
+    "linked_at": "2026-05-05T23:36:15Z"
+  },
+  {
+    "case_alert_id": "CAL-000123",
+    "case_id": "CASE-2026-000121",
+    "alert_id": "ALT-2026-000123",
+    "linked_at": "2026-05-06T21:59:40Z"
+  },
+  {
+    "case_alert_id": "CAL-000124",
+    "case_id": "CASE-2026-000122",
+    "alert_id": "ALT-2026-000124",
+    "linked_at": "2026-05-08T23:50:09Z"
+  },
+  {
+    "case_alert_id": "CAL-000125",
+    "case_id": "CASE-2026-000123",
+    "alert_id": "ALT-2026-000125",
+    "linked_at": "2026-05-09T10:13:24Z"
+  },
+  {
+    "case_alert_id": "CAL-000126",
+    "case_id": "CASE-2026-000124",
+    "alert_id": "ALT-2026-000126",
+    "linked_at": "2026-05-10T05:12:46Z"
+  },
+  {
+    "case_alert_id": "CAL-000127",
+    "case_id": "CASE-2026-000125",
+    "alert_id": "ALT-2026-000127",
+    "linked_at": "2026-05-10T06:41:51Z"
+  },
+  {
+    "case_alert_id": "CAL-000128",
+    "case_id": "CASE-2026-000126",
+    "alert_id": "ALT-2026-000128",
+    "linked_at": "2026-05-10T12:13:02Z"
+  },
+  {
+    "case_alert_id": "CAL-000129",
+    "case_id": "CASE-2026-000127",
+    "alert_id": "ALT-2026-000129",
+    "linked_at": "2026-05-10T13:41:43Z"
+  },
+  {
+    "case_alert_id": "CAL-000130",
+    "case_id": "CASE-2026-000128",
+    "alert_id": "ALT-2026-000130",
+    "linked_at": "2026-05-10T14:25:34Z"
+  },
+  {
+    "case_alert_id": "CAL-000131",
+    "case_id": "CASE-2026-000129",
+    "alert_id": "ALT-2026-000132",
+    "linked_at": "2026-05-12T20:41:46Z"
+  },
+  {
+    "case_alert_id": "CAL-000132",
+    "case_id": "CASE-2026-000130",
+    "alert_id": "ALT-2026-000131",
+    "linked_at": "2026-05-12T20:46:19Z"
+  },
+  {
+    "case_alert_id": "CAL-000133",
+    "case_id": "CASE-2026-000131",
+    "alert_id": "ALT-2026-000133",
+    "linked_at": "2026-05-14T08:44:57Z"
+  },
+  {
+    "case_alert_id": "CAL-000134",
+    "case_id": "CASE-2026-000132",
+    "alert_id": "ALT-2026-000134",
+    "linked_at": "2026-05-14T09:21:56Z"
+  },
+  {
+    "case_alert_id": "CAL-000135",
+    "case_id": "CASE-2026-000133",
+    "alert_id": "ALT-2026-000135",
+    "linked_at": "2026-05-14T16:36:57Z"
+  },
+  {
+    "case_alert_id": "CAL-000136",
+    "case_id": "CASE-2026-000134",
+    "alert_id": "ALT-2026-000136",
+    "linked_at": "2026-05-16T10:49:57Z"
+  },
+  {
+    "case_alert_id": "CAL-000137",
+    "case_id": "CASE-2026-000135",
+    "alert_id": "ALT-2026-000137",
+    "linked_at": "2026-05-17T19:25:13Z"
+  },
+  {
+    "case_alert_id": "CAL-000138",
+    "case_id": "CASE-2026-000136",
+    "alert_id": "ALT-2026-000138",
+    "linked_at": "2026-05-18T10:41:01Z"
+  },
+  {
+    "case_alert_id": "CAL-000139",
+    "case_id": "CASE-2026-000137",
+    "alert_id": "ALT-2026-000139",
+    "linked_at": "2026-05-18T11:29:22Z"
+  },
+  {
+    "case_alert_id": "CAL-000140",
+    "case_id": "CASE-2026-000138",
+    "alert_id": "ALT-2026-000140",
+    "linked_at": "2026-05-18T14:05:12Z"
+  },
+  {
+    "case_alert_id": "CAL-000141",
+    "case_id": "CASE-2026-000139",
+    "alert_id": "ALT-2026-000141",
+    "linked_at": "2026-05-20T03:28:26Z"
+  },
+  {
+    "case_alert_id": "CAL-000142",
+    "case_id": "CASE-2026-000140",
+    "alert_id": "ALT-2026-000142",
+    "linked_at": "2026-05-22T09:07:52Z"
+  },
+  {
+    "case_alert_id": "CAL-000143",
+    "case_id": "CASE-2026-000141",
+    "alert_id": "ALT-2026-000143",
+    "linked_at": "2026-05-24T20:57:27Z"
+  },
+  {
+    "case_alert_id": "CAL-000144",
+    "case_id": "CASE-2026-000142",
+    "alert_id": "ALT-2026-000144",
+    "linked_at": "2026-05-25T02:02:59Z"
+  },
+  {
+    "case_alert_id": "CAL-000145",
+    "case_id": "CASE-2026-000143",
+    "alert_id": "ALT-2026-000145",
+    "linked_at": "2026-05-26T14:44:54Z"
+  },
+  {
+    "case_alert_id": "CAL-000146",
+    "case_id": "CASE-2026-000144",
+    "alert_id": "ALT-2026-000146",
+    "linked_at": "2026-05-27T07:39:16Z"
+  },
+  {
+    "case_alert_id": "CAL-000147",
+    "case_id": "CASE-2026-000145",
+    "alert_id": "ALT-2026-000147",
+    "linked_at": "2026-05-27T21:57:38Z"
+  },
+  {
+    "case_alert_id": "CAL-000148",
+    "case_id": "CASE-2026-000146",
+    "alert_id": "ALT-2026-000148",
+    "linked_at": "2026-05-28T12:07:53Z"
+  },
+  {
+    "case_alert_id": "CAL-000149",
+    "case_id": "CASE-2026-000147",
+    "alert_id": "ALT-2026-000149",
+    "linked_at": "2026-05-28T16:15:20Z"
+  },
+  {
+    "case_alert_id": "CAL-000150",
+    "case_id": "CASE-2026-000148",
+    "alert_id": "ALT-2026-000150",
+    "linked_at": "2026-05-29T19:59:06Z"
+  },
+  {
+    "case_alert_id": "CAL-000151",
+    "case_id": "CASE-2026-000149",
+    "alert_id": "ALT-2026-000151",
+    "linked_at": "2026-05-30T02:32:22Z"
+  },
+  {
+    "case_alert_id": "CAL-000152",
+    "case_id": "CASE-2026-000150",
+    "alert_id": "ALT-2026-000152",
+    "linked_at": "2026-05-31T12:56:20Z"
+  },
+  {
+    "case_alert_id": "CAL-000153",
+    "case_id": "CASE-2026-000151",
+    "alert_id": "ALT-2026-000153",
+    "linked_at": "2026-05-31T18:34:23Z"
+  },
+  {
+    "case_alert_id": "CAL-000154",
+    "case_id": "CASE-2026-000152",
+    "alert_id": "ALT-2026-000154",
+    "linked_at": "2026-06-02T12:54:09Z"
+  },
+  {
+    "case_alert_id": "CAL-000155",
+    "case_id": "CASE-2026-000153",
+    "alert_id": "ALT-2026-000155",
+    "linked_at": "2026-06-03T01:36:46Z"
+  },
+  {
+    "case_alert_id": "CAL-000156",
+    "case_id": "CASE-2026-000154",
+    "alert_id": "ALT-2026-000156",
+    "linked_at": "2026-06-03T08:15:57Z"
+  },
+  {
+    "case_alert_id": "CAL-000157",
+    "case_id": "CASE-2026-000155",
+    "alert_id": "ALT-2026-000157",
+    "linked_at": "2026-06-04T00:36:23Z"
+  },
+  {
+    "case_alert_id": "CAL-000158",
+    "case_id": "CASE-2026-000156",
+    "alert_id": "ALT-2026-000158",
+    "linked_at": "2026-06-04T02:57:36Z"
+  },
+  {
+    "case_alert_id": "CAL-000159",
+    "case_id": "CASE-2026-000157",
+    "alert_id": "ALT-2026-000159",
+    "linked_at": "2026-06-05T13:12:15Z"
+  },
+  {
+    "case_alert_id": "CAL-000160",
+    "case_id": "CASE-2026-000158",
+    "alert_id": "ALT-2026-000160",
+    "linked_at": "2026-06-06T07:59:01Z"
+  },
+  {
+    "case_alert_id": "CAL-000161",
+    "case_id": "CASE-2026-000159",
+    "alert_id": "ALT-2026-000161",
+    "linked_at": "2026-06-08T16:36:04Z"
+  },
+  {
+    "case_alert_id": "CAL-000162",
+    "case_id": "CASE-2026-000160",
+    "alert_id": "ALT-2026-000162",
+    "linked_at": "2026-06-08T21:09:38Z"
+  },
+  {
+    "case_alert_id": "CAL-000163",
+    "case_id": "CASE-2026-000161",
+    "alert_id": "ALT-2026-000163",
+    "linked_at": "2026-06-09T00:34:56Z"
+  },
+  {
+    "case_alert_id": "CAL-000164",
+    "case_id": "CASE-2026-000162",
+    "alert_id": "ALT-2026-000164",
+    "linked_at": "2026-06-09T02:25:05Z"
+  },
+  {
+    "case_alert_id": "CAL-000165",
+    "case_id": "CASE-2026-000163",
+    "alert_id": "ALT-2026-000165",
+    "linked_at": "2026-06-09T11:31:10Z"
+  },
+  {
+    "case_alert_id": "CAL-000166",
+    "case_id": "CASE-2026-000164",
+    "alert_id": "ALT-2026-000166",
+    "linked_at": "2026-06-09T21:00:17Z"
+  },
+  {
+    "case_alert_id": "CAL-000167",
+    "case_id": "CASE-2026-000165",
+    "alert_id": "ALT-2026-000167",
+    "linked_at": "2026-06-09T22:26:47Z"
+  },
+  {
+    "case_alert_id": "CAL-000168",
+    "case_id": "CASE-2026-000166",
+    "alert_id": "ALT-2026-000168",
+    "linked_at": "2026-06-10T08:01:25Z"
+  },
+  {
+    "case_alert_id": "CAL-000169",
+    "case_id": "CASE-2026-000167",
+    "alert_id": "ALT-2026-000169",
+    "linked_at": "2026-06-10T12:26:54Z"
+  },
+  {
+    "case_alert_id": "CAL-000170",
+    "case_id": "CASE-2026-000168",
+    "alert_id": "ALT-2026-000170",
+    "linked_at": "2026-06-12T01:24:20Z"
+  },
+  {
+    "case_alert_id": "CAL-000171",
+    "case_id": "CASE-2026-000169",
+    "alert_id": "ALT-2026-000171",
+    "linked_at": "2026-06-12T21:19:34Z"
+  },
+  {
+    "case_alert_id": "CAL-000172",
+    "case_id": "CASE-2026-000170",
+    "alert_id": "ALT-2026-000172",
+    "linked_at": "2026-06-13T22:57:11Z"
+  },
+  {
+    "case_alert_id": "CAL-000173",
+    "case_id": "CASE-2026-000171",
+    "alert_id": "ALT-2026-000173",
+    "linked_at": "2026-06-14T05:48:48Z"
+  },
+  {
+    "case_alert_id": "CAL-000174",
+    "case_id": "CASE-2026-000172",
+    "alert_id": "ALT-2026-000174",
+    "linked_at": "2026-06-14T08:54:24Z"
+  },
+  {
+    "case_alert_id": "CAL-000175",
+    "case_id": "CASE-2026-000173",
+    "alert_id": "ALT-2026-000175",
+    "linked_at": "2026-06-14T19:47:14Z"
+  },
+  {
+    "case_alert_id": "CAL-000176",
+    "case_id": "CASE-2026-000174",
+    "alert_id": "ALT-2026-000176",
+    "linked_at": "2026-06-15T06:57:16Z"
+  },
+  {
+    "case_alert_id": "CAL-000177",
+    "case_id": "CASE-2026-000175",
+    "alert_id": "ALT-2026-000177",
+    "linked_at": "2026-06-15T10:17:26Z"
+  },
+  {
+    "case_alert_id": "CAL-000178",
+    "case_id": "CASE-2026-000176",
+    "alert_id": "ALT-2026-000178",
+    "linked_at": "2026-06-16T18:58:19Z"
+  },
+  {
+    "case_alert_id": "CAL-000179",
+    "case_id": "CASE-2026-000177",
+    "alert_id": "ALT-2026-000179",
+    "linked_at": "2026-06-17T06:16:11Z"
+  },
+  {
+    "case_alert_id": "CAL-000180",
+    "case_id": "CASE-2026-000178",
+    "alert_id": "ALT-2026-000180",
+    "linked_at": "2026-06-17T06:53:45Z"
+  },
+  {
+    "case_alert_id": "CAL-000181",
+    "case_id": "CASE-2026-000179",
+    "alert_id": "ALT-2026-000181",
+    "linked_at": "2026-06-17T13:07:33Z"
+  },
+  {
+    "case_alert_id": "CAL-000182",
+    "case_id": "CASE-2026-000180",
+    "alert_id": "ALT-2026-000182",
+    "linked_at": "2026-06-17T20:13:14Z"
+  },
+  {
+    "case_alert_id": "CAL-000183",
+    "case_id": "CASE-2026-000181",
+    "alert_id": "ALT-2026-000184",
+    "linked_at": "2026-06-18T07:05:18Z"
+  },
+  {
+    "case_alert_id": "CAL-000184",
+    "case_id": "CASE-2026-000182",
+    "alert_id": "ALT-2026-000183",
+    "linked_at": "2026-06-18T07:03:09Z"
+  },
+  {
+    "case_alert_id": "CAL-000185",
+    "case_id": "CASE-2026-000183",
+    "alert_id": "ALT-2026-000185",
+    "linked_at": "2026-06-18T15:34:44Z"
+  },
+  {
+    "case_alert_id": "CAL-000186",
+    "case_id": "CASE-2026-000184",
+    "alert_id": "ALT-2026-000186",
+    "linked_at": "2026-06-18T16:16:21Z"
+  },
+  {
+    "case_alert_id": "CAL-000187",
+    "case_id": "CASE-2026-000185",
+    "alert_id": "ALT-2026-000187",
+    "linked_at": "2026-06-20T00:47:25Z"
+  },
+  {
+    "case_alert_id": "CAL-000188",
+    "case_id": "CASE-2026-000186",
+    "alert_id": "ALT-2026-000188",
+    "linked_at": "2026-06-20T02:25:14Z"
+  },
+  {
+    "case_alert_id": "CAL-000189",
+    "case_id": "CASE-2026-000187",
+    "alert_id": "ALT-2026-000189",
+    "linked_at": "2026-06-20T19:32:21Z"
+  },
+  {
+    "case_alert_id": "CAL-000190",
+    "case_id": "CASE-2026-000188",
+    "alert_id": "ALT-2026-000190",
+    "linked_at": "2026-06-21T10:45:47Z"
+  },
+  {
+    "case_alert_id": "CAL-000191",
+    "case_id": "CASE-2026-000189",
+    "alert_id": "ALT-2026-000191",
+    "linked_at": "2026-06-21T15:54:01Z"
+  },
+  {
+    "case_alert_id": "CAL-000192",
+    "case_id": "CASE-2026-000190",
+    "alert_id": "ALT-2026-000192",
+    "linked_at": "2026-06-22T12:04:49Z"
+  },
+  {
+    "case_alert_id": "CAL-000193",
+    "case_id": "CASE-2026-000191",
+    "alert_id": "ALT-2026-000193",
+    "linked_at": "2026-06-22T16:25:01Z"
+  },
+  {
+    "case_alert_id": "CAL-000194",
+    "case_id": "CASE-2026-000192",
+    "alert_id": "ALT-2026-000194",
+    "linked_at": "2026-06-22T20:22:28Z"
+  },
+  {
+    "case_alert_id": "CAL-000195",
+    "case_id": "CASE-2026-000193",
+    "alert_id": "ALT-2026-000195",
+    "linked_at": "2026-06-23T08:13:08Z"
+  },
+  {
+    "case_alert_id": "CAL-000196",
+    "case_id": "CASE-2026-000194",
+    "alert_id": "ALT-2026-000196",
+    "linked_at": "2026-06-23T11:44:45Z"
+  },
+  {
+    "case_alert_id": "CAL-000197",
+    "case_id": "CASE-2026-000195",
+    "alert_id": "ALT-2026-000197",
+    "linked_at": "2026-06-23T16:32:54Z"
+  },
+  {
+    "case_alert_id": "CAL-000198",
+    "case_id": "CASE-2026-000196",
+    "alert_id": "ALT-2026-000198",
+    "linked_at": "2026-06-23T20:06:34Z"
+  },
+  {
+    "case_alert_id": "CAL-000199",
+    "case_id": "CASE-2026-000197",
+    "alert_id": "ALT-2026-000199",
+    "linked_at": "2026-06-24T12:43:16Z"
+  },
+  {
+    "case_alert_id": "CAL-000200",
+    "case_id": "CASE-2026-000198",
+    "alert_id": "ALT-2026-000200",
+    "linked_at": "2026-06-25T07:31:45Z"
+  },
+  {
+    "case_alert_id": "CAL-000201",
+    "case_id": "CASE-2026-000199",
+    "alert_id": "ALT-2026-000201",
+    "linked_at": "2026-06-25T17:45:07Z"
+  },
+  {
+    "case_alert_id": "CAL-000202",
+    "case_id": "CASE-2026-000200",
+    "alert_id": "ALT-2026-000202",
+    "linked_at": "2026-06-25T18:16:18Z"
+  },
+  {
+    "case_alert_id": "CAL-000203",
+    "case_id": "CASE-2026-000201",
+    "alert_id": "ALT-2026-000203",
+    "linked_at": "2026-06-26T11:35:58Z"
+  },
+  {
+    "case_alert_id": "CAL-000204",
+    "case_id": "CASE-2026-000202",
+    "alert_id": "ALT-2026-000204",
+    "linked_at": "2026-06-26T14:55:37Z"
+  },
+  {
+    "case_alert_id": "CAL-000205",
+    "case_id": "CASE-2026-000203",
+    "alert_id": "ALT-2026-000205",
+    "linked_at": "2026-06-26T17:25:20Z"
+  },
+  {
+    "case_alert_id": "CAL-000206",
+    "case_id": "CASE-2026-000204",
+    "alert_id": "ALT-2026-000206",
+    "linked_at": "2026-06-26T18:19:33Z"
+  },
+  {
+    "case_alert_id": "CAL-000207",
+    "case_id": "CASE-2026-000205",
+    "alert_id": "ALT-2026-000207",
+    "linked_at": "2026-06-28T01:56:09Z"
+  },
+  {
+    "case_alert_id": "CAL-000208",
+    "case_id": "CASE-2026-000206",
+    "alert_id": "ALT-2026-000208",
+    "linked_at": "2026-06-28T14:25:53Z"
+  },
+  {
+    "case_alert_id": "CAL-000209",
+    "case_id": "CASE-2026-000207",
+    "alert_id": "ALT-2026-000209",
+    "linked_at": "2026-06-29T01:43:51Z"
+  },
+  {
+    "case_alert_id": "CAL-000210",
+    "case_id": "CASE-2026-000208",
+    "alert_id": "ALT-2026-000210",
+    "linked_at": "2026-06-29T13:05:29Z"
+  },
+  {
+    "case_alert_id": "CAL-000211",
+    "case_id": "CASE-2026-000209",
+    "alert_id": "ALT-2026-000211",
+    "linked_at": "2026-06-29T14:52:58Z"
+  },
+  {
+    "case_alert_id": "CAL-000212",
+    "case_id": "CASE-2026-000210",
+    "alert_id": "ALT-2026-000212",
+    "linked_at": "2026-06-29T18:55:28Z"
+  },
+  {
+    "case_alert_id": "CAL-000213",
+    "case_id": "CASE-2026-000211",
+    "alert_id": "ALT-2026-000213",
+    "linked_at": "2026-06-29T20:18:51Z"
+  },
+  {
+    "case_alert_id": "CAL-000214",
+    "case_id": "CASE-2026-000212",
+    "alert_id": "ALT-2026-000214",
+    "linked_at": "2026-06-30T20:20:22Z"
+  },
+  {
+    "case_alert_id": "CAL-000215",
+    "case_id": "CASE-2026-000213",
+    "alert_id": "ALT-2026-000216",
+    "linked_at": "2026-07-01T00:34:03Z"
+  },
+  {
+    "case_alert_id": "CAL-000216",
+    "case_id": "CASE-2026-000214",
+    "alert_id": "ALT-2026-000215",
+    "linked_at": "2026-07-01T00:51:43Z"
+  },
+  {
+    "case_alert_id": "CAL-000217",
+    "case_id": "CASE-2026-000215",
+    "alert_id": "ALT-2026-000217",
+    "linked_at": "2026-07-01T05:24:09Z"
+  },
+  {
+    "case_alert_id": "CAL-000218",
+    "case_id": "CASE-2026-000216",
+    "alert_id": "ALT-2026-000218",
+    "linked_at": "2026-07-01T06:54:57Z"
+  },
+  {
+    "case_alert_id": "CAL-000219",
+    "case_id": "CASE-2026-000217",
+    "alert_id": "ALT-2026-000219",
+    "linked_at": "2026-07-01T08:41:30Z"
+  },
+  {
+    "case_alert_id": "CAL-000220",
+    "case_id": "CASE-2026-000218",
+    "alert_id": "ALT-2026-000220",
+    "linked_at": "2026-07-01T09:29:19Z"
+  },
+  {
+    "case_alert_id": "CAL-000221",
+    "case_id": "CASE-2026-000219",
+    "alert_id": "ALT-2026-000221",
+    "linked_at": "2026-07-01T14:50:15Z"
+  },
+  {
+    "case_alert_id": "CAL-000222",
+    "case_id": "CASE-2026-000220",
+    "alert_id": "ALT-2026-000222",
+    "linked_at": "2026-07-01T18:36:29Z"
+  },
+  {
+    "case_alert_id": "CAL-000223",
+    "case_id": "CASE-2026-000221",
+    "alert_id": "ALT-2026-000223",
+    "linked_at": "2026-07-03T00:11:20Z"
+  },
+  {
+    "case_alert_id": "CAL-000224",
+    "case_id": "CASE-2026-000222",
+    "alert_id": "ALT-2026-000224",
+    "linked_at": "2026-07-03T09:25:23Z"
+  },
+  {
+    "case_alert_id": "CAL-000225",
+    "case_id": "CASE-2026-000223",
+    "alert_id": "ALT-2026-000225",
+    "linked_at": "2026-07-03T12:28:57Z"
+  },
+  {
+    "case_alert_id": "CAL-000226",
+    "case_id": "CASE-2026-000224",
+    "alert_id": "ALT-2026-000226",
+    "linked_at": "2026-07-03T21:44:26Z"
+  },
+  {
+    "case_alert_id": "CAL-000227",
+    "case_id": "CASE-2026-000225",
+    "alert_id": "ALT-2026-000227",
+    "linked_at": "2026-07-04T07:45:28Z"
+  },
+  {
+    "case_alert_id": "CAL-000228",
+    "case_id": "CASE-2026-000226",
+    "alert_id": "ALT-2026-000228",
+    "linked_at": "2026-07-04T11:17:41Z"
+  },
+  {
+    "case_alert_id": "CAL-000229",
+    "case_id": "CASE-2026-000227",
+    "alert_id": "ALT-2026-000229",
+    "linked_at": "2026-07-04T14:15:56Z"
+  },
+  {
+    "case_alert_id": "CAL-000230",
+    "case_id": "CASE-2026-000228",
+    "alert_id": "ALT-2026-000230",
+    "linked_at": "2026-07-04T23:05:39Z"
+  },
+  {
+    "case_alert_id": "CAL-000231",
+    "case_id": "CASE-2026-000229",
+    "alert_id": "ALT-2026-000231",
+    "linked_at": "2026-07-05T00:41:37Z"
+  },
+  {
+    "case_alert_id": "CAL-000232",
+    "case_id": "CASE-2026-000230",
+    "alert_id": "ALT-2026-000232",
+    "linked_at": "2026-07-05T15:43:47Z"
+  },
+  {
+    "case_alert_id": "CAL-000233",
+    "case_id": "CASE-2026-000231",
+    "alert_id": "ALT-2026-000233",
+    "linked_at": "2026-07-05T17:54:12Z"
+  },
+  {
+    "case_alert_id": "CAL-000234",
+    "case_id": "CASE-2026-000232",
+    "alert_id": "ALT-2026-000234",
+    "linked_at": "2026-07-06T15:05:29Z"
+  },
+  {
+    "case_alert_id": "CAL-000235",
+    "case_id": "CASE-2026-000233",
+    "alert_id": "ALT-2026-000235",
+    "linked_at": "2026-07-06T21:03:42Z"
+  },
+  {
+    "case_alert_id": "CAL-000236",
+    "case_id": "CASE-2026-000234",
+    "alert_id": "ALT-2026-000236",
+    "linked_at": "2026-07-06T23:43:15Z"
+  },
+  {
+    "case_alert_id": "CAL-000237",
+    "case_id": "CASE-2026-000235",
+    "alert_id": "ALT-2026-000237",
+    "linked_at": "2026-07-07T17:37:56Z"
+  },
+  {
+    "case_alert_id": "CAL-000238",
+    "case_id": "CASE-2026-000236",
+    "alert_id": "ALT-2026-000238",
+    "linked_at": "2026-07-08T10:14:40Z"
+  },
+  {
+    "case_alert_id": "CAL-000239",
+    "case_id": "CASE-2026-000237",
+    "alert_id": "ALT-2026-000239",
+    "linked_at": "2026-07-08T10:21:28Z"
+  },
+  {
+    "case_alert_id": "CAL-000240",
+    "case_id": "CASE-2026-000238",
+    "alert_id": "ALT-2026-000240",
+    "linked_at": "2026-07-08T14:42:09Z"
+  },
+  {
+    "case_alert_id": "CAL-000241",
+    "case_id": "CASE-2026-000239",
+    "alert_id": "ALT-2026-000241",
+    "linked_at": "2026-07-08T18:48:38Z"
+  },
+  {
+    "case_alert_id": "CAL-000242",
+    "case_id": "CASE-2026-000240",
+    "alert_id": "ALT-2026-000242",
+    "linked_at": "2026-07-08T20:34:14Z"
+  },
+  {
+    "case_alert_id": "CAL-000243",
+    "case_id": "CASE-2026-000241",
+    "alert_id": "ALT-2026-000243",
+    "linked_at": "2026-07-09T16:47:41Z"
+  },
+  {
+    "case_alert_id": "CAL-000244",
+    "case_id": "CASE-2026-000242",
+    "alert_id": "ALT-2026-000244",
+    "linked_at": "2026-07-09T18:18:58Z"
+  },
+  {
+    "case_alert_id": "CAL-000245",
+    "case_id": "CASE-2026-000243",
+    "alert_id": "ALT-2026-000245",
+    "linked_at": "2026-07-09T20:45:13Z"
+  },
+  {
+    "case_alert_id": "CAL-000246",
+    "case_id": "CASE-2026-000244",
+    "alert_id": "ALT-2026-000246",
+    "linked_at": "2026-07-09T22:02:13Z"
+  },
+  {
+    "case_alert_id": "CAL-000247",
+    "case_id": "CASE-2026-000245",
+    "alert_id": "ALT-2026-000247",
+    "linked_at": "2026-07-09T23:29:25Z"
+  },
+  {
+    "case_alert_id": "CAL-000248",
+    "case_id": "CASE-2026-000246",
+    "alert_id": "ALT-2026-000248",
+    "linked_at": "2026-07-10T07:40:23Z"
+  },
+  {
+    "case_alert_id": "CAL-000249",
+    "case_id": "CASE-2026-000247",
+    "alert_id": "ALT-2026-000249",
+    "linked_at": "2026-07-10T11:48:30Z"
+  },
+  {
+    "case_alert_id": "CAL-000250",
+    "case_id": "CASE-2026-000247",
+    "alert_id": "ALT-2026-000250",
+    "linked_at": "2026-07-10T11:48:30Z"
+  },
+  {
+    "case_alert_id": "CAL-000251",
+    "case_id": "CASE-2026-000248",
+    "alert_id": "ALT-2026-000251",
+    "linked_at": "2026-07-10T12:15:29Z"
+  },
+  {
+    "case_alert_id": "CAL-000252",
+    "case_id": "CASE-2026-000249",
+    "alert_id": "ALT-2026-000252",
+    "linked_at": "2026-07-10T15:18:23Z"
+  },
+  {
+    "case_alert_id": "CAL-000253",
+    "case_id": "CASE-2026-000250",
+    "alert_id": "ALT-2026-000253",
+    "linked_at": "2026-07-10T16:15:15Z"
+  },
+  {
+    "case_alert_id": "CAL-000254",
+    "case_id": "CASE-2026-000251",
+    "alert_id": "ALT-2026-000254",
+    "linked_at": "2026-07-11T14:10:07Z"
+  },
+  {
+    "case_alert_id": "CAL-000255",
+    "case_id": "CASE-2026-000252",
+    "alert_id": "ALT-2026-000255",
+    "linked_at": "2026-07-11T22:54:10Z"
+  },
+  {
+    "case_alert_id": "CAL-000256",
+    "case_id": "CASE-2026-000253",
+    "alert_id": "ALT-2026-000256",
+    "linked_at": "2026-07-12T02:10:05Z"
+  },
+  {
+    "case_alert_id": "CAL-000257",
+    "case_id": "CASE-2026-000254",
+    "alert_id": "ALT-2026-000257",
+    "linked_at": "2026-07-12T08:05:53Z"
+  },
+  {
+    "case_alert_id": "CAL-000258",
+    "case_id": "CASE-2026-000255",
+    "alert_id": "ALT-2026-000258",
+    "linked_at": "2026-07-12T09:42:06Z"
+  },
+  {
+    "case_alert_id": "CAL-000259",
+    "case_id": "CASE-2026-000256",
+    "alert_id": "ALT-2026-000259",
+    "linked_at": "2026-07-12T19:40:39Z"
+  },
+  {
+    "case_alert_id": "CAL-000260",
+    "case_id": "CASE-2026-000257",
+    "alert_id": "ALT-2026-000260",
+    "linked_at": "2026-07-13T04:15:05Z"
+  },
+  {
+    "case_alert_id": "CAL-000261",
+    "case_id": "CASE-2026-000258",
+    "alert_id": "ALT-2026-000261",
+    "linked_at": "2026-07-13T08:55:40Z"
+  },
+  {
+    "case_alert_id": "CAL-000262",
+    "case_id": "CASE-2026-000259",
+    "alert_id": "ALT-2026-000262",
+    "linked_at": "2026-07-13T13:00:34Z"
+  },
+  {
+    "case_alert_id": "CAL-000263",
+    "case_id": "CASE-2026-000260",
+    "alert_id": "ALT-2026-000263",
+    "linked_at": "2026-07-13T18:24:32Z"
+  },
+  {
+    "case_alert_id": "CAL-000264",
+    "case_id": "CASE-2026-000261",
+    "alert_id": "ALT-2026-000264",
+    "linked_at": "2026-07-14T00:12:45Z"
+  },
+  {
+    "case_alert_id": "CAL-000265",
+    "case_id": "CASE-2026-000262",
+    "alert_id": "ALT-2026-000265",
+    "linked_at": "2026-07-14T17:06:32Z"
+  },
+  {
+    "case_alert_id": "CAL-000266",
+    "case_id": "CASE-2026-000263",
+    "alert_id": "ALT-2026-000266",
+    "linked_at": "2026-07-14T18:10:02Z"
+  },
+  {
+    "case_alert_id": "CAL-000267",
+    "case_id": "CASE-2026-000264",
+    "alert_id": "ALT-2026-000267",
+    "linked_at": "2026-07-14T20:50:13Z"
+  },
+  {
+    "case_alert_id": "CAL-000268",
+    "case_id": "CASE-2026-000265",
+    "alert_id": "ALT-2026-000268",
+    "linked_at": "2026-07-15T01:25:46Z"
+  },
+  {
+    "case_alert_id": "CAL-000269",
+    "case_id": "CASE-2026-000266",
+    "alert_id": "ALT-2026-000269",
+    "linked_at": "2026-07-15T11:51:41Z"
+  },
+  {
+    "case_alert_id": "CAL-000270",
+    "case_id": "CASE-2026-000267",
+    "alert_id": "ALT-2026-000270",
+    "linked_at": "2026-07-16T03:00:24Z"
+  },
+  {
+    "case_alert_id": "CAL-000271",
+    "case_id": "CASE-2026-000268",
+    "alert_id": "ALT-2026-000271",
+    "linked_at": "2026-07-16T08:51:08Z"
+  },
+  {
+    "case_alert_id": "CAL-000272",
+    "case_id": "CASE-2026-000269",
+    "alert_id": "ALT-2026-000272",
+    "linked_at": "2026-07-16T11:17:45Z"
+  },
+  {
+    "case_alert_id": "CAL-000273",
+    "case_id": "CASE-2026-000270",
+    "alert_id": "ALT-2026-000273",
+    "linked_at": "2026-07-16T13:06:25Z"
+  },
+  {
+    "case_alert_id": "CAL-000274",
+    "case_id": "CASE-2026-000271",
+    "alert_id": "ALT-2026-000274",
+    "linked_at": "2026-07-16T17:13:10Z"
+  },
+  {
+    "case_alert_id": "CAL-000275",
+    "case_id": "CASE-2026-000272",
+    "alert_id": "ALT-2026-000275",
+    "linked_at": "2026-07-17T03:23:18Z"
+  },
+  {
+    "case_alert_id": "CAL-000276",
+    "case_id": "CASE-2026-000273",
+    "alert_id": "ALT-2026-000276",
+    "linked_at": "2026-07-17T06:16:15Z"
+  },
+  {
+    "case_alert_id": "CAL-000277",
+    "case_id": "CASE-2026-000274",
+    "alert_id": "ALT-2026-000277",
+    "linked_at": "2026-07-17T09:17:07Z"
+  },
+  {
+    "case_alert_id": "CAL-000278",
+    "case_id": "CASE-2026-000275",
+    "alert_id": "ALT-2026-000278",
+    "linked_at": "2026-07-17T13:28:54Z"
+  },
+  {
+    "case_alert_id": "CAL-000279",
+    "case_id": "CASE-2026-000276",
+    "alert_id": "ALT-2026-000279",
+    "linked_at": "2026-07-18T04:15:58Z"
+  },
+  {
+    "case_alert_id": "CAL-000280",
+    "case_id": "CASE-2026-000277",
+    "alert_id": "ALT-2026-000280",
+    "linked_at": "2026-07-18T13:56:26Z"
+  },
+  {
+    "case_alert_id": "CAL-000281",
+    "case_id": "CASE-2026-000278",
+    "alert_id": "ALT-2026-000281",
+    "linked_at": "2026-07-19T06:51:55Z"
+  },
+  {
+    "case_alert_id": "CAL-000282",
+    "case_id": "CASE-2026-000279",
+    "alert_id": "ALT-2026-000282",
+    "linked_at": "2026-07-19T10:19:03Z"
+  },
+  {
+    "case_alert_id": "CAL-000283",
+    "case_id": "CASE-2026-000280",
+    "alert_id": "ALT-2026-000283",
+    "linked_at": "2026-07-19T11:20:08Z"
+  },
+  {
+    "case_alert_id": "CAL-000284",
+    "case_id": "CASE-2026-000281",
+    "alert_id": "ALT-2026-000284",
+    "linked_at": "2026-07-19T18:09:00Z"
+  },
+  {
+    "case_alert_id": "CAL-000285",
+    "case_id": "CASE-2026-000282",
+    "alert_id": "ALT-2026-000285",
+    "linked_at": "2026-07-19T23:56:39Z"
+  },
+  {
+    "case_alert_id": "CAL-000286",
+    "case_id": "CASE-2026-000283",
+    "alert_id": "ALT-2026-000286",
+    "linked_at": "2026-07-20T16:26:58Z"
+  },
+  {
+    "case_alert_id": "CAL-000287",
+    "case_id": "CASE-2026-000284",
+    "alert_id": "ALT-2026-000287",
+    "linked_at": "2026-07-20T17:53:31Z"
+  },
+  {
+    "case_alert_id": "CAL-000288",
+    "case_id": "CASE-2026-000285",
+    "alert_id": "ALT-2026-000288",
+    "linked_at": "2026-07-21T04:10:45Z"
+  },
+  {
+    "case_alert_id": "CAL-000289",
+    "case_id": "CASE-2026-000286",
+    "alert_id": "ALT-2026-000289",
+    "linked_at": "2026-07-21T15:37:54Z"
+  },
+  {
+    "case_alert_id": "CAL-000290",
+    "case_id": "CASE-2026-000287",
+    "alert_id": "ALT-2026-000290",
+    "linked_at": "2026-07-21T18:00:18Z"
+  },
+  {
+    "case_alert_id": "CAL-000291",
+    "case_id": "CASE-2026-000288",
+    "alert_id": "ALT-2026-000291",
+    "linked_at": "2026-07-21T19:04:57Z"
+  },
+  {
+    "case_alert_id": "CAL-000292",
+    "case_id": "CASE-2026-000289",
+    "alert_id": "ALT-2026-000292",
+    "linked_at": "2026-07-21T21:11:17Z"
+  },
+  {
+    "case_alert_id": "CAL-000293",
+    "case_id": "CASE-2026-000290",
+    "alert_id": "ALT-2026-000293",
+    "linked_at": "2026-07-22T10:34:05Z"
+  },
+  {
+    "case_alert_id": "CAL-000294",
+    "case_id": "CASE-2026-000291",
+    "alert_id": "ALT-2026-000294",
+    "linked_at": "2026-07-23T02:43:45Z"
+  },
+  {
+    "case_alert_id": "CAL-000295",
+    "case_id": "CASE-2026-000292",
+    "alert_id": "ALT-2026-000295",
+    "linked_at": "2026-07-23T03:32:41Z"
+  },
+  {
+    "case_alert_id": "CAL-000296",
+    "case_id": "CASE-2026-000293",
+    "alert_id": "ALT-2026-000296",
+    "linked_at": "2026-07-23T10:28:38Z"
+  },
+  {
+    "case_alert_id": "CAL-000297",
+    "case_id": "CASE-2026-000294",
+    "alert_id": "ALT-2026-000297",
+    "linked_at": "2026-07-23T13:06:06Z"
+  },
+  {
+    "case_alert_id": "CAL-000298",
+    "case_id": "CASE-2026-000295",
+    "alert_id": "ALT-2026-000298",
+    "linked_at": "2026-07-23T14:16:18Z"
+  },
+  {
+    "case_alert_id": "CAL-000299",
+    "case_id": "CASE-2026-000296",
+    "alert_id": "ALT-2026-000299",
+    "linked_at": "2026-07-23T15:27:24Z"
+  },
+  {
+    "case_alert_id": "CAL-000300",
+    "case_id": "CASE-2026-000297",
+    "alert_id": "ALT-2026-000300",
+    "linked_at": "2026-07-23T20:59:53Z"
+  },
+  {
+    "case_alert_id": "CAL-000301",
+    "case_id": "CASE-2026-000298",
+    "alert_id": "ALT-2026-000301",
+    "linked_at": "2026-07-23T23:43:58Z"
+  },
+  {
+    "case_alert_id": "CAL-000302",
+    "case_id": "CASE-2026-000299",
+    "alert_id": "ALT-2026-000302",
+    "linked_at": "2026-07-24T08:19:42Z"
+  },
+  {
+    "case_alert_id": "CAL-000303",
+    "case_id": "CASE-2026-000300",
+    "alert_id": "ALT-2026-000303",
+    "linked_at": "2026-07-24T09:01:38Z"
+  },
+  {
+    "case_alert_id": "CAL-000304",
+    "case_id": "CASE-2026-000301",
+    "alert_id": "ALT-2026-000304",
+    "linked_at": "2026-07-24T15:18:22Z"
+  },
+  {
+    "case_alert_id": "CAL-000305",
+    "case_id": "CASE-2026-000301",
+    "alert_id": "ALT-2026-000323",
+    "linked_at": "2026-07-29T08:56:23Z"
+  },
+  {
+    "case_alert_id": "CAL-000306",
+    "case_id": "CASE-2026-000302",
+    "alert_id": "ALT-2026-000305",
+    "linked_at": "2026-07-24T17:02:42Z"
+  },
+  {
+    "case_alert_id": "CAL-000307",
+    "case_id": "CASE-2026-000303",
+    "alert_id": "ALT-2026-000306",
+    "linked_at": "2026-07-24T17:37:04Z"
+  },
+  {
+    "case_alert_id": "CAL-000308",
+    "case_id": "CASE-2026-000304",
+    "alert_id": "ALT-2026-000307",
+    "linked_at": "2026-07-25T16:49:07Z"
+  },
+  {
+    "case_alert_id": "CAL-000309",
+    "case_id": "CASE-2026-000305",
+    "alert_id": "ALT-2026-000308",
+    "linked_at": "2026-07-25T20:25:16Z"
+  },
+  {
+    "case_alert_id": "CAL-000310",
+    "case_id": "CASE-2026-000306",
+    "alert_id": "ALT-2026-000309",
+    "linked_at": "2026-07-26T03:28:32Z"
+  },
+  {
+    "case_alert_id": "CAL-000311",
+    "case_id": "CASE-2026-000307",
+    "alert_id": "ALT-2026-000310",
+    "linked_at": "2026-07-26T06:37:45Z"
+  },
+  {
+    "case_alert_id": "CAL-000312",
+    "case_id": "CASE-2026-000308",
+    "alert_id": "ALT-2026-000311",
+    "linked_at": "2026-07-26T07:54:35Z"
+  },
+  {
+    "case_alert_id": "CAL-000313",
+    "case_id": "CASE-2026-000309",
+    "alert_id": "ALT-2026-000312",
+    "linked_at": "2026-07-26T17:31:37Z"
+  },
+  {
+    "case_alert_id": "CAL-000314",
+    "case_id": "CASE-2026-000310",
+    "alert_id": "ALT-2026-000313",
+    "linked_at": "2026-07-27T02:10:58Z"
+  },
+  {
+    "case_alert_id": "CAL-000315",
+    "case_id": "CASE-2026-000311",
+    "alert_id": "ALT-2026-000314",
+    "linked_at": "2026-07-27T03:48:29Z"
+  },
+  {
+    "case_alert_id": "CAL-000316",
+    "case_id": "CASE-2026-000312",
+    "alert_id": "ALT-2026-000315",
+    "linked_at": "2026-07-27T21:59:39Z"
+  },
+  {
+    "case_alert_id": "CAL-000317",
+    "case_id": "CASE-2026-000313",
+    "alert_id": "ALT-2026-000316",
+    "linked_at": "2026-07-27T22:36:37Z"
+  },
+  {
+    "case_alert_id": "CAL-000318",
+    "case_id": "CASE-2026-000314",
+    "alert_id": "ALT-2026-000317",
+    "linked_at": "2026-07-28T02:50:49Z"
+  },
+  {
+    "case_alert_id": "CAL-000319",
+    "case_id": "CASE-2026-000315",
+    "alert_id": "ALT-2026-000318",
+    "linked_at": "2026-07-28T06:29:36Z"
+  },
+  {
+    "case_alert_id": "CAL-000320",
+    "case_id": "CASE-2026-000316",
+    "alert_id": "ALT-2026-000319",
+    "linked_at": "2026-07-28T11:32:11Z"
+  },
+  {
+    "case_alert_id": "CAL-000321",
+    "case_id": "CASE-2026-000317",
+    "alert_id": "ALT-2026-000320",
+    "linked_at": "2026-07-28T19:46:42Z"
+  },
+  {
+    "case_alert_id": "CAL-000322",
+    "case_id": "CASE-2026-000318",
+    "alert_id": "ALT-2026-000321",
+    "linked_at": "2026-07-28T19:47:31Z"
+  },
+  {
+    "case_alert_id": "CAL-000323",
+    "case_id": "CASE-2026-000319",
+    "alert_id": "ALT-2026-000322",
+    "linked_at": "2026-07-29T00:01:17Z"
+  },
+  {
+    "case_alert_id": "CAL-000324",
+    "case_id": "CASE-2026-000320",
+    "alert_id": "ALT-2026-000324",
+    "linked_at": "2026-07-29T09:55:02Z"
+  },
+  {
+    "case_alert_id": "CAL-000325",
+    "case_id": "CASE-2026-000321",
+    "alert_id": "ALT-2026-000325",
+    "linked_at": "2026-07-29T10:45:55Z"
+  },
+  {
+    "case_alert_id": "CAL-000326",
+    "case_id": "CASE-2026-000322",
+    "alert_id": "ALT-2026-000326",
+    "linked_at": "2026-07-29T11:09:47Z"
+  },
+  {
+    "case_alert_id": "CAL-000327",
+    "case_id": "CASE-2026-000323",
+    "alert_id": "ALT-2026-000327",
+    "linked_at": "2026-07-29T15:37:01Z"
+  },
+  {
+    "case_alert_id": "CAL-000328",
+    "case_id": "CASE-2026-000324",
+    "alert_id": "ALT-2026-000328",
+    "linked_at": "2026-07-29T17:10:37Z"
+  },
+  {
+    "case_alert_id": "CAL-000329",
+    "case_id": "CASE-2026-000325",
+    "alert_id": "ALT-2026-000329",
+    "linked_at": "2026-07-30T19:57:36Z"
+  },
+  {
+    "case_alert_id": "CAL-000330",
+    "case_id": "CASE-2026-000326",
+    "alert_id": "ALT-2026-000330",
+    "linked_at": "2026-07-30T20:01:34Z"
+  },
+  {
+    "case_alert_id": "CAL-000331",
+    "case_id": "CASE-2026-000327",
+    "alert_id": "ALT-2026-000331",
+    "linked_at": "2026-07-30T23:25:15Z"
+  },
+  {
+    "case_alert_id": "CAL-000332",
+    "case_id": "CASE-2026-000328",
+    "alert_id": "ALT-2026-000332",
+    "linked_at": "2026-07-31T01:20:58Z"
+  },
+  {
+    "case_alert_id": "CAL-000333",
+    "case_id": "CASE-2026-000329",
+    "alert_id": "ALT-2026-000333",
+    "linked_at": "2026-07-31T01:39:36Z"
+  },
+  {
+    "case_alert_id": "CAL-000334",
+    "case_id": "CASE-2026-000330",
+    "alert_id": "ALT-2026-000334",
+    "linked_at": "2026-07-31T03:38:05Z"
+  },
+  {
+    "case_alert_id": "CAL-000335",
+    "case_id": "CASE-2026-000331",
+    "alert_id": "ALT-2026-000335",
+    "linked_at": "2026-07-31T07:35:40Z"
+  },
+  {
+    "case_alert_id": "CAL-000336",
+    "case_id": "CASE-2026-000332",
+    "alert_id": "ALT-2026-000336",
+    "linked_at": "2026-07-31T13:37:53Z"
+  },
+  {
+    "case_alert_id": "CAL-000337",
+    "case_id": "CASE-2026-000333",
+    "alert_id": "ALT-2026-000337",
+    "linked_at": "2026-07-31T14:33:58Z"
+  },
+  {
+    "case_alert_id": "CAL-000338",
+    "case_id": "CASE-2026-000334",
+    "alert_id": "ALT-2026-000338",
+    "linked_at": "2026-07-31T15:04:00Z"
+  },
+  {
+    "case_alert_id": "CAL-000339",
+    "case_id": "CASE-2026-000335",
+    "alert_id": "ALT-2026-000339",
+    "linked_at": "2026-07-31T18:37:23Z"
+  },
+  {
+    "case_alert_id": "CAL-000340",
+    "case_id": "CASE-2026-000336",
+    "alert_id": "ALT-2026-000340",
+    "linked_at": "2026-08-01T02:39:02Z"
+  },
+  {
+    "case_alert_id": "CAL-000341",
+    "case_id": "CASE-2026-000337",
+    "alert_id": "ALT-2026-000341",
+    "linked_at": "2026-08-01T06:30:11Z"
+  },
+  {
+    "case_alert_id": "CAL-000342",
+    "case_id": "CASE-2026-000338",
+    "alert_id": "ALT-2026-000342",
+    "linked_at": "2026-08-01T14:23:03Z"
+  },
+  {
+    "case_alert_id": "CAL-000343",
+    "case_id": "CASE-2026-000339",
+    "alert_id": "ALT-2026-000343",
+    "linked_at": "2026-08-02T02:16:00Z"
+  },
+  {
+    "case_alert_id": "CAL-000344",
+    "case_id": "CASE-2026-000340",
+    "alert_id": "ALT-2026-000344",
+    "linked_at": "2026-08-02T09:22:50Z"
+  },
+  {
+    "case_alert_id": "CAL-000345",
+    "case_id": "CASE-2026-000341",
+    "alert_id": "ALT-2026-000345",
+    "linked_at": "2026-08-02T16:12:57Z"
+  },
+  {
+    "case_alert_id": "CAL-000346",
+    "case_id": "CASE-2026-000342",
+    "alert_id": "ALT-2026-000346",
+    "linked_at": "2026-08-02T18:52:02Z"
+  },
+  {
+    "case_alert_id": "CAL-000347",
+    "case_id": "CASE-2026-000343",
+    "alert_id": "ALT-2026-000347",
+    "linked_at": "2026-08-02T19:23:30Z"
+  },
+  {
+    "case_alert_id": "CAL-000348",
+    "case_id": "CASE-2026-000344",
+    "alert_id": "ALT-2026-000348",
+    "linked_at": "2026-08-03T09:20:41Z"
+  },
+  {
+    "case_alert_id": "CAL-000349",
+    "case_id": "CASE-2026-000345",
+    "alert_id": "ALT-2026-000349",
+    "linked_at": "2026-08-03T11:33:35Z"
+  },
+  {
+    "case_alert_id": "CAL-000350",
+    "case_id": "CASE-2026-000346",
+    "alert_id": "ALT-2026-000350",
+    "linked_at": "2026-08-04T02:49:29Z"
+  },
+  {
+    "case_alert_id": "CAL-000351",
+    "case_id": "CASE-2026-000347",
+    "alert_id": "ALT-2026-000351",
+    "linked_at": "2026-08-04T13:52:58Z"
+  },
+  {
+    "case_alert_id": "CAL-000352",
+    "case_id": "CASE-2026-000348",
+    "alert_id": "ALT-2026-000352",
+    "linked_at": "2026-08-04T14:40:32Z"
+  },
+  {
+    "case_alert_id": "CAL-000353",
+    "case_id": "CASE-2026-000349",
+    "alert_id": "ALT-2026-000353",
+    "linked_at": "2026-08-04T16:33:03Z"
+  },
+  {
+    "case_alert_id": "CAL-000354",
+    "case_id": "CASE-2026-000350",
+    "alert_id": "ALT-2026-000354",
+    "linked_at": "2026-08-04T23:27:25Z"
+  },
+  {
+    "case_alert_id": "CAL-000355",
+    "case_id": "CASE-2026-000351",
+    "alert_id": "ALT-2026-000355",
+    "linked_at": "2026-08-05T00:48:45Z"
+  },
+  {
+    "case_alert_id": "CAL-000356",
+    "case_id": "CASE-2026-000352",
+    "alert_id": "ALT-2026-000356",
+    "linked_at": "2026-08-06T03:13:40Z"
+  },
+  {
+    "case_alert_id": "CAL-000357",
+    "case_id": "CASE-2026-000353",
+    "alert_id": "ALT-2026-000357",
+    "linked_at": "2026-08-06T12:10:43Z"
+  },
+  {
+    "case_alert_id": "CAL-000358",
+    "case_id": "CASE-2026-000354",
+    "alert_id": "ALT-2026-000358",
+    "linked_at": "2026-08-06T21:22:25Z"
+  },
+  {
+    "case_alert_id": "CAL-000359",
+    "case_id": "CASE-2026-000355",
+    "alert_id": "ALT-2026-000359",
+    "linked_at": "2026-08-06T22:09:56Z"
+  },
+  {
+    "case_alert_id": "CAL-000360",
+    "case_id": "CASE-2026-000356",
+    "alert_id": "ALT-2026-000360",
+    "linked_at": "2026-08-06T22:36:30Z"
+  },
+  {
+    "case_alert_id": "CAL-000361",
+    "case_id": "CASE-2026-000357",
+    "alert_id": "ALT-2026-000361",
+    "linked_at": "2026-08-07T08:18:39Z"
+  },
+  {
+    "case_alert_id": "CAL-000362",
+    "case_id": "CASE-2026-000358",
+    "alert_id": "ALT-2026-000362",
+    "linked_at": "2026-08-07T08:50:53Z"
+  },
+  {
+    "case_alert_id": "CAL-000363",
+    "case_id": "CASE-2026-000359",
+    "alert_id": "ALT-2026-000363",
+    "linked_at": "2026-08-07T18:23:24Z"
+  },
+  {
+    "case_alert_id": "CAL-000364",
+    "case_id": "CASE-2026-000360",
+    "alert_id": "ALT-2026-000364",
+    "linked_at": "2026-08-07T21:30:51Z"
+  },
+  {
+    "case_alert_id": "CAL-000365",
+    "case_id": "CASE-2026-000361",
+    "alert_id": "ALT-2026-000365",
+    "linked_at": "2026-08-07T21:53:19Z"
+  },
+  {
+    "case_alert_id": "CAL-000366",
+    "case_id": "CASE-2026-000362",
+    "alert_id": "ALT-2026-000366",
+    "linked_at": "2026-08-08T04:24:01Z"
+  },
+  {
+    "case_alert_id": "CAL-000367",
+    "case_id": "CASE-2026-000363",
+    "alert_id": "ALT-2026-000367",
+    "linked_at": "2026-08-09T10:36:38Z"
+  },
+  {
+    "case_alert_id": "CAL-000368",
+    "case_id": "CASE-2026-000364",
+    "alert_id": "ALT-2026-000368",
+    "linked_at": "2026-08-10T00:23:16Z"
+  },
+  {
+    "case_alert_id": "CAL-000369",
+    "case_id": "CASE-2026-000365",
+    "alert_id": "ALT-2026-000369",
+    "linked_at": "2026-08-10T01:08:09Z"
+  },
+  {
+    "case_alert_id": "CAL-000370",
+    "case_id": "CASE-2026-000366",
+    "alert_id": "ALT-2026-000370",
+    "linked_at": "2026-08-10T12:26:01Z"
+  },
+  {
+    "case_alert_id": "CAL-000371",
+    "case_id": "CASE-2026-000367",
+    "alert_id": "ALT-2026-000371",
+    "linked_at": "2026-08-10T14:58:04Z"
+  },
+  {
+    "case_alert_id": "CAL-000372",
+    "case_id": "CASE-2026-000368",
+    "alert_id": "ALT-2026-000372",
+    "linked_at": "2026-08-10T22:56:14Z"
+  },
+  {
+    "case_alert_id": "CAL-000373",
+    "case_id": "CASE-2026-000369",
+    "alert_id": "ALT-2026-000373",
+    "linked_at": "2026-08-11T04:27:36Z"
+  },
+  {
+    "case_alert_id": "CAL-000374",
+    "case_id": "CASE-2026-000370",
+    "alert_id": "ALT-2026-000374",
+    "linked_at": "2026-08-11T17:16:03Z"
+  },
+  {
+    "case_alert_id": "CAL-000375",
+    "case_id": "CASE-2026-000371",
+    "alert_id": "ALT-2026-000375",
+    "linked_at": "2026-08-12T00:58:09Z"
+  },
+  {
+    "case_alert_id": "CAL-000376",
+    "case_id": "CASE-2026-000372",
+    "alert_id": "ALT-2026-000376",
+    "linked_at": "2026-08-12T19:54:54Z"
+  },
+  {
+    "case_alert_id": "CAL-000377",
+    "case_id": "CASE-2026-000373",
+    "alert_id": "ALT-2026-000377",
+    "linked_at": "2026-08-13T04:12:40Z"
+  },
+  {
+    "case_alert_id": "CAL-000378",
+    "case_id": "CASE-2026-000374",
+    "alert_id": "ALT-2026-000378",
+    "linked_at": "2026-08-13T20:10:46Z"
+  },
+  {
+    "case_alert_id": "CAL-000379",
+    "case_id": "CASE-2026-000375",
+    "alert_id": "ALT-2026-000379",
+    "linked_at": "2026-08-13T22:42:59Z"
+  },
+  {
+    "case_alert_id": "CAL-000380",
+    "case_id": "CASE-2026-000376",
+    "alert_id": "ALT-2026-000380",
+    "linked_at": "2026-08-14T18:33:47Z"
+  },
+  {
+    "case_alert_id": "CAL-000381",
+    "case_id": "CASE-2026-000377",
+    "alert_id": "ALT-2026-000381",
+    "linked_at": "2026-08-14T22:40:30Z"
+  },
+  {
+    "case_alert_id": "CAL-000382",
+    "case_id": "CASE-2026-000378",
+    "alert_id": "ALT-2026-000382",
+    "linked_at": "2026-08-15T03:06:52Z"
+  },
+  {
+    "case_alert_id": "CAL-000383",
+    "case_id": "CASE-2026-000379",
+    "alert_id": "ALT-2026-000383",
+    "linked_at": "2026-08-15T05:37:20Z"
+  },
+  {
+    "case_alert_id": "CAL-000384",
+    "case_id": "CASE-2026-000380",
+    "alert_id": "ALT-2026-000384",
+    "linked_at": "2026-08-15T16:47:03Z"
+  },
+  {
+    "case_alert_id": "CAL-000385",
+    "case_id": "CASE-2026-000381",
+    "alert_id": "ALT-2026-000385",
+    "linked_at": "2026-08-15T21:57:42Z"
+  },
+  {
+    "case_alert_id": "CAL-000386",
+    "case_id": "CASE-2026-000382",
+    "alert_id": "ALT-2026-000386",
+    "linked_at": "2026-08-16T00:05:35Z"
+  },
+  {
+    "case_alert_id": "CAL-000387",
+    "case_id": "CASE-2026-000383",
+    "alert_id": "ALT-2026-000387",
+    "linked_at": "2026-08-16T17:59:02Z"
+  },
+  {
+    "case_alert_id": "CAL-000388",
+    "case_id": "CASE-2026-000384",
+    "alert_id": "ALT-2026-000388",
+    "linked_at": "2026-08-16T22:45:50Z"
+  },
+  {
+    "case_alert_id": "CAL-000389",
+    "case_id": "CASE-2026-000385",
+    "alert_id": "ALT-2026-000389",
+    "linked_at": "2026-08-17T01:10:55Z"
+  },
+  {
+    "case_alert_id": "CAL-000390",
+    "case_id": "CASE-2026-000386",
+    "alert_id": "ALT-2026-000390",
+    "linked_at": "2026-08-17T06:03:37Z"
+  },
+  {
+    "case_alert_id": "CAL-000391",
+    "case_id": "CASE-2026-000387",
+    "alert_id": "ALT-2026-000391",
+    "linked_at": "2026-08-17T10:13:16Z"
+  },
+  {
+    "case_alert_id": "CAL-000392",
+    "case_id": "CASE-2026-000388",
+    "alert_id": "ALT-2026-000392",
+    "linked_at": "2026-08-17T10:21:21Z"
+  },
+  {
+    "case_alert_id": "CAL-000393",
+    "case_id": "CASE-2026-000389",
+    "alert_id": "ALT-2026-000393",
+    "linked_at": "2026-08-17T10:28:18Z"
+  },
+  {
+    "case_alert_id": "CAL-000394",
+    "case_id": "CASE-2026-000390",
+    "alert_id": "ALT-2026-000394",
+    "linked_at": "2026-08-18T06:47:56Z"
+  },
+  {
+    "case_alert_id": "CAL-000395",
+    "case_id": "CASE-2026-000391",
+    "alert_id": "ALT-2026-000395",
+    "linked_at": "2026-08-18T18:41:58Z"
+  },
+  {
+    "case_alert_id": "CAL-000396",
+    "case_id": "CASE-2026-000392",
+    "alert_id": "ALT-2026-000396",
+    "linked_at": "2026-08-18T22:35:58Z"
+  },
+  {
+    "case_alert_id": "CAL-000397",
+    "case_id": "CASE-2026-000393",
+    "alert_id": "ALT-2026-000397",
+    "linked_at": "2026-08-18T23:17:16Z"
+  },
+  {
+    "case_alert_id": "CAL-000398",
+    "case_id": "CASE-2026-000394",
+    "alert_id": "ALT-2026-000398",
+    "linked_at": "2026-08-19T13:45:40Z"
+  },
+  {
+    "case_alert_id": "CAL-000399",
+    "case_id": "CASE-2026-000395",
+    "alert_id": "ALT-2026-000399",
+    "linked_at": "2026-08-19T17:20:16Z"
+  },
+  {
+    "case_alert_id": "CAL-000400",
+    "case_id": "CASE-2026-000396",
+    "alert_id": "ALT-2026-000400",
+    "linked_at": "2026-08-19T22:44:16Z"
+  },
+  {
+    "case_alert_id": "CAL-000401",
+    "case_id": "CASE-2026-000397",
+    "alert_id": "ALT-2026-000401",
+    "linked_at": "2026-08-20T08:05:44Z"
+  },
+  {
+    "case_alert_id": "CAL-000402",
+    "case_id": "CASE-2026-000398",
+    "alert_id": "ALT-2026-000402",
+    "linked_at": "2026-08-20T08:56:08Z"
+  },
+  {
+    "case_alert_id": "CAL-000403",
+    "case_id": "CASE-2026-000399",
+    "alert_id": "ALT-2026-000403",
+    "linked_at": "2026-08-20T10:20:24Z"
+  },
+  {
+    "case_alert_id": "CAL-000404",
+    "case_id": "CASE-2026-000400",
+    "alert_id": "ALT-2026-000404",
+    "linked_at": "2026-08-20T15:22:30Z"
+  },
+  {
+    "case_alert_id": "CAL-000405",
+    "case_id": "CASE-2026-000401",
+    "alert_id": "ALT-2026-000405",
+    "linked_at": "2026-08-20T17:53:30Z"
+  },
+  {
+    "case_alert_id": "CAL-000406",
+    "case_id": "CASE-2026-000402",
+    "alert_id": "ALT-2026-000406",
+    "linked_at": "2026-08-20T20:59:39Z"
+  },
+  {
+    "case_alert_id": "CAL-000407",
+    "case_id": "CASE-2026-000403",
+    "alert_id": "ALT-2026-000407",
+    "linked_at": "2026-08-21T01:50:35Z"
+  },
+  {
+    "case_alert_id": "CAL-000408",
+    "case_id": "CASE-2026-000404",
+    "alert_id": "ALT-2026-000408",
+    "linked_at": "2026-08-21T03:45:18Z"
+  },
+  {
+    "case_alert_id": "CAL-000409",
+    "case_id": "CASE-2026-000405",
+    "alert_id": "ALT-2026-000409",
+    "linked_at": "2026-08-21T08:32:39Z"
+  },
+  {
+    "case_alert_id": "CAL-000410",
+    "case_id": "CASE-2026-000406",
+    "alert_id": "ALT-2026-000410",
+    "linked_at": "2026-08-21T18:00:00Z"
+  },
+  {
+    "case_alert_id": "CAL-000411",
+    "case_id": "CASE-2026-000407",
+    "alert_id": "ALT-2026-000411",
+    "linked_at": "2026-08-21T20:46:44Z"
+  },
+  {
+    "case_alert_id": "CAL-000412",
+    "case_id": "CASE-2026-000408",
+    "alert_id": "ALT-2026-000412",
+    "linked_at": "2026-08-21T22:20:21Z"
+  },
+  {
+    "case_alert_id": "CAL-000413",
+    "case_id": "CASE-2026-000409",
+    "alert_id": "ALT-2026-000413",
+    "linked_at": "2026-08-21T23:54:29Z"
+  },
+  {
+    "case_alert_id": "CAL-000414",
+    "case_id": "CASE-2026-000410",
+    "alert_id": "ALT-2026-000414",
+    "linked_at": "2026-08-22T01:52:52Z"
+  },
+  {
+    "case_alert_id": "CAL-000415",
+    "case_id": "CASE-2026-000411",
+    "alert_id": "ALT-2026-000415",
+    "linked_at": "2026-08-22T03:35:18Z"
+  },
+  {
+    "case_alert_id": "CAL-000416",
+    "case_id": "CASE-2026-000412",
+    "alert_id": "ALT-2026-000416",
+    "linked_at": "2026-08-22T18:06:10Z"
+  },
+  {
+    "case_alert_id": "CAL-000417",
+    "case_id": "CASE-2026-000413",
+    "alert_id": "ALT-2026-000417",
+    "linked_at": "2026-08-22T22:24:56Z"
+  },
+  {
+    "case_alert_id": "CAL-000418",
+    "case_id": "CASE-2026-000414",
+    "alert_id": "ALT-2026-000418",
+    "linked_at": "2026-08-23T00:46:36Z"
+  },
+  {
+    "case_alert_id": "CAL-000419",
+    "case_id": "CASE-2026-000415",
+    "alert_id": "ALT-2026-000419",
+    "linked_at": "2026-08-23T02:05:53Z"
+  },
+  {
+    "case_alert_id": "CAL-000420",
+    "case_id": "CASE-2026-000416",
+    "alert_id": "ALT-2026-000420",
+    "linked_at": "2026-08-23T03:45:02Z"
+  },
+  {
+    "case_alert_id": "CAL-000421",
+    "case_id": "CASE-2026-000417",
+    "alert_id": "ALT-2026-000421",
+    "linked_at": "2026-08-23T07:48:17Z"
+  },
+  {
+    "case_alert_id": "CAL-000422",
+    "case_id": "CASE-2026-000418",
+    "alert_id": "ALT-2026-000422",
+    "linked_at": "2026-08-23T09:34:26Z"
+  },
+  {
+    "case_alert_id": "CAL-000423",
+    "case_id": "CASE-2026-000419",
+    "alert_id": "ALT-2026-000423",
+    "linked_at": "2026-08-23T10:36:38Z"
+  },
+  {
+    "case_alert_id": "CAL-000424",
+    "case_id": "CASE-2026-000420",
+    "alert_id": "ALT-2026-000424",
+    "linked_at": "2026-08-23T21:35:10Z"
+  },
+  {
+    "case_alert_id": "CAL-000425",
+    "case_id": "CASE-2026-000421",
+    "alert_id": "ALT-2026-000425",
+    "linked_at": "2026-08-24T10:56:09Z"
+  },
+  {
+    "case_alert_id": "CAL-000426",
+    "case_id": "CASE-2026-000422",
+    "alert_id": "ALT-2026-000426",
+    "linked_at": "2026-08-24T13:52:58Z"
+  },
+  {
+    "case_alert_id": "CAL-000427",
+    "case_id": "CASE-2026-000423",
+    "alert_id": "ALT-2026-000427",
+    "linked_at": "2026-08-25T01:05:27Z"
+  },
+  {
+    "case_alert_id": "CAL-000428",
+    "case_id": "CASE-2026-000424",
+    "alert_id": "ALT-2026-000428",
+    "linked_at": "2026-08-25T06:40:11Z"
+  },
+  {
+    "case_alert_id": "CAL-000429",
+    "case_id": "CASE-2026-000425",
+    "alert_id": "ALT-2026-000429",
+    "linked_at": "2026-08-25T11:32:09Z"
+  },
+  {
+    "case_alert_id": "CAL-000430",
+    "case_id": "CASE-2026-000426",
+    "alert_id": "ALT-2026-000430",
+    "linked_at": "2026-08-25T14:34:41Z"
+  },
+  {
+    "case_alert_id": "CAL-000431",
+    "case_id": "CASE-2026-000427",
+    "alert_id": "ALT-2026-000431",
+    "linked_at": "2026-08-25T21:44:32Z"
+  },
+  {
+    "case_alert_id": "CAL-000432",
+    "case_id": "CASE-2026-000428",
+    "alert_id": "ALT-2026-000432",
+    "linked_at": "2026-08-26T02:00:20Z"
+  },
+  {
+    "case_alert_id": "CAL-000433",
+    "case_id": "CASE-2026-000429",
+    "alert_id": "ALT-2026-000433",
+    "linked_at": "2026-08-26T07:46:20Z"
+  },
+  {
+    "case_alert_id": "CAL-000434",
+    "case_id": "CASE-2026-000430",
+    "alert_id": "ALT-2026-000434",
+    "linked_at": "2026-08-27T05:27:18Z"
+  },
+  {
+    "case_alert_id": "CAL-000435",
+    "case_id": "CASE-2026-000431",
+    "alert_id": "ALT-2026-000435",
+    "linked_at": "2026-08-27T10:51:53Z"
+  },
+  {
+    "case_alert_id": "CAL-000436",
+    "case_id": "CASE-2026-000432",
+    "alert_id": "ALT-2026-000436",
+    "linked_at": "2026-08-27T13:13:35Z"
+  },
+  {
+    "case_alert_id": "CAL-000437",
+    "case_id": "CASE-2026-000433",
+    "alert_id": "ALT-2026-000437",
+    "linked_at": "2026-08-27T15:56:07Z"
+  },
+  {
+    "case_alert_id": "CAL-000438",
+    "case_id": "CASE-2026-000434",
+    "alert_id": "ALT-2026-000438",
+    "linked_at": "2026-08-27T17:06:45Z"
+  },
+  {
+    "case_alert_id": "CAL-000439",
+    "case_id": "CASE-2026-000435",
+    "alert_id": "ALT-2026-000439",
+    "linked_at": "2026-08-27T19:32:21Z"
+  },
+  {
+    "case_alert_id": "CAL-000440",
+    "case_id": "CASE-2026-000436",
+    "alert_id": "ALT-2026-000440",
+    "linked_at": "2026-08-27T23:02:13Z"
+  },
+  {
+    "case_alert_id": "CAL-000441",
+    "case_id": "CASE-2026-000437",
+    "alert_id": "ALT-2026-000441",
+    "linked_at": "2026-08-27T23:15:03Z"
+  },
+  {
+    "case_alert_id": "CAL-000442",
+    "case_id": "CASE-2026-000438",
+    "alert_id": "ALT-2026-000442",
+    "linked_at": "2026-08-28T04:01:17Z"
+  },
+  {
+    "case_alert_id": "CAL-000443",
+    "case_id": "CASE-2026-000439",
+    "alert_id": "ALT-2026-000443",
+    "linked_at": "2026-08-28T16:32:57Z"
+  },
+  {
+    "case_alert_id": "CAL-000444",
+    "case_id": "CASE-2026-000440",
+    "alert_id": "ALT-2026-000444",
+    "linked_at": "2026-08-28T18:10:00Z"
+  },
+  {
+    "case_alert_id": "CAL-000445",
+    "case_id": "CASE-2026-000441",
+    "alert_id": "ALT-2026-000446",
+    "linked_at": "2026-08-29T01:00:58Z"
+  },
+  {
+    "case_alert_id": "CAL-000446",
+    "case_id": "CASE-2026-000442",
+    "alert_id": "ALT-2026-000445",
+    "linked_at": "2026-08-29T01:03:01Z"
+  },
+  {
+    "case_alert_id": "CAL-000447",
+    "case_id": "CASE-2026-000443",
+    "alert_id": "ALT-2026-000447",
+    "linked_at": "2026-08-29T13:27:46Z"
+  },
+  {
+    "case_alert_id": "CAL-000448",
+    "case_id": "CASE-2026-000444",
+    "alert_id": "ALT-2026-000448",
+    "linked_at": "2026-08-29T17:23:14Z"
+  },
+  {
+    "case_alert_id": "CAL-000449",
+    "case_id": "CASE-2026-000445",
+    "alert_id": "ALT-2026-000449",
+    "linked_at": "2026-08-29T17:53:48Z"
+  },
+  {
+    "case_alert_id": "CAL-000450",
+    "case_id": "CASE-2026-000446",
+    "alert_id": "ALT-2026-000450",
+    "linked_at": "2026-08-30T18:29:51Z"
+  },
+  {
+    "case_alert_id": "CAL-000451",
+    "case_id": "CASE-2026-000447",
+    "alert_id": "ALT-2026-000451",
+    "linked_at": "2026-08-30T23:50:17Z"
+  },
+  {
+    "case_alert_id": "CAL-000452",
+    "case_id": "CASE-2026-000448",
+    "alert_id": "ALT-2026-000452",
+    "linked_at": "2026-08-31T01:27:27Z"
+  },
+  {
+    "case_alert_id": "CAL-000453",
+    "case_id": "CASE-2026-000449",
+    "alert_id": "ALT-2026-000453",
+    "linked_at": "2026-08-31T02:41:13Z"
+  },
+  {
+    "case_alert_id": "CAL-000454",
+    "case_id": "CASE-2026-000450",
+    "alert_id": "ALT-2026-000454",
+    "linked_at": "2026-08-31T20:32:22Z"
+  },
+  {
+    "case_alert_id": "CAL-000455",
+    "case_id": "CASE-2026-000451",
+    "alert_id": "ALT-2026-000455",
+    "linked_at": "2026-09-01T03:30:18Z"
+  },
+  {
+    "case_alert_id": "CAL-000456",
+    "case_id": "CASE-2026-000452",
+    "alert_id": "ALT-2026-000456",
+    "linked_at": "2026-09-01T15:07:56Z"
+  },
+  {
+    "case_alert_id": "CAL-000457",
+    "case_id": "CASE-2026-000453",
+    "alert_id": "ALT-2026-000457",
+    "linked_at": "2026-09-01T18:27:31Z"
+  },
+  {
+    "case_alert_id": "CAL-000458",
+    "case_id": "CASE-2026-000454",
+    "alert_id": "ALT-2026-000458",
+    "linked_at": "2026-09-01T19:49:15Z"
+  },
+  {
+    "case_alert_id": "CAL-000459",
+    "case_id": "CASE-2026-000455",
+    "alert_id": "ALT-2026-000459",
+    "linked_at": "2026-09-01T22:55:38Z"
+  },
+  {
+    "case_alert_id": "CAL-000460",
+    "case_id": "CASE-2026-000456",
+    "alert_id": "ALT-2026-000460",
+    "linked_at": "2026-09-01T23:00:32Z"
+  },
+  {
+    "case_alert_id": "CAL-000461",
+    "case_id": "CASE-2026-000457",
+    "alert_id": "ALT-2026-000461",
+    "linked_at": "2026-09-02T04:00:31Z"
+  },
+  {
+    "case_alert_id": "CAL-000462",
+    "case_id": "CASE-2026-000458",
+    "alert_id": "ALT-2026-000462",
+    "linked_at": "2026-09-02T21:27:59Z"
+  },
+  {
+    "case_alert_id": "CAL-000463",
+    "case_id": "CASE-2026-000459",
+    "alert_id": "ALT-2026-000463",
+    "linked_at": "2026-09-03T00:17:34Z"
+  },
+  {
+    "case_alert_id": "CAL-000464",
+    "case_id": "CASE-2026-000460",
+    "alert_id": "ALT-2026-000464",
+    "linked_at": "2026-09-03T09:16:25Z"
+  },
+  {
+    "case_alert_id": "CAL-000465",
+    "case_id": "CASE-2026-000461",
+    "alert_id": "ALT-2026-000465",
+    "linked_at": "2026-09-03T18:24:02Z"
+  },
+  {
+    "case_alert_id": "CAL-000466",
+    "case_id": "CASE-2026-000462",
+    "alert_id": "ALT-2026-000466",
+    "linked_at": "2026-09-04T12:38:06Z"
+  },
+  {
+    "case_alert_id": "CAL-000467",
+    "case_id": "CASE-2026-000463",
+    "alert_id": "ALT-2026-000467",
+    "linked_at": "2026-09-05T18:51:08Z"
+  },
+  {
+    "case_alert_id": "CAL-000468",
+    "case_id": "CASE-2026-000464",
+    "alert_id": "ALT-2026-000468",
+    "linked_at": "2026-09-06T15:32:00Z"
+  },
+  {
+    "case_alert_id": "CAL-000469",
+    "case_id": "CASE-2026-000465",
+    "alert_id": "ALT-2026-000469",
+    "linked_at": "2026-09-07T09:12:30Z"
+  },
+  {
+    "case_alert_id": "CAL-000470",
+    "case_id": "CASE-2026-000466",
+    "alert_id": "ALT-2026-000470",
+    "linked_at": "2026-09-07T09:41:06Z"
+  },
+  {
+    "case_alert_id": "CAL-000471",
+    "case_id": "CASE-2026-000467",
+    "alert_id": "ALT-2026-000471",
+    "linked_at": "2026-09-07T18:12:28Z"
+  },
+  {
+    "case_alert_id": "CAL-000472",
+    "case_id": "CASE-2026-000468",
+    "alert_id": "ALT-2026-000472",
+    "linked_at": "2026-09-07T19:50:54Z"
+  },
+  {
+    "case_alert_id": "CAL-000473",
+    "case_id": "CASE-2026-000469",
+    "alert_id": "ALT-2026-000473",
+    "linked_at": "2026-09-08T01:09:25Z"
+  },
+  {
+    "case_alert_id": "CAL-000474",
+    "case_id": "CASE-2026-000470",
+    "alert_id": "ALT-2026-000474",
+    "linked_at": "2026-09-08T12:35:53Z"
+  },
+  {
+    "case_alert_id": "CAL-000475",
+    "case_id": "CASE-2026-000471",
+    "alert_id": "ALT-2026-000475",
+    "linked_at": "2026-09-09T11:56:28Z"
+  },
+  {
+    "case_alert_id": "CAL-000476",
+    "case_id": "CASE-2026-000472",
+    "alert_id": "ALT-2026-000476",
+    "linked_at": "2026-09-09T15:49:45Z"
+  },
+  {
+    "case_alert_id": "CAL-000477",
+    "case_id": "CASE-2026-000473",
+    "alert_id": "ALT-2026-000477",
+    "linked_at": "2026-09-10T01:11:45Z"
+  },
+  {
+    "case_alert_id": "CAL-000478",
+    "case_id": "CASE-2026-000474",
+    "alert_id": "ALT-2026-000478",
+    "linked_at": "2026-09-10T05:41:00Z"
+  },
+  {
+    "case_alert_id": "CAL-000479",
+    "case_id": "CASE-2026-000475",
+    "alert_id": "ALT-2026-000479",
+    "linked_at": "2026-09-10T05:58:16Z"
+  },
+  {
+    "case_alert_id": "CAL-000480",
+    "case_id": "CASE-2026-000476",
+    "alert_id": "ALT-2026-000480",
+    "linked_at": "2026-09-10T15:12:54Z"
+  },
+  {
+    "case_alert_id": "CAL-000481",
+    "case_id": "CASE-2026-000477",
+    "alert_id": "ALT-2026-000481",
+    "linked_at": "2026-09-10T23:26:42Z"
+  },
+  {
+    "case_alert_id": "CAL-000482",
+    "case_id": "CASE-2026-000478",
+    "alert_id": "ALT-2026-000482",
+    "linked_at": "2026-09-11T21:55:36Z"
+  },
+  {
+    "case_alert_id": "CAL-000483",
+    "case_id": "CASE-2026-000479",
+    "alert_id": "ALT-2026-000483",
+    "linked_at": "2026-09-12T00:43:38Z"
+  },
+  {
+    "case_alert_id": "CAL-000484",
+    "case_id": "CASE-2026-000480",
+    "alert_id": "ALT-2026-000484",
+    "linked_at": "2026-09-12T08:51:59Z"
+  },
+  {
+    "case_alert_id": "CAL-000485",
+    "case_id": "CASE-2026-000481",
+    "alert_id": "ALT-2026-000485",
+    "linked_at": "2026-09-13T05:54:19Z"
+  },
+  {
+    "case_alert_id": "CAL-000486",
+    "case_id": "CASE-2026-000482",
+    "alert_id": "ALT-2026-000486",
+    "linked_at": "2026-09-13T06:18:40Z"
+  },
+  {
+    "case_alert_id": "CAL-000487",
+    "case_id": "CASE-2026-000483",
+    "alert_id": "ALT-2026-000487",
+    "linked_at": "2026-09-13T23:44:53Z"
+  },
+  {
+    "case_alert_id": "CAL-000488",
+    "case_id": "CASE-2026-000484",
+    "alert_id": "ALT-2026-000488",
+    "linked_at": "2026-09-14T06:12:44Z"
+  },
+  {
+    "case_alert_id": "CAL-000489",
+    "case_id": "CASE-2026-000485",
+    "alert_id": "ALT-2026-000489",
+    "linked_at": "2026-09-14T19:14:12Z"
+  },
+  {
+    "case_alert_id": "CAL-000490",
+    "case_id": "CASE-2026-000486",
+    "alert_id": "ALT-2026-000490",
+    "linked_at": "2026-09-15T03:37:19Z"
+  },
+  {
+    "case_alert_id": "CAL-000491",
+    "case_id": "CASE-2026-000487",
+    "alert_id": "ALT-2026-000491",
+    "linked_at": "2026-09-15T07:33:14Z"
+  },
+  {
+    "case_alert_id": "CAL-000492",
+    "case_id": "CASE-2026-000488",
+    "alert_id": "ALT-2026-000492",
+    "linked_at": "2026-09-15T09:20:40Z"
+  },
+  {
+    "case_alert_id": "CAL-000493",
+    "case_id": "CASE-2026-000489",
+    "alert_id": "ALT-2026-000493",
+    "linked_at": "2026-09-15T10:55:13Z"
+  },
+  {
+    "case_alert_id": "CAL-000494",
+    "case_id": "CASE-2026-000490",
+    "alert_id": "ALT-2026-000494",
+    "linked_at": "2026-09-15T15:05:28Z"
+  },
+  {
+    "case_alert_id": "CAL-000495",
+    "case_id": "CASE-2026-000491",
+    "alert_id": "ALT-2026-000495",
+    "linked_at": "2026-09-15T22:58:08Z"
+  },
+  {
+    "case_alert_id": "CAL-000496",
+    "case_id": "CASE-2026-000492",
+    "alert_id": "ALT-2026-000496",
+    "linked_at": "2026-09-15T23:23:34Z"
+  },
+  {
+    "case_alert_id": "CAL-000497",
+    "case_id": "CASE-2026-000493",
+    "alert_id": "ALT-2026-000497",
+    "linked_at": "2026-09-16T01:15:15Z"
+  },
+  {
+    "case_alert_id": "CAL-000498",
+    "case_id": "CASE-2026-000494",
+    "alert_id": "ALT-2026-000498",
+    "linked_at": "2026-09-16T02:40:23Z"
+  },
+  {
+    "case_alert_id": "CAL-000499",
+    "case_id": "CASE-2026-000495",
+    "alert_id": "ALT-2026-000499",
+    "linked_at": "2026-09-17T01:13:07Z"
+  },
+  {
+    "case_alert_id": "CAL-000500",
+    "case_id": "CASE-2026-000496",
+    "alert_id": "ALT-2026-000500",
+    "linked_at": "2026-09-17T05:17:03Z"
+  },
+  {
+    "case_alert_id": "CAL-000501",
+    "case_id": "CASE-2026-000497",
+    "alert_id": "ALT-2026-000501",
+    "linked_at": "2026-09-17T12:59:44Z"
+  },
+  {
+    "case_alert_id": "CAL-000502",
+    "case_id": "CASE-2026-000498",
+    "alert_id": "ALT-2026-000502",
+    "linked_at": "2026-09-17T18:31:04Z"
+  },
+  {
+    "case_alert_id": "CAL-000503",
+    "case_id": "CASE-2026-000499",
+    "alert_id": "ALT-2026-000503",
+    "linked_at": "2026-09-17T18:48:20Z"
+  },
+  {
+    "case_alert_id": "CAL-000504",
+    "case_id": "CASE-2026-000500",
+    "alert_id": "ALT-2026-000504",
+    "linked_at": "2026-09-18T02:09:04Z"
+  },
+  {
+    "case_alert_id": "CAL-000505",
+    "case_id": "CASE-2026-000501",
+    "alert_id": "ALT-2026-000505",
+    "linked_at": "2026-09-18T02:41:41Z"
+  },
+  {
+    "case_alert_id": "CAL-000506",
+    "case_id": "CASE-2026-000502",
+    "alert_id": "ALT-2026-000506",
+    "linked_at": "2026-09-18T03:49:31Z"
+  },
+  {
+    "case_alert_id": "CAL-000507",
+    "case_id": "CASE-2026-000503",
+    "alert_id": "ALT-2026-000507",
+    "linked_at": "2026-09-18T10:09:50Z"
+  },
+  {
+    "case_alert_id": "CAL-000508",
+    "case_id": "CASE-2026-000504",
+    "alert_id": "ALT-2026-000508",
+    "linked_at": "2026-09-18T13:06:59Z"
+  },
+  {
+    "case_alert_id": "CAL-000509",
+    "case_id": "CASE-2026-000505",
+    "alert_id": "ALT-2026-000509",
+    "linked_at": "2026-09-18T14:52:58Z"
+  },
+  {
+    "case_alert_id": "CAL-000510",
+    "case_id": "CASE-2026-000506",
+    "alert_id": "ALT-2026-000510",
+    "linked_at": "2026-09-19T01:01:40Z"
+  },
+  {
+    "case_alert_id": "CAL-000511",
+    "case_id": "CASE-2026-000507",
+    "alert_id": "ALT-2026-000511",
+    "linked_at": "2026-09-19T06:34:24Z"
+  },
+  {
+    "case_alert_id": "CAL-000512",
+    "case_id": "CASE-2026-000508",
+    "alert_id": "ALT-2026-000512",
+    "linked_at": "2026-09-19T20:56:39Z"
+  },
+  {
+    "case_alert_id": "CAL-000513",
+    "case_id": "CASE-2026-000509",
+    "alert_id": "ALT-2026-000513",
+    "linked_at": "2026-09-20T13:53:45Z"
+  },
+  {
+    "case_alert_id": "CAL-000514",
+    "case_id": "CASE-2026-000510",
+    "alert_id": "ALT-2026-000514",
+    "linked_at": "2026-09-20T21:09:21Z"
+  },
+  {
+    "case_alert_id": "CAL-000515",
+    "case_id": "CASE-2026-000511",
+    "alert_id": "ALT-2026-000515",
+    "linked_at": "2026-09-21T10:29:38Z"
+  },
+  {
+    "case_alert_id": "CAL-000516",
+    "case_id": "CASE-2026-000512",
+    "alert_id": "ALT-2026-000516",
+    "linked_at": "2026-09-21T19:26:04Z"
+  },
+  {
+    "case_alert_id": "CAL-000517",
+    "case_id": "CASE-2026-000513",
+    "alert_id": "ALT-2026-000517",
+    "linked_at": "2026-09-22T05:45:03Z"
+  },
+  {
+    "case_alert_id": "CAL-000518",
+    "case_id": "CASE-2026-000514",
+    "alert_id": "ALT-2026-000518",
+    "linked_at": "2026-09-22T08:09:27Z"
+  },
+  {
+    "case_alert_id": "CAL-000519",
+    "case_id": "CASE-2026-000515",
+    "alert_id": "ALT-2026-000519",
+    "linked_at": "2026-09-22T15:46:41Z"
+  },
+  {
+    "case_alert_id": "CAL-000520",
+    "case_id": "CASE-2026-000516",
+    "alert_id": "ALT-2026-000520",
+    "linked_at": "2026-09-22T20:50:34Z"
+  },
+  {
+    "case_alert_id": "CAL-000521",
+    "case_id": "CASE-2026-000517",
+    "alert_id": "ALT-2026-000521",
+    "linked_at": "2026-09-23T07:39:28Z"
+  },
+  {
+    "case_alert_id": "CAL-000522",
+    "case_id": "CASE-2026-000518",
+    "alert_id": "ALT-2026-000522",
+    "linked_at": "2026-09-23T07:45:34Z"
+  },
+  {
+    "case_alert_id": "CAL-000523",
+    "case_id": "CASE-2026-000519",
+    "alert_id": "ALT-2026-000523",
+    "linked_at": "2026-09-23T23:43:39Z"
+  },
+  {
+    "case_alert_id": "CAL-000524",
+    "case_id": "CASE-2026-000520",
+    "alert_id": "ALT-2026-000524",
+    "linked_at": "2026-09-24T19:04:57Z"
+  },
+  {
+    "case_alert_id": "CAL-000525",
+    "case_id": "CASE-2026-000521",
+    "alert_id": "ALT-2026-000525",
+    "linked_at": "2026-09-25T09:49:02Z"
+  },
+  {
+    "case_alert_id": "CAL-000526",
+    "case_id": "CASE-2026-000522",
+    "alert_id": "ALT-2026-000526",
+    "linked_at": "2026-09-25T17:52:55Z"
+  },
+  {
+    "case_alert_id": "CAL-000527",
+    "case_id": "CASE-2026-000523",
+    "alert_id": "ALT-2026-000527",
+    "linked_at": "2026-09-26T00:24:17Z"
+  },
+  {
+    "case_alert_id": "CAL-000528",
+    "case_id": "CASE-2026-000524",
+    "alert_id": "ALT-2026-000528",
+    "linked_at": "2026-09-26T03:25:31Z"
+  },
+  {
+    "case_alert_id": "CAL-000529",
+    "case_id": "CASE-2026-000525",
+    "alert_id": "ALT-2026-000529",
+    "linked_at": "2026-09-27T13:35:38Z"
+  },
+  {
+    "case_alert_id": "CAL-000530",
+    "case_id": "CASE-2026-000526",
+    "alert_id": "ALT-2026-000530",
+    "linked_at": "2026-09-27T20:07:23Z"
+  },
+  {
+    "case_alert_id": "CAL-000531",
+    "case_id": "CASE-2026-000527",
+    "alert_id": "ALT-2026-000531",
+    "linked_at": "2026-09-27T20:56:50Z"
+  },
+  {
+    "case_alert_id": "CAL-000532",
+    "case_id": "CASE-2026-000528",
+    "alert_id": "ALT-2026-000532",
+    "linked_at": "2026-09-28T01:34:23Z"
+  },
+  {
+    "case_alert_id": "CAL-000533",
+    "case_id": "CASE-2026-000529",
+    "alert_id": "ALT-2026-000533",
+    "linked_at": "2026-09-28T01:35:46Z"
+  },
+  {
+    "case_alert_id": "CAL-000534",
+    "case_id": "CASE-2026-000530",
+    "alert_id": "ALT-2026-000534",
+    "linked_at": "2026-09-28T13:30:25Z"
+  },
+  {
+    "case_alert_id": "CAL-000535",
+    "case_id": "CASE-2026-000531",
+    "alert_id": "ALT-2026-000535",
+    "linked_at": "2026-09-28T15:52:37Z"
+  },
+  {
+    "case_alert_id": "CAL-000536",
+    "case_id": "CASE-2026-000532",
+    "alert_id": "ALT-2026-000536",
+    "linked_at": "2026-09-28T17:41:26Z"
+  },
+  {
+    "case_alert_id": "CAL-000537",
+    "case_id": "CASE-2026-000533",
+    "alert_id": "ALT-2026-000537",
+    "linked_at": "2026-09-29T14:30:07Z"
+  },
+  {
+    "case_alert_id": "CAL-000538",
+    "case_id": "CASE-2026-000534",
+    "alert_id": "ALT-2026-000538",
+    "linked_at": "2026-09-29T15:43:47Z"
+  },
+  {
+    "case_alert_id": "CAL-000539",
+    "case_id": "CASE-2026-000535",
+    "alert_id": "ALT-2026-000539",
+    "linked_at": "2026-09-29T19:50:35Z"
+  },
+  {
+    "case_alert_id": "CAL-000540",
+    "case_id": "CASE-2026-000536",
+    "alert_id": "ALT-2026-000540",
+    "linked_at": "2026-09-30T14:02:50Z"
+  },
+  {
+    "case_alert_id": "CAL-000541",
+    "case_id": "CASE-2026-000537",
+    "alert_id": "ALT-2026-000541",
+    "linked_at": "2026-09-30T18:44:57Z"
+  },
+  {
+    "case_alert_id": "CAL-000542",
+    "case_id": "CASE-2026-000538",
+    "alert_id": "ALT-2026-000542",
+    "linked_at": "2026-10-01T17:45:37Z"
+  },
+  {
+    "case_alert_id": "CAL-000543",
+    "case_id": "CASE-2026-000539",
+    "alert_id": "ALT-2026-000543",
+    "linked_at": "2026-10-02T00:10:46Z"
+  },
+  {
+    "case_alert_id": "CAL-000544",
+    "case_id": "CASE-2026-000540",
+    "alert_id": "ALT-2026-000544",
+    "linked_at": "2026-10-02T15:27:58Z"
+  },
+  {
+    "case_alert_id": "CAL-000545",
+    "case_id": "CASE-2026-000541",
+    "alert_id": "ALT-2026-000545",
+    "linked_at": "2026-10-02T18:20:43Z"
+  },
+  {
+    "case_alert_id": "CAL-000546",
+    "case_id": "CASE-2026-000542",
+    "alert_id": "ALT-2026-000546",
+    "linked_at": "2026-10-03T03:28:19Z"
+  },
+  {
+    "case_alert_id": "CAL-000547",
+    "case_id": "CASE-2026-000543",
+    "alert_id": "ALT-2026-000547",
+    "linked_at": "2026-10-04T00:44:49Z"
+  },
+  {
+    "case_alert_id": "CAL-000548",
+    "case_id": "CASE-2026-000544",
+    "alert_id": "ALT-2026-000548",
+    "linked_at": "2026-10-04T18:17:28Z"
+  },
+  {
+    "case_alert_id": "CAL-000549",
+    "case_id": "CASE-2026-000545",
+    "alert_id": "ALT-2026-000549",
+    "linked_at": "2026-10-05T07:39:08Z"
+  },
+  {
+    "case_alert_id": "CAL-000550",
+    "case_id": "CASE-2026-000546",
+    "alert_id": "ALT-2026-000550",
+    "linked_at": "2026-10-05T11:37:29Z"
+  },
+  {
+    "case_alert_id": "CAL-000551",
+    "case_id": "CASE-2026-000547",
+    "alert_id": "ALT-2026-000551",
+    "linked_at": "2026-10-07T06:03:29Z"
+  },
+  {
+    "case_alert_id": "CAL-000552",
+    "case_id": "CASE-2026-000548",
+    "alert_id": "ALT-2026-000552",
+    "linked_at": "2026-10-07T16:01:38Z"
+  },
+  {
+    "case_alert_id": "CAL-000553",
+    "case_id": "CASE-2026-000549",
+    "alert_id": "ALT-2026-000553",
+    "linked_at": "2026-10-08T01:25:31Z"
+  },
+  {
+    "case_alert_id": "CAL-000554",
+    "case_id": "CASE-2026-000550",
+    "alert_id": "ALT-2026-000554",
+    "linked_at": "2026-10-08T13:49:31Z"
+  },
+  {
+    "case_alert_id": "CAL-000555",
+    "case_id": "CASE-2026-000551",
+    "alert_id": "ALT-2026-000555",
+    "linked_at": "2026-10-08T21:16:26Z"
+  },
+  {
+    "case_alert_id": "CAL-000556",
+    "case_id": "CASE-2026-000552",
+    "alert_id": "ALT-2026-000556",
+    "linked_at": "2026-10-09T01:54:19Z"
+  },
+  {
+    "case_alert_id": "CAL-000557",
+    "case_id": "CASE-2026-000553",
+    "alert_id": "ALT-2026-000557",
+    "linked_at": "2026-10-09T14:05:09Z"
+  },
+  {
+    "case_alert_id": "CAL-000558",
+    "case_id": "CASE-2026-000554",
+    "alert_id": "ALT-2026-000558",
+    "linked_at": "2026-10-09T14:09:54Z"
+  },
+  {
+    "case_alert_id": "CAL-000559",
+    "case_id": "CASE-2026-000555",
+    "alert_id": "ALT-2026-000559",
+    "linked_at": "2026-10-09T17:51:19Z"
+  },
+  {
+    "case_alert_id": "CAL-000560",
+    "case_id": "CASE-2026-000556",
+    "alert_id": "ALT-2026-000561",
+    "linked_at": "2026-10-09T23:34:33Z"
+  },
+  {
+    "case_alert_id": "CAL-000561",
+    "case_id": "CASE-2026-000557",
+    "alert_id": "ALT-2026-000560",
+    "linked_at": "2026-10-09T23:19:08Z"
+  },
+  {
+    "case_alert_id": "CAL-000562",
+    "case_id": "CASE-2026-000558",
+    "alert_id": "ALT-2026-000562",
+    "linked_at": "2026-10-10T01:00:23Z"
+  },
+  {
+    "case_alert_id": "CAL-000563",
+    "case_id": "CASE-2026-000559",
+    "alert_id": "ALT-2026-000563",
+    "linked_at": "2026-10-10T22:28:39Z"
+  },
+  {
+    "case_alert_id": "CAL-000564",
+    "case_id": "CASE-2026-000560",
+    "alert_id": "ALT-2026-000564",
+    "linked_at": "2026-10-11T21:23:39Z"
+  },
+  {
+    "case_alert_id": "CAL-000565",
+    "case_id": "CASE-2026-000561",
+    "alert_id": "ALT-2026-000565",
+    "linked_at": "2026-10-12T16:40:52Z"
+  },
+  {
+    "case_alert_id": "CAL-000566",
+    "case_id": "CASE-2026-000562",
+    "alert_id": "ALT-2026-000566",
+    "linked_at": "2026-10-12T22:11:50Z"
+  },
+  {
+    "case_alert_id": "CAL-000567",
+    "case_id": "CASE-2026-000563",
+    "alert_id": "ALT-2026-000567",
+    "linked_at": "2026-10-13T03:14:26Z"
+  },
+  {
+    "case_alert_id": "CAL-000568",
+    "case_id": "CASE-2026-000564",
+    "alert_id": "ALT-2026-000568",
+    "linked_at": "2026-10-14T10:12:07Z"
+  },
+  {
+    "case_alert_id": "CAL-000569",
+    "case_id": "CASE-2026-000565",
+    "alert_id": "ALT-2026-000569",
+    "linked_at": "2026-10-14T15:33:33Z"
+  },
+  {
+    "case_alert_id": "CAL-000570",
+    "case_id": "CASE-2026-000566",
+    "alert_id": "ALT-2026-000570",
+    "linked_at": "2026-10-15T00:30:26Z"
+  },
+  {
+    "case_alert_id": "CAL-000571",
+    "case_id": "CASE-2026-000567",
+    "alert_id": "ALT-2026-000571",
+    "linked_at": "2026-10-15T19:48:51Z"
+  },
+  {
+    "case_alert_id": "CAL-000572",
+    "case_id": "CASE-2026-000568",
+    "alert_id": "ALT-2026-000572",
+    "linked_at": "2026-10-16T14:06:14Z"
+  },
+  {
+    "case_alert_id": "CAL-000573",
+    "case_id": "CASE-2026-000569",
+    "alert_id": "ALT-2026-000573",
+    "linked_at": "2026-10-16T17:19:48Z"
+  },
+  {
+    "case_alert_id": "CAL-000574",
+    "case_id": "CASE-2026-000570",
+    "alert_id": "ALT-2026-000574",
+    "linked_at": "2026-10-16T19:21:13Z"
+  },
+  {
+    "case_alert_id": "CAL-000575",
+    "case_id": "CASE-2026-000571",
+    "alert_id": "ALT-2026-000575",
+    "linked_at": "2026-10-17T00:01:22Z"
+  },
+  {
+    "case_alert_id": "CAL-000576",
+    "case_id": "CASE-2026-000572",
+    "alert_id": "ALT-2026-000576",
+    "linked_at": "2026-10-17T01:15:51Z"
+  },
+  {
+    "case_alert_id": "CAL-000577",
+    "case_id": "CASE-2026-000573",
+    "alert_id": "ALT-2026-000577",
+    "linked_at": "2026-10-17T11:04:36Z"
+  },
+  {
+    "case_alert_id": "CAL-000578",
+    "case_id": "CASE-2026-000574",
+    "alert_id": "ALT-2026-000578",
+    "linked_at": "2026-10-17T17:58:13Z"
+  },
+  {
+    "case_alert_id": "CAL-000579",
+    "case_id": "CASE-2026-000575",
+    "alert_id": "ALT-2026-000579",
+    "linked_at": "2026-10-19T10:09:14Z"
+  },
+  {
+    "case_alert_id": "CAL-000580",
+    "case_id": "CASE-2026-000576",
+    "alert_id": "ALT-2026-000580",
+    "linked_at": "2026-10-20T06:11:08Z"
+  },
+  {
+    "case_alert_id": "CAL-000581",
+    "case_id": "CASE-2026-000577",
+    "alert_id": "ALT-2026-000581",
+    "linked_at": "2026-10-20T12:18:36Z"
+  },
+  {
+    "case_alert_id": "CAL-000582",
+    "case_id": "CASE-2026-000578",
+    "alert_id": "ALT-2026-000582",
+    "linked_at": "2026-10-20T12:25:16Z"
+  },
+  {
+    "case_alert_id": "CAL-000583",
+    "case_id": "CASE-2026-000579",
+    "alert_id": "ALT-2026-000583",
+    "linked_at": "2026-10-20T15:04:35Z"
+  },
+  {
+    "case_alert_id": "CAL-000584",
+    "case_id": "CASE-2026-000580",
+    "alert_id": "ALT-2026-000584",
+    "linked_at": "2026-10-20T17:32:38Z"
+  },
+  {
+    "case_alert_id": "CAL-000585",
+    "case_id": "CASE-2026-000581",
+    "alert_id": "ALT-2026-000586",
+    "linked_at": "2026-10-20T19:44:30Z"
+  },
+  {
+    "case_alert_id": "CAL-000586",
+    "case_id": "CASE-2026-000582",
+    "alert_id": "ALT-2026-000585",
+    "linked_at": "2026-10-20T19:46:46Z"
+  },
+  {
+    "case_alert_id": "CAL-000587",
+    "case_id": "CASE-2026-000583",
+    "alert_id": "ALT-2026-000587",
+    "linked_at": "2026-10-21T09:04:20Z"
+  },
+  {
+    "case_alert_id": "CAL-000588",
+    "case_id": "CASE-2026-000584",
+    "alert_id": "ALT-2026-000589",
+    "linked_at": "2026-10-22T19:50:32Z"
+  },
+  {
+    "case_alert_id": "CAL-000589",
+    "case_id": "CASE-2026-000585",
+    "alert_id": "ALT-2026-000588",
+    "linked_at": "2026-10-22T19:37:44Z"
+  },
+  {
+    "case_alert_id": "CAL-000590",
+    "case_id": "CASE-2026-000586",
+    "alert_id": "ALT-2026-000590",
+    "linked_at": "2026-10-22T21:00:04Z"
+  },
+  {
+    "case_alert_id": "CAL-000591",
+    "case_id": "CASE-2026-000587",
+    "alert_id": "ALT-2026-000591",
+    "linked_at": "2026-10-23T01:11:47Z"
+  },
+  {
+    "case_alert_id": "CAL-000592",
+    "case_id": "CASE-2026-000588",
+    "alert_id": "ALT-2026-000592",
+    "linked_at": "2026-10-23T18:34:02Z"
+  },
+  {
+    "case_alert_id": "CAL-000593",
+    "case_id": "CASE-2026-000589",
+    "alert_id": "ALT-2026-000593",
+    "linked_at": "2026-10-24T04:04:37Z"
+  },
+  {
+    "case_alert_id": "CAL-000594",
+    "case_id": "CASE-2026-000590",
+    "alert_id": "ALT-2026-000594",
+    "linked_at": "2026-10-24T07:37:17Z"
+  },
+  {
+    "case_alert_id": "CAL-000595",
+    "case_id": "CASE-2026-000591",
+    "alert_id": "ALT-2026-000595",
+    "linked_at": "2026-10-24T13:55:58Z"
+  },
+  {
+    "case_alert_id": "CAL-000596",
+    "case_id": "CASE-2026-000592",
+    "alert_id": "ALT-2026-000596",
+    "linked_at": "2026-10-25T00:52:12Z"
+  },
+  {
+    "case_alert_id": "CAL-000597",
+    "case_id": "CASE-2026-000593",
+    "alert_id": "ALT-2026-000597",
+    "linked_at": "2026-10-25T05:06:16Z"
+  },
+  {
+    "case_alert_id": "CAL-000598",
+    "case_id": "CASE-2026-000594",
+    "alert_id": "ALT-2026-000598",
+    "linked_at": "2026-10-25T15:11:05Z"
+  },
+  {
+    "case_alert_id": "CAL-000599",
+    "case_id": "CASE-2026-000595",
+    "alert_id": "ALT-2026-000599",
+    "linked_at": "2026-10-26T01:02:39Z"
+  },
+  {
+    "case_alert_id": "CAL-000600",
+    "case_id": "CASE-2026-000596",
+    "alert_id": "ALT-2026-000600",
+    "linked_at": "2026-10-26T18:54:27Z"
+  },
+  {
+    "case_alert_id": "CAL-000601",
+    "case_id": "CASE-2026-000597",
+    "alert_id": "ALT-2026-000601",
+    "linked_at": "2026-10-27T02:50:01Z"
+  },
+  {
+    "case_alert_id": "CAL-000602",
+    "case_id": "CASE-2026-000598",
+    "alert_id": "ALT-2026-000602",
+    "linked_at": "2026-10-27T20:35:31Z"
+  },
+  {
+    "case_alert_id": "CAL-000603",
+    "case_id": "CASE-2026-000599",
+    "alert_id": "ALT-2026-000603",
+    "linked_at": "2026-10-27T21:58:22Z"
+  },
+  {
+    "case_alert_id": "CAL-000604",
+    "case_id": "CASE-2026-000600",
+    "alert_id": "ALT-2026-000604",
+    "linked_at": "2026-10-28T03:58:37Z"
+  },
+  {
+    "case_alert_id": "CAL-000605",
+    "case_id": "CASE-2026-000601",
+    "alert_id": "ALT-2026-000605",
+    "linked_at": "2026-10-28T19:29:17Z"
+  },
+  {
+    "case_alert_id": "CAL-000606",
+    "case_id": "CASE-2026-000602",
+    "alert_id": "ALT-2026-000606",
+    "linked_at": "2026-10-29T21:22:09Z"
+  },
+  {
+    "case_alert_id": "CAL-000607",
+    "case_id": "CASE-2026-000603",
+    "alert_id": "ALT-2026-000607",
+    "linked_at": "2026-10-16T04:27:16Z"
+  }
+]

@@ -1,0 +1,5429 @@
+[
+  {
+    "case_id": "CASE-2026-000001",
+    "customer_id": "CUS-000599",
+    "opened_at": "2026-01-09T13:37:40Z",
+    "status": "closed",
+    "priority_score": "75",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-01-10T06:25:34Z"
+  },
+  {
+    "case_id": "CASE-2026-000002",
+    "customer_id": "CUS-002204",
+    "opened_at": "2026-01-11T04:03:01Z",
+    "status": "closed",
+    "priority_score": "62",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-01-11T23:22:28Z"
+  },
+  {
+    "case_id": "CASE-2026-000003",
+    "customer_id": "CUS-004780",
+    "opened_at": "2026-01-16T09:25:45Z",
+    "status": "closed",
+    "priority_score": "62",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-01-18T03:35:42Z"
+  },
+  {
+    "case_id": "CASE-2026-000004",
+    "customer_id": "CUS-001126",
+    "opened_at": "2026-01-16T10:52:19Z",
+    "status": "closed",
+    "priority_score": "40",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-01-17T02:30:01Z"
+  },
+  {
+    "case_id": "CASE-2026-000005",
+    "customer_id": "CUS-000398",
+    "opened_at": "2026-01-16T11:37:48Z",
+    "status": "closed",
+    "priority_score": "50",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-01-18T07:37:22Z"
+  },
+  {
+    "case_id": "CASE-2026-000006",
+    "customer_id": "CUS-002802",
+    "opened_at": "2026-01-17T03:29:25Z",
+    "status": "closed",
+    "priority_score": "54",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-01-19T04:10:22Z"
+  },
+  {
+    "case_id": "CASE-2026-000007",
+    "customer_id": "CUS-000288",
+    "opened_at": "2026-01-18T10:50:22Z",
+    "status": "closed",
+    "priority_score": "44",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-01-19T11:51:32Z"
+  },
+  {
+    "case_id": "CASE-2026-000008",
+    "customer_id": "CUS-001454",
+    "opened_at": "2026-01-18T15:16:11Z",
+    "status": "closed",
+    "priority_score": "37",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-01-19T22:11:14Z"
+  },
+  {
+    "case_id": "CASE-2026-000009",
+    "customer_id": "CUS-003072",
+    "opened_at": "2026-01-21T04:50:46Z",
+    "status": "closed",
+    "priority_score": "48",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-01-21T14:37:30Z"
+  },
+  {
+    "case_id": "CASE-2026-000010",
+    "customer_id": "CUS-002749",
+    "opened_at": "2026-01-21T05:54:52Z",
+    "status": "open",
+    "priority_score": "31",
+    "final_disposition": "",
+    "closed_at": ""
+  },
+  {
+    "case_id": "CASE-2026-000011",
+    "customer_id": "CUS-001055",
+    "opened_at": "2026-01-22T23:48:12Z",
+    "status": "closed",
+    "priority_score": "70",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-01-25T10:30:35Z"
+  },
+  {
+    "case_id": "CASE-2026-000012",
+    "customer_id": "CUS-000521",
+    "opened_at": "2026-01-25T11:59:31Z",
+    "status": "closed",
+    "priority_score": "33",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-01-26T11:41:37Z"
+  },
+  {
+    "case_id": "CASE-2026-000013",
+    "customer_id": "CUS-001905",
+    "opened_at": "2026-01-25T19:38:46Z",
+    "status": "closed",
+    "priority_score": "75",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-01-26T19:48:14Z"
+  },
+  {
+    "case_id": "CASE-2026-000014",
+    "customer_id": "CUS-000690",
+    "opened_at": "2026-01-26T15:03:52Z",
+    "status": "closed",
+    "priority_score": "58",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-01-27T12:23:33Z"
+  },
+  {
+    "case_id": "CASE-2026-000015",
+    "customer_id": "CUS-003534",
+    "opened_at": "2026-01-26T20:24:51Z",
+    "status": "closed",
+    "priority_score": "29",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-01-28T00:55:47Z"
+  },
+  {
+    "case_id": "CASE-2026-000016",
+    "customer_id": "CUS-000011",
+    "opened_at": "2026-01-27T08:35:56Z",
+    "status": "closed",
+    "priority_score": "70",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-01-28T23:23:18Z"
+  },
+  {
+    "case_id": "CASE-2026-000017",
+    "customer_id": "CUS-001296",
+    "opened_at": "2026-01-29T11:06:58Z",
+    "status": "closed",
+    "priority_score": "79",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-01-31T16:29:43Z"
+  },
+  {
+    "case_id": "CASE-2026-000018",
+    "customer_id": "CUS-004920",
+    "opened_at": "2026-01-29T21:43:26Z",
+    "status": "closed",
+    "priority_score": "85",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-01-30T19:22:00Z"
+  },
+  {
+    "case_id": "CASE-2026-000019",
+    "customer_id": "CUS-001075",
+    "opened_at": "2026-01-31T09:27:34Z",
+    "status": "closed",
+    "priority_score": "29",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-02-01T01:35:11Z"
+  },
+  {
+    "case_id": "CASE-2026-000020",
+    "customer_id": "CUS-004343",
+    "opened_at": "2026-02-03T06:57:46Z",
+    "status": "open",
+    "priority_score": "44",
+    "final_disposition": "",
+    "closed_at": ""
+  },
+  {
+    "case_id": "CASE-2026-000021",
+    "customer_id": "CUS-004522",
+    "opened_at": "2026-02-04T22:35:24Z",
+    "status": "closed",
+    "priority_score": "39",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-02-07T08:06:59Z"
+  },
+  {
+    "case_id": "CASE-2026-000022",
+    "customer_id": "CUS-001500",
+    "opened_at": "2026-02-05T16:13:11Z",
+    "status": "closed",
+    "priority_score": "29",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-02-06T02:45:41Z"
+  },
+  {
+    "case_id": "CASE-2026-000023",
+    "customer_id": "CUS-000396",
+    "opened_at": "2026-02-06T03:10:11Z",
+    "status": "closed",
+    "priority_score": "52",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-02-08T00:55:52Z"
+  },
+  {
+    "case_id": "CASE-2026-000024",
+    "customer_id": "CUS-004319",
+    "opened_at": "2026-02-07T03:44:19Z",
+    "status": "closed",
+    "priority_score": "62",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-02-09T01:49:45Z"
+  },
+  {
+    "case_id": "CASE-2026-000025",
+    "customer_id": "CUS-001334",
+    "opened_at": "2026-02-10T22:38:36Z",
+    "status": "closed",
+    "priority_score": "33",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-02-12T10:31:36Z"
+  },
+  {
+    "case_id": "CASE-2026-000026",
+    "customer_id": "CUS-002628",
+    "opened_at": "2026-02-12T06:44:04Z",
+    "status": "closed",
+    "priority_score": "27",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-02-13T09:51:32Z"
+  },
+  {
+    "case_id": "CASE-2026-000027",
+    "customer_id": "CUS-004946",
+    "opened_at": "2026-02-12T15:28:09Z",
+    "status": "closed",
+    "priority_score": "40",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-02-14T08:15:21Z"
+  },
+  {
+    "case_id": "CASE-2026-000028",
+    "customer_id": "CUS-000878",
+    "opened_at": "2026-02-13T03:32:41Z",
+    "status": "closed",
+    "priority_score": "52",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-02-13T11:38:01Z"
+  },
+  {
+    "case_id": "CASE-2026-000029",
+    "customer_id": "CUS-003591",
+    "opened_at": "2026-02-13T12:10:04Z",
+    "status": "closed",
+    "priority_score": "50",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-02-14T06:13:25Z"
+  },
+  {
+    "case_id": "CASE-2026-000030",
+    "customer_id": "CUS-003841",
+    "opened_at": "2026-02-14T01:20:03Z",
+    "status": "closed",
+    "priority_score": "50",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-02-15T08:09:56Z"
+  },
+  {
+    "case_id": "CASE-2026-000031",
+    "customer_id": "CUS-002382",
+    "opened_at": "2026-02-14T14:53:35Z",
+    "status": "closed",
+    "priority_score": "84",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-02-15T09:28:38Z"
+  },
+  {
+    "case_id": "CASE-2026-000032",
+    "customer_id": "CUS-004128",
+    "opened_at": "2026-02-14T21:56:10Z",
+    "status": "closed",
+    "priority_score": "50",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-02-15T13:50:07Z"
+  },
+  {
+    "case_id": "CASE-2026-000033",
+    "customer_id": "CUS-001575",
+    "opened_at": "2026-02-16T03:41:19Z",
+    "status": "closed",
+    "priority_score": "44",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-02-17T09:01:54Z"
+  },
+  {
+    "case_id": "CASE-2026-000034",
+    "customer_id": "CUS-002687",
+    "opened_at": "2026-02-19T22:36:50Z",
+    "status": "closed",
+    "priority_score": "50",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-02-20T19:03:18Z"
+  },
+  {
+    "case_id": "CASE-2026-000035",
+    "customer_id": "CUS-000001",
+    "opened_at": "2026-02-20T09:25:11Z",
+    "status": "closed",
+    "priority_score": "25",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-02-21T15:23:49Z"
+  },
+  {
+    "case_id": "CASE-2026-000036",
+    "customer_id": "CUS-003054",
+    "opened_at": "2026-02-20T20:20:00Z",
+    "status": "closed",
+    "priority_score": "25",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-02-22T00:59:22Z"
+  },
+  {
+    "case_id": "CASE-2026-000037",
+    "customer_id": "CUS-001380",
+    "opened_at": "2026-02-22T02:36:53Z",
+    "status": "closed",
+    "priority_score": "50",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-02-23T08:10:01Z"
+  },
+  {
+    "case_id": "CASE-2026-000038",
+    "customer_id": "CUS-000217",
+    "opened_at": "2026-02-22T13:50:21Z",
+    "status": "closed",
+    "priority_score": "52",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-02-23T09:00:38Z"
+  },
+  {
+    "case_id": "CASE-2026-000039",
+    "customer_id": "CUS-002385",
+    "opened_at": "2026-02-23T19:48:50Z",
+    "status": "closed",
+    "priority_score": "29",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-02-24T14:08:09Z"
+  },
+  {
+    "case_id": "CASE-2026-000040",
+    "customer_id": "CUS-001890",
+    "opened_at": "2026-02-24T04:47:06Z",
+    "status": "closed",
+    "priority_score": "29",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-02-25T16:14:57Z"
+  },
+  {
+    "case_id": "CASE-2026-000041",
+    "customer_id": "CUS-000316",
+    "opened_at": "2026-02-24T20:04:56Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-02-27T04:07:06Z"
+  },
+  {
+    "case_id": "CASE-2026-000042",
+    "customer_id": "CUS-001479",
+    "opened_at": "2026-02-27T11:32:20Z",
+    "status": "closed",
+    "priority_score": "56",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-02-28T03:40:40Z"
+  },
+  {
+    "case_id": "CASE-2026-000043",
+    "customer_id": "CUS-001731",
+    "opened_at": "2026-02-27T16:27:13Z",
+    "status": "closed",
+    "priority_score": "56",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-03-01T15:27:06Z"
+  },
+  {
+    "case_id": "CASE-2026-000044",
+    "customer_id": "CUS-001971",
+    "opened_at": "2026-03-01T00:46:02Z",
+    "status": "open",
+    "priority_score": "68",
+    "final_disposition": "",
+    "closed_at": ""
+  },
+  {
+    "case_id": "CASE-2026-000045",
+    "customer_id": "CUS-004681",
+    "opened_at": "2026-03-01T15:13:12Z",
+    "status": "closed",
+    "priority_score": "54",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-03-02T09:17:12Z"
+  },
+  {
+    "case_id": "CASE-2026-000046",
+    "customer_id": "CUS-004800",
+    "opened_at": "2026-03-03T00:43:08Z",
+    "status": "closed",
+    "priority_score": "45",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-03-03T20:28:12Z"
+  },
+  {
+    "case_id": "CASE-2026-000047",
+    "customer_id": "CUS-000406",
+    "opened_at": "2026-03-03T07:16:20Z",
+    "status": "closed",
+    "priority_score": "48",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-03-04T14:56:12Z"
+  },
+  {
+    "case_id": "CASE-2026-000048",
+    "customer_id": "CUS-000519",
+    "opened_at": "2026-03-03T14:05:32Z",
+    "status": "closed",
+    "priority_score": "54",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-03-04T02:20:02Z"
+  },
+  {
+    "case_id": "CASE-2026-000049",
+    "customer_id": "CUS-003439",
+    "opened_at": "2026-03-03T18:44:32Z",
+    "status": "closed",
+    "priority_score": "29",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-03-04T13:20:28Z"
+  },
+  {
+    "case_id": "CASE-2026-000050",
+    "customer_id": "CUS-000849",
+    "opened_at": "2026-03-06T22:28:01Z",
+    "status": "closed",
+    "priority_score": "70",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-03-07T14:13:52Z"
+  },
+  {
+    "case_id": "CASE-2026-000051",
+    "customer_id": "CUS-001910",
+    "opened_at": "2026-03-08T11:46:46Z",
+    "status": "closed",
+    "priority_score": "31",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-03-10T09:42:06Z"
+  },
+  {
+    "case_id": "CASE-2026-000052",
+    "customer_id": "CUS-000919",
+    "opened_at": "2026-03-09T00:30:06Z",
+    "status": "closed",
+    "priority_score": "50",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-03-09T21:20:05Z"
+  },
+  {
+    "case_id": "CASE-2026-000053",
+    "customer_id": "CUS-002432",
+    "opened_at": "2026-03-10T04:17:25Z",
+    "status": "closed",
+    "priority_score": "80",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-03-10T21:36:41Z"
+  },
+  {
+    "case_id": "CASE-2026-000054",
+    "customer_id": "CUS-000649",
+    "opened_at": "2026-03-10T13:28:07Z",
+    "status": "closed",
+    "priority_score": "50",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-03-12T06:33:33Z"
+  },
+  {
+    "case_id": "CASE-2026-000055",
+    "customer_id": "CUS-000982",
+    "opened_at": "2026-03-12T03:36:38Z",
+    "status": "closed",
+    "priority_score": "70",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-03-13T20:50:53Z"
+  },
+  {
+    "case_id": "CASE-2026-000056",
+    "customer_id": "CUS-004503",
+    "opened_at": "2026-03-14T20:27:27Z",
+    "status": "closed",
+    "priority_score": "31",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-03-15T19:53:46Z"
+  },
+  {
+    "case_id": "CASE-2026-000057",
+    "customer_id": "CUS-003310",
+    "opened_at": "2026-03-16T07:32:07Z",
+    "status": "closed",
+    "priority_score": "80",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-03-18T08:37:13Z"
+  },
+  {
+    "case_id": "CASE-2026-000058",
+    "customer_id": "CUS-003328",
+    "opened_at": "2026-03-17T02:23:51Z",
+    "status": "in_review",
+    "priority_score": "60",
+    "final_disposition": "",
+    "closed_at": ""
+  },
+  {
+    "case_id": "CASE-2026-000059",
+    "customer_id": "CUS-004704",
+    "opened_at": "2026-03-17T23:17:07Z",
+    "status": "closed",
+    "priority_score": "63",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-03-20T03:26:49Z"
+  },
+  {
+    "case_id": "CASE-2026-000060",
+    "customer_id": "CUS-002878",
+    "opened_at": "2026-03-19T12:47:33Z",
+    "status": "closed",
+    "priority_score": "46",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-03-21T13:27:25Z"
+  },
+  {
+    "case_id": "CASE-2026-000061",
+    "customer_id": "CUS-003375",
+    "opened_at": "2026-03-21T09:10:07Z",
+    "status": "closed",
+    "priority_score": "80",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-03-22T10:03:06Z"
+  },
+  {
+    "case_id": "CASE-2026-000062",
+    "customer_id": "CUS-001558",
+    "opened_at": "2026-03-21T18:22:19Z",
+    "status": "closed",
+    "priority_score": "50",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-03-23T12:05:25Z"
+  },
+  {
+    "case_id": "CASE-2026-000063",
+    "customer_id": "CUS-001110",
+    "opened_at": "2026-03-22T08:48:57Z",
+    "status": "closed",
+    "priority_score": "33",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-03-23T09:15:16Z"
+  },
+  {
+    "case_id": "CASE-2026-000064",
+    "customer_id": "CUS-003860",
+    "opened_at": "2026-03-22T22:48:49Z",
+    "status": "closed",
+    "priority_score": "45",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-03-24T06:28:35Z"
+  },
+  {
+    "case_id": "CASE-2026-000065",
+    "customer_id": "CUS-001422",
+    "opened_at": "2026-03-23T06:17:03Z",
+    "status": "closed",
+    "priority_score": "27",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-03-25T12:06:12Z"
+  },
+  {
+    "case_id": "CASE-2026-000066",
+    "customer_id": "CUS-001587",
+    "opened_at": "2026-03-24T07:54:49Z",
+    "status": "in_review",
+    "priority_score": "33",
+    "final_disposition": "",
+    "closed_at": ""
+  },
+  {
+    "case_id": "CASE-2026-000067",
+    "customer_id": "CUS-003505",
+    "opened_at": "2026-03-24T08:08:10Z",
+    "status": "closed",
+    "priority_score": "54",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-03-26T10:49:37Z"
+  },
+  {
+    "case_id": "CASE-2026-000068",
+    "customer_id": "CUS-004051",
+    "opened_at": "2026-03-24T15:00:00Z",
+    "status": "closed",
+    "priority_score": "42",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-03-25T06:11:13Z"
+  },
+  {
+    "case_id": "CASE-2026-000069",
+    "customer_id": "CUS-003868",
+    "opened_at": "2026-03-25T17:46:44Z",
+    "status": "closed",
+    "priority_score": "70",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-03-27T12:28:21Z"
+  },
+  {
+    "case_id": "CASE-2026-000070",
+    "customer_id": "CUS-004848",
+    "opened_at": "2026-03-27T16:13:48Z",
+    "status": "closed",
+    "priority_score": "27",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-03-28T21:51:16Z"
+  },
+  {
+    "case_id": "CASE-2026-000071",
+    "customer_id": "CUS-000389",
+    "opened_at": "2026-03-27T22:20:47Z",
+    "status": "open",
+    "priority_score": "56",
+    "final_disposition": "",
+    "closed_at": ""
+  },
+  {
+    "case_id": "CASE-2026-000072",
+    "customer_id": "CUS-002798",
+    "opened_at": "2026-03-28T04:49:04Z",
+    "status": "closed",
+    "priority_score": "54",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-03-29T05:49:25Z"
+  },
+  {
+    "case_id": "CASE-2026-000073",
+    "customer_id": "CUS-001927",
+    "opened_at": "2026-03-30T09:38:02Z",
+    "status": "closed",
+    "priority_score": "75",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-03-31T00:24:16Z"
+  },
+  {
+    "case_id": "CASE-2026-000074",
+    "customer_id": "CUS-001315",
+    "opened_at": "2026-03-30T12:30:22Z",
+    "status": "closed",
+    "priority_score": "25",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-03-31T11:33:03Z"
+  },
+  {
+    "case_id": "CASE-2026-000075",
+    "customer_id": "CUS-003443",
+    "opened_at": "2026-03-31T06:34:11Z",
+    "status": "closed",
+    "priority_score": "87",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-04-01T05:32:45Z"
+  },
+  {
+    "case_id": "CASE-2026-000076",
+    "customer_id": "CUS-000498",
+    "opened_at": "2026-04-01T20:15:15Z",
+    "status": "closed",
+    "priority_score": "75",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-04-04T01:03:27Z"
+  },
+  {
+    "case_id": "CASE-2026-000077",
+    "customer_id": "CUS-002148",
+    "opened_at": "2026-04-02T22:53:01Z",
+    "status": "closed",
+    "priority_score": "48",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-04-03T10:40:54Z"
+  },
+  {
+    "case_id": "CASE-2026-000078",
+    "customer_id": "CUS-004007",
+    "opened_at": "2026-04-06T03:25:06Z",
+    "status": "closed",
+    "priority_score": "29",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-04-07T15:43:15Z"
+  },
+  {
+    "case_id": "CASE-2026-000079",
+    "customer_id": "CUS-003631",
+    "opened_at": "2026-04-08T12:58:00Z",
+    "status": "closed",
+    "priority_score": "42",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-04-10T00:48:52Z"
+  },
+  {
+    "case_id": "CASE-2026-000080",
+    "customer_id": "CUS-001000",
+    "opened_at": "2026-04-08T15:43:21Z",
+    "status": "closed",
+    "priority_score": "58",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-04-09T12:12:52Z"
+  },
+  {
+    "case_id": "CASE-2026-000081",
+    "customer_id": "CUS-003053",
+    "opened_at": "2026-04-09T07:01:56Z",
+    "status": "closed",
+    "priority_score": "58",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-04-11T03:41:06Z"
+  },
+  {
+    "case_id": "CASE-2026-000082",
+    "customer_id": "CUS-004270",
+    "opened_at": "2026-04-09T11:43:03Z",
+    "status": "closed",
+    "priority_score": "25",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-04-10T11:55:54Z"
+  },
+  {
+    "case_id": "CASE-2026-000083",
+    "customer_id": "CUS-002988",
+    "opened_at": "2026-04-09T17:18:48Z",
+    "status": "closed",
+    "priority_score": "54",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-04-11T04:39:55Z"
+  },
+  {
+    "case_id": "CASE-2026-000084",
+    "customer_id": "CUS-003753",
+    "opened_at": "2026-04-10T13:39:00Z",
+    "status": "closed",
+    "priority_score": "27",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-04-11T05:29:47Z"
+  },
+  {
+    "case_id": "CASE-2026-000085",
+    "customer_id": "CUS-000241",
+    "opened_at": "2026-04-11T15:46:48Z",
+    "status": "closed",
+    "priority_score": "50",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-04-12T21:11:41Z"
+  },
+  {
+    "case_id": "CASE-2026-000086",
+    "customer_id": "CUS-000405",
+    "opened_at": "2026-04-12T09:58:47Z",
+    "status": "closed",
+    "priority_score": "79",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-04-13T12:04:01Z"
+  },
+  {
+    "case_id": "CASE-2026-000087",
+    "customer_id": "CUS-004978",
+    "opened_at": "2026-04-12T20:47:19Z",
+    "status": "closed",
+    "priority_score": "49",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-04-14T06:02:38Z"
+  },
+  {
+    "case_id": "CASE-2026-000088",
+    "customer_id": "CUS-000832",
+    "opened_at": "2026-04-13T09:13:36Z",
+    "status": "closed",
+    "priority_score": "50",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-04-15T06:22:12Z"
+  },
+  {
+    "case_id": "CASE-2026-000089",
+    "customer_id": "CUS-002174",
+    "opened_at": "2026-04-13T19:15:33Z",
+    "status": "closed",
+    "priority_score": "62",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-04-15T11:48:00Z"
+  },
+  {
+    "case_id": "CASE-2026-000090",
+    "customer_id": "CUS-003870",
+    "opened_at": "2026-04-14T02:52:32Z",
+    "status": "closed",
+    "priority_score": "64",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-04-14T19:42:37Z"
+  },
+  {
+    "case_id": "CASE-2026-000091",
+    "customer_id": "CUS-003272",
+    "opened_at": "2026-04-15T20:01:55Z",
+    "status": "closed",
+    "priority_score": "50",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-04-17T04:26:26Z"
+  },
+  {
+    "case_id": "CASE-2026-000092",
+    "customer_id": "CUS-001260",
+    "opened_at": "2026-04-16T09:31:40Z",
+    "status": "closed",
+    "priority_score": "63",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-04-17T11:29:33Z"
+  },
+  {
+    "case_id": "CASE-2026-000093",
+    "customer_id": "CUS-002904",
+    "opened_at": "2026-04-16T23:59:35Z",
+    "status": "closed",
+    "priority_score": "55",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-04-18T20:50:36Z"
+  },
+  {
+    "case_id": "CASE-2026-000094",
+    "customer_id": "CUS-004272",
+    "opened_at": "2026-04-17T20:46:08Z",
+    "status": "closed",
+    "priority_score": "45",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-04-19T02:54:22Z"
+  },
+  {
+    "case_id": "CASE-2026-000095",
+    "customer_id": "CUS-001004",
+    "opened_at": "2026-04-18T14:47:37Z",
+    "status": "closed",
+    "priority_score": "48",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-04-20T07:46:28Z"
+  },
+  {
+    "case_id": "CASE-2026-000096",
+    "customer_id": "CUS-001962",
+    "opened_at": "2026-04-18T22:05:13Z",
+    "status": "closed",
+    "priority_score": "42",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-04-19T16:23:49Z"
+  },
+  {
+    "case_id": "CASE-2026-000097",
+    "customer_id": "CUS-004810",
+    "opened_at": "2026-04-19T02:50:37Z",
+    "status": "closed",
+    "priority_score": "79",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-04-20T07:33:30Z"
+  },
+  {
+    "case_id": "CASE-2026-000098",
+    "customer_id": "CUS-000209",
+    "opened_at": "2026-04-19T04:06:53Z",
+    "status": "closed",
+    "priority_score": "70",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-04-21T15:09:58Z"
+  },
+  {
+    "case_id": "CASE-2026-000099",
+    "customer_id": "CUS-004970",
+    "opened_at": "2026-04-19T08:18:41Z",
+    "status": "closed",
+    "priority_score": "48",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-04-20T21:08:54Z"
+  },
+  {
+    "case_id": "CASE-2026-000100",
+    "customer_id": "CUS-003413",
+    "opened_at": "2026-04-19T10:55:45Z",
+    "status": "closed",
+    "priority_score": "52",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-04-21T11:12:30Z"
+  },
+  {
+    "case_id": "CASE-2026-000101",
+    "customer_id": "CUS-004339",
+    "opened_at": "2026-04-19T23:02:32Z",
+    "status": "closed",
+    "priority_score": "45",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-04-20T19:01:00Z"
+  },
+  {
+    "case_id": "CASE-2026-000102",
+    "customer_id": "CUS-003066",
+    "opened_at": "2026-04-20T19:21:43Z",
+    "status": "closed",
+    "priority_score": "55",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-04-22T20:01:12Z"
+  },
+  {
+    "case_id": "CASE-2026-000103",
+    "customer_id": "CUS-000274",
+    "opened_at": "2026-04-21T17:19:35Z",
+    "status": "closed",
+    "priority_score": "85",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-04-23T13:34:24Z"
+  },
+  {
+    "case_id": "CASE-2026-000104",
+    "customer_id": "CUS-004829",
+    "opened_at": "2026-04-22T00:30:59Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-04-24T03:38:05Z"
+  },
+  {
+    "case_id": "CASE-2026-000105",
+    "customer_id": "CUS-003241",
+    "opened_at": "2026-04-23T23:21:01Z",
+    "status": "closed",
+    "priority_score": "50",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-04-25T04:36:49Z"
+  },
+  {
+    "case_id": "CASE-2026-000106",
+    "customer_id": "CUS-000641",
+    "opened_at": "2026-04-24T03:19:33Z",
+    "status": "closed",
+    "priority_score": "54",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-04-25T11:17:34Z"
+  },
+  {
+    "case_id": "CASE-2026-000107",
+    "customer_id": "CUS-001314",
+    "opened_at": "2026-04-27T08:43:31Z",
+    "status": "closed",
+    "priority_score": "25",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-04-27T23:41:02Z"
+  },
+  {
+    "case_id": "CASE-2026-000108",
+    "customer_id": "CUS-003646",
+    "opened_at": "2026-04-28T12:27:42Z",
+    "status": "closed",
+    "priority_score": "74",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-04-28T18:09:04Z"
+  },
+  {
+    "case_id": "CASE-2026-000109",
+    "customer_id": "CUS-002304",
+    "opened_at": "2026-04-29T21:18:06Z",
+    "status": "closed",
+    "priority_score": "64",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-04-30T23:09:19Z"
+  },
+  {
+    "case_id": "CASE-2026-000110",
+    "customer_id": "CUS-003234",
+    "opened_at": "2026-04-29T21:22:00Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-05-01T14:08:24Z"
+  },
+  {
+    "case_id": "CASE-2026-000111",
+    "customer_id": "CUS-000706",
+    "opened_at": "2026-04-30T21:26:08Z",
+    "status": "closed",
+    "priority_score": "46",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-05-02T23:12:16Z"
+  },
+  {
+    "case_id": "CASE-2026-000112",
+    "customer_id": "CUS-000942",
+    "opened_at": "2026-05-02T01:37:01Z",
+    "status": "closed",
+    "priority_score": "27",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-05-03T21:56:06Z"
+  },
+  {
+    "case_id": "CASE-2026-000113",
+    "customer_id": "CUS-004165",
+    "opened_at": "2026-05-02T12:24:12Z",
+    "status": "closed",
+    "priority_score": "25",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-05-04T00:32:16Z"
+  },
+  {
+    "case_id": "CASE-2026-000114",
+    "customer_id": "CUS-003050",
+    "opened_at": "2026-05-02T12:48:46Z",
+    "status": "closed",
+    "priority_score": "50",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-05-03T08:52:49Z"
+  },
+  {
+    "case_id": "CASE-2026-000115",
+    "customer_id": "CUS-000145",
+    "opened_at": "2026-05-02T21:23:39Z",
+    "status": "closed",
+    "priority_score": "52",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-05-04T12:03:06Z"
+  },
+  {
+    "case_id": "CASE-2026-000116",
+    "customer_id": "CUS-001563",
+    "opened_at": "2026-05-03T10:38:45Z",
+    "status": "closed",
+    "priority_score": "59",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-05-04T10:27:20Z"
+  },
+  {
+    "case_id": "CASE-2026-000117",
+    "customer_id": "CUS-002116",
+    "opened_at": "2026-05-03T16:40:28Z",
+    "status": "closed",
+    "priority_score": "65",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-05-04T17:20:13Z"
+  },
+  {
+    "case_id": "CASE-2026-000118",
+    "customer_id": "CUS-003130",
+    "opened_at": "2026-05-03T17:54:01Z",
+    "status": "closed",
+    "priority_score": "65",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-05-04T08:45:27Z"
+  },
+  {
+    "case_id": "CASE-2026-000119",
+    "customer_id": "CUS-004124",
+    "opened_at": "2026-05-04T04:34:10Z",
+    "status": "closed",
+    "priority_score": "27",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-05-05T00:13:41Z"
+  },
+  {
+    "case_id": "CASE-2026-000120",
+    "customer_id": "CUS-001194",
+    "opened_at": "2026-05-05T23:36:15Z",
+    "status": "in_review",
+    "priority_score": "75",
+    "final_disposition": "",
+    "closed_at": ""
+  },
+  {
+    "case_id": "CASE-2026-000121",
+    "customer_id": "CUS-002797",
+    "opened_at": "2026-05-06T21:59:40Z",
+    "status": "open",
+    "priority_score": "60",
+    "final_disposition": "",
+    "closed_at": ""
+  },
+  {
+    "case_id": "CASE-2026-000122",
+    "customer_id": "CUS-000696",
+    "opened_at": "2026-05-08T23:50:09Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-05-10T11:05:58Z"
+  },
+  {
+    "case_id": "CASE-2026-000123",
+    "customer_id": "CUS-003642",
+    "opened_at": "2026-05-09T10:13:24Z",
+    "status": "closed",
+    "priority_score": "50",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-05-11T13:52:07Z"
+  },
+  {
+    "case_id": "CASE-2026-000124",
+    "customer_id": "CUS-002828",
+    "opened_at": "2026-05-10T05:12:46Z",
+    "status": "closed",
+    "priority_score": "55",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-05-11T17:49:37Z"
+  },
+  {
+    "case_id": "CASE-2026-000125",
+    "customer_id": "CUS-003850",
+    "opened_at": "2026-05-10T06:41:51Z",
+    "status": "closed",
+    "priority_score": "75",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-05-11T00:41:30Z"
+  },
+  {
+    "case_id": "CASE-2026-000126",
+    "customer_id": "CUS-001141",
+    "opened_at": "2026-05-10T12:13:02Z",
+    "status": "closed",
+    "priority_score": "45",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-05-11T07:59:00Z"
+  },
+  {
+    "case_id": "CASE-2026-000127",
+    "customer_id": "CUS-001049",
+    "opened_at": "2026-05-10T13:40:22Z",
+    "status": "closed",
+    "priority_score": "50",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-05-11T06:59:35Z"
+  },
+  {
+    "case_id": "CASE-2026-000128",
+    "customer_id": "CUS-002023",
+    "opened_at": "2026-05-10T14:25:34Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-05-11T02:54:18Z"
+  },
+  {
+    "case_id": "CASE-2026-000129",
+    "customer_id": "CUS-004608",
+    "opened_at": "2026-05-12T20:41:46Z",
+    "status": "closed",
+    "priority_score": "55",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-05-13T05:47:47Z"
+  },
+  {
+    "case_id": "CASE-2026-000130",
+    "customer_id": "CUS-004847",
+    "opened_at": "2026-05-12T20:46:19Z",
+    "status": "closed",
+    "priority_score": "55",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-05-14T16:14:39Z"
+  },
+  {
+    "case_id": "CASE-2026-000131",
+    "customer_id": "CUS-000632",
+    "opened_at": "2026-05-14T08:44:57Z",
+    "status": "closed",
+    "priority_score": "75",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-05-16T15:38:06Z"
+  },
+  {
+    "case_id": "CASE-2026-000132",
+    "customer_id": "CUS-002746",
+    "opened_at": "2026-05-14T09:21:56Z",
+    "status": "closed",
+    "priority_score": "70",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-05-15T23:31:32Z"
+  },
+  {
+    "case_id": "CASE-2026-000133",
+    "customer_id": "CUS-002752",
+    "opened_at": "2026-05-14T16:36:57Z",
+    "status": "closed",
+    "priority_score": "37",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-05-16T13:38:33Z"
+  },
+  {
+    "case_id": "CASE-2026-000134",
+    "customer_id": "CUS-000942",
+    "opened_at": "2026-05-16T10:49:57Z",
+    "status": "closed",
+    "priority_score": "45",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-05-18T09:41:34Z"
+  },
+  {
+    "case_id": "CASE-2026-000135",
+    "customer_id": "CUS-004582",
+    "opened_at": "2026-05-17T19:24:22Z",
+    "status": "closed",
+    "priority_score": "84",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-05-19T12:40:25Z"
+  },
+  {
+    "case_id": "CASE-2026-000136",
+    "customer_id": "CUS-000025",
+    "opened_at": "2026-05-18T10:40:33Z",
+    "status": "closed",
+    "priority_score": "46",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-05-20T18:38:04Z"
+  },
+  {
+    "case_id": "CASE-2026-000137",
+    "customer_id": "CUS-004228",
+    "opened_at": "2026-05-18T11:29:22Z",
+    "status": "closed",
+    "priority_score": "45",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-05-20T14:37:14Z"
+  },
+  {
+    "case_id": "CASE-2026-000138",
+    "customer_id": "CUS-003970",
+    "opened_at": "2026-05-18T14:05:12Z",
+    "status": "closed",
+    "priority_score": "33",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-05-19T06:02:21Z"
+  },
+  {
+    "case_id": "CASE-2026-000139",
+    "customer_id": "CUS-003942",
+    "opened_at": "2026-05-20T03:28:26Z",
+    "status": "closed",
+    "priority_score": "55",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-05-21T10:04:50Z"
+  },
+  {
+    "case_id": "CASE-2026-000140",
+    "customer_id": "CUS-001598",
+    "opened_at": "2026-05-22T09:07:52Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-05-23T00:23:19Z"
+  },
+  {
+    "case_id": "CASE-2026-000141",
+    "customer_id": "CUS-003886",
+    "opened_at": "2026-05-24T20:57:27Z",
+    "status": "closed",
+    "priority_score": "46",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-05-25T13:53:53Z"
+  },
+  {
+    "case_id": "CASE-2026-000142",
+    "customer_id": "CUS-000842",
+    "opened_at": "2026-05-25T01:55:30Z",
+    "status": "closed",
+    "priority_score": "25",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-05-25T21:12:23Z"
+  },
+  {
+    "case_id": "CASE-2026-000143",
+    "customer_id": "CUS-000484",
+    "opened_at": "2026-05-26T14:44:54Z",
+    "status": "closed",
+    "priority_score": "20",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-05-27T16:42:59Z"
+  },
+  {
+    "case_id": "CASE-2026-000144",
+    "customer_id": "CUS-003796",
+    "opened_at": "2026-05-27T07:39:16Z",
+    "status": "closed",
+    "priority_score": "55",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-05-29T22:33:35Z"
+  },
+  {
+    "case_id": "CASE-2026-000145",
+    "customer_id": "CUS-001465",
+    "opened_at": "2026-05-27T21:39:38Z",
+    "status": "closed",
+    "priority_score": "46",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-05-28T04:35:12Z"
+  },
+  {
+    "case_id": "CASE-2026-000146",
+    "customer_id": "CUS-004993",
+    "opened_at": "2026-05-28T12:07:53Z",
+    "status": "closed",
+    "priority_score": "45",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-05-29T02:29:10Z"
+  },
+  {
+    "case_id": "CASE-2026-000147",
+    "customer_id": "CUS-004399",
+    "opened_at": "2026-05-28T15:53:17Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-05-30T05:41:03Z"
+  },
+  {
+    "case_id": "CASE-2026-000148",
+    "customer_id": "CUS-001025",
+    "opened_at": "2026-05-29T19:59:06Z",
+    "status": "closed",
+    "priority_score": "68",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-05-31T05:16:37Z"
+  },
+  {
+    "case_id": "CASE-2026-000149",
+    "customer_id": "CUS-003877",
+    "opened_at": "2026-05-30T02:32:22Z",
+    "status": "closed",
+    "priority_score": "40",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-05-31T04:32:51Z"
+  },
+  {
+    "case_id": "CASE-2026-000150",
+    "customer_id": "CUS-003343",
+    "opened_at": "2026-05-31T12:56:20Z",
+    "status": "closed",
+    "priority_score": "55",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-06-02T15:12:26Z"
+  },
+  {
+    "case_id": "CASE-2026-000151",
+    "customer_id": "CUS-003416",
+    "opened_at": "2026-05-31T18:34:22Z",
+    "status": "closed",
+    "priority_score": "30",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-06-01T11:57:45Z"
+  },
+  {
+    "case_id": "CASE-2026-000152",
+    "customer_id": "CUS-003846",
+    "opened_at": "2026-06-02T12:54:09Z",
+    "status": "closed",
+    "priority_score": "63",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-06-04T02:53:02Z"
+  },
+  {
+    "case_id": "CASE-2026-000153",
+    "customer_id": "CUS-001364",
+    "opened_at": "2026-06-03T01:36:46Z",
+    "status": "closed",
+    "priority_score": "40",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-06-05T08:31:37Z"
+  },
+  {
+    "case_id": "CASE-2026-000154",
+    "customer_id": "CUS-001564",
+    "opened_at": "2026-06-03T08:15:57Z",
+    "status": "closed",
+    "priority_score": "25",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-06-04T13:36:55Z"
+  },
+  {
+    "case_id": "CASE-2026-000155",
+    "customer_id": "CUS-000644",
+    "opened_at": "2026-06-04T00:36:23Z",
+    "status": "closed",
+    "priority_score": "70",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-06-04T14:44:35Z"
+  },
+  {
+    "case_id": "CASE-2026-000156",
+    "customer_id": "CUS-002947",
+    "opened_at": "2026-06-04T02:57:36Z",
+    "status": "closed",
+    "priority_score": "52",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-06-05T06:20:09Z"
+  },
+  {
+    "case_id": "CASE-2026-000157",
+    "customer_id": "CUS-000322",
+    "opened_at": "2026-06-05T13:07:08Z",
+    "status": "closed",
+    "priority_score": "70",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-06-07T08:37:36Z"
+  },
+  {
+    "case_id": "CASE-2026-000158",
+    "customer_id": "CUS-000618",
+    "opened_at": "2026-06-06T07:59:01Z",
+    "status": "closed",
+    "priority_score": "79",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-06-07T01:48:09Z"
+  },
+  {
+    "case_id": "CASE-2026-000159",
+    "customer_id": "CUS-000935",
+    "opened_at": "2026-06-08T16:25:18Z",
+    "status": "closed",
+    "priority_score": "35",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-06-09T19:18:01Z"
+  },
+  {
+    "case_id": "CASE-2026-000160",
+    "customer_id": "CUS-000604",
+    "opened_at": "2026-06-08T21:09:38Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-06-09T22:35:15Z"
+  },
+  {
+    "case_id": "CASE-2026-000161",
+    "customer_id": "CUS-002416",
+    "opened_at": "2026-06-09T00:22:37Z",
+    "status": "closed",
+    "priority_score": "70",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-06-09T19:25:22Z"
+  },
+  {
+    "case_id": "CASE-2026-000162",
+    "customer_id": "CUS-003671",
+    "opened_at": "2026-06-09T02:04:41Z",
+    "status": "closed",
+    "priority_score": "35",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-06-09T18:41:07Z"
+  },
+  {
+    "case_id": "CASE-2026-000163",
+    "customer_id": "CUS-004822",
+    "opened_at": "2026-06-09T11:20:27Z",
+    "status": "closed",
+    "priority_score": "37",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-06-11T03:42:31Z"
+  },
+  {
+    "case_id": "CASE-2026-000164",
+    "customer_id": "CUS-004520",
+    "opened_at": "2026-06-09T21:00:17Z",
+    "status": "closed",
+    "priority_score": "55",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-06-10T14:22:47Z"
+  },
+  {
+    "case_id": "CASE-2026-000165",
+    "customer_id": "CUS-000698",
+    "opened_at": "2026-06-09T22:26:47Z",
+    "status": "in_review",
+    "priority_score": "25",
+    "final_disposition": "",
+    "closed_at": ""
+  },
+  {
+    "case_id": "CASE-2026-000166",
+    "customer_id": "CUS-002150",
+    "opened_at": "2026-06-10T07:39:59Z",
+    "status": "closed",
+    "priority_score": "45",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-06-11T17:36:15Z"
+  },
+  {
+    "case_id": "CASE-2026-000167",
+    "customer_id": "CUS-003261",
+    "opened_at": "2026-06-10T12:26:54Z",
+    "status": "closed",
+    "priority_score": "33",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-06-11T06:41:39Z"
+  },
+  {
+    "case_id": "CASE-2026-000168",
+    "customer_id": "CUS-000573",
+    "opened_at": "2026-06-12T01:16:46Z",
+    "status": "closed",
+    "priority_score": "24",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-06-12T15:13:11Z"
+  },
+  {
+    "case_id": "CASE-2026-000169",
+    "customer_id": "CUS-004984",
+    "opened_at": "2026-06-12T21:14:43Z",
+    "status": "closed",
+    "priority_score": "39",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-06-14T17:49:37Z"
+  },
+  {
+    "case_id": "CASE-2026-000170",
+    "customer_id": "CUS-001916",
+    "opened_at": "2026-06-13T22:57:11Z",
+    "status": "closed",
+    "priority_score": "70",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-06-14T11:05:18Z"
+  },
+  {
+    "case_id": "CASE-2026-000171",
+    "customer_id": "CUS-001469",
+    "opened_at": "2026-06-14T05:28:09Z",
+    "status": "closed",
+    "priority_score": "33",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-06-16T06:27:40Z"
+  },
+  {
+    "case_id": "CASE-2026-000172",
+    "customer_id": "CUS-004147",
+    "opened_at": "2026-06-14T08:52:08Z",
+    "status": "closed",
+    "priority_score": "55",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-06-16T06:52:53Z"
+  },
+  {
+    "case_id": "CASE-2026-000173",
+    "customer_id": "CUS-004419",
+    "opened_at": "2026-06-14T19:47:14Z",
+    "status": "closed",
+    "priority_score": "25",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-06-16T05:56:52Z"
+  },
+  {
+    "case_id": "CASE-2026-000174",
+    "customer_id": "CUS-000092",
+    "opened_at": "2026-06-15T06:57:16Z",
+    "status": "closed",
+    "priority_score": "70",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-06-15T19:40:57Z"
+  },
+  {
+    "case_id": "CASE-2026-000175",
+    "customer_id": "CUS-000068",
+    "opened_at": "2026-06-15T10:07:19Z",
+    "status": "closed",
+    "priority_score": "54",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-06-17T02:28:08Z"
+  },
+  {
+    "case_id": "CASE-2026-000176",
+    "customer_id": "CUS-000690",
+    "opened_at": "2026-06-16T18:44:50Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-06-17T07:14:11Z"
+  },
+  {
+    "case_id": "CASE-2026-000177",
+    "customer_id": "CUS-002630",
+    "opened_at": "2026-06-17T06:12:38Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-06-19T06:52:21Z"
+  },
+  {
+    "case_id": "CASE-2026-000178",
+    "customer_id": "CUS-001869",
+    "opened_at": "2026-06-17T06:38:44Z",
+    "status": "closed",
+    "priority_score": "27",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-06-19T10:46:36Z"
+  },
+  {
+    "case_id": "CASE-2026-000179",
+    "customer_id": "CUS-003577",
+    "opened_at": "2026-06-17T13:00:27Z",
+    "status": "closed",
+    "priority_score": "52",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-06-18T01:08:14Z"
+  },
+  {
+    "case_id": "CASE-2026-000180",
+    "customer_id": "CUS-004812",
+    "opened_at": "2026-06-17T20:13:14Z",
+    "status": "closed",
+    "priority_score": "29",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-06-20T01:19:25Z"
+  },
+  {
+    "case_id": "CASE-2026-000181",
+    "customer_id": "CUS-003677",
+    "opened_at": "2026-06-18T06:59:06Z",
+    "status": "closed",
+    "priority_score": "29",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-06-19T12:00:52Z"
+  },
+  {
+    "case_id": "CASE-2026-000182",
+    "customer_id": "CUS-004288",
+    "opened_at": "2026-06-18T07:03:09Z",
+    "status": "closed",
+    "priority_score": "27",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-06-19T08:46:56Z"
+  },
+  {
+    "case_id": "CASE-2026-000183",
+    "customer_id": "CUS-003115",
+    "opened_at": "2026-06-18T15:34:44Z",
+    "status": "closed",
+    "priority_score": "52",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-06-20T07:59:34Z"
+  },
+  {
+    "case_id": "CASE-2026-000184",
+    "customer_id": "CUS-001200",
+    "opened_at": "2026-06-18T16:13:51Z",
+    "status": "closed",
+    "priority_score": "55",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-06-19T12:16:47Z"
+  },
+  {
+    "case_id": "CASE-2026-000185",
+    "customer_id": "CUS-003468",
+    "opened_at": "2026-06-20T00:45:43Z",
+    "status": "closed",
+    "priority_score": "30",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-06-21T05:47:50Z"
+  },
+  {
+    "case_id": "CASE-2026-000186",
+    "customer_id": "CUS-002060",
+    "opened_at": "2026-06-20T02:12:26Z",
+    "status": "closed",
+    "priority_score": "30",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-06-21T04:43:50Z"
+  },
+  {
+    "case_id": "CASE-2026-000187",
+    "customer_id": "CUS-000391",
+    "opened_at": "2026-06-20T19:32:21Z",
+    "status": "closed",
+    "priority_score": "46",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-06-22T10:53:15Z"
+  },
+  {
+    "case_id": "CASE-2026-000188",
+    "customer_id": "CUS-003597",
+    "opened_at": "2026-06-21T10:45:47Z",
+    "status": "open",
+    "priority_score": "39",
+    "final_disposition": "",
+    "closed_at": ""
+  },
+  {
+    "case_id": "CASE-2026-000189",
+    "customer_id": "CUS-001941",
+    "opened_at": "2026-06-21T15:54:01Z",
+    "status": "closed",
+    "priority_score": "68",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-06-23T17:32:51Z"
+  },
+  {
+    "case_id": "CASE-2026-000190",
+    "customer_id": "CUS-001244",
+    "opened_at": "2026-06-22T12:04:49Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-06-23T15:38:50Z"
+  },
+  {
+    "case_id": "CASE-2026-000191",
+    "customer_id": "CUS-000566",
+    "opened_at": "2026-06-22T16:25:01Z",
+    "status": "closed",
+    "priority_score": "64",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-06-23T12:17:09Z"
+  },
+  {
+    "case_id": "CASE-2026-000192",
+    "customer_id": "CUS-002661",
+    "opened_at": "2026-06-22T20:22:28Z",
+    "status": "in_review",
+    "priority_score": "75",
+    "final_disposition": "",
+    "closed_at": ""
+  },
+  {
+    "case_id": "CASE-2026-000193",
+    "customer_id": "CUS-003655",
+    "opened_at": "2026-06-23T08:13:08Z",
+    "status": "open",
+    "priority_score": "35",
+    "final_disposition": "",
+    "closed_at": ""
+  },
+  {
+    "case_id": "CASE-2026-000194",
+    "customer_id": "CUS-003971",
+    "opened_at": "2026-06-23T11:18:22Z",
+    "status": "closed",
+    "priority_score": "48",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-06-25T09:16:36Z"
+  },
+  {
+    "case_id": "CASE-2026-000195",
+    "customer_id": "CUS-000123",
+    "opened_at": "2026-06-23T16:32:54Z",
+    "status": "closed",
+    "priority_score": "20",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-06-23T23:53:13Z"
+  },
+  {
+    "case_id": "CASE-2026-000196",
+    "customer_id": "CUS-004113",
+    "opened_at": "2026-06-23T20:03:09Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-06-24T03:46:59Z"
+  },
+  {
+    "case_id": "CASE-2026-000197",
+    "customer_id": "CUS-000462",
+    "opened_at": "2026-06-24T12:43:16Z",
+    "status": "closed",
+    "priority_score": "49",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-06-26T03:29:58Z"
+  },
+  {
+    "case_id": "CASE-2026-000198",
+    "customer_id": "CUS-001344",
+    "opened_at": "2026-06-25T07:16:21Z",
+    "status": "closed",
+    "priority_score": "28",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-06-27T08:19:47Z"
+  },
+  {
+    "case_id": "CASE-2026-000199",
+    "customer_id": "CUS-004732",
+    "opened_at": "2026-06-25T17:43:03Z",
+    "status": "closed",
+    "priority_score": "44",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-06-27T03:40:26Z"
+  },
+  {
+    "case_id": "CASE-2026-000200",
+    "customer_id": "CUS-003980",
+    "opened_at": "2026-06-25T18:11:11Z",
+    "status": "closed",
+    "priority_score": "37",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-06-26T22:54:05Z"
+  },
+  {
+    "case_id": "CASE-2026-000201",
+    "customer_id": "CUS-001283",
+    "opened_at": "2026-06-26T11:35:58Z",
+    "status": "closed",
+    "priority_score": "65",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-06-27T00:28:18Z"
+  },
+  {
+    "case_id": "CASE-2026-000202",
+    "customer_id": "CUS-001009",
+    "opened_at": "2026-06-26T14:46:19Z",
+    "status": "closed",
+    "priority_score": "55",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-06-28T08:52:33Z"
+  },
+  {
+    "case_id": "CASE-2026-000203",
+    "customer_id": "CUS-004561",
+    "opened_at": "2026-06-26T17:24:17Z",
+    "status": "closed",
+    "priority_score": "45",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-06-27T19:24:37Z"
+  },
+  {
+    "case_id": "CASE-2026-000204",
+    "customer_id": "CUS-002566",
+    "opened_at": "2026-06-26T18:07:56Z",
+    "status": "closed",
+    "priority_score": "73",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-06-28T00:20:09Z"
+  },
+  {
+    "case_id": "CASE-2026-000205",
+    "customer_id": "CUS-000093",
+    "opened_at": "2026-06-28T01:56:09Z",
+    "status": "closed",
+    "priority_score": "68",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-06-29T08:49:35Z"
+  },
+  {
+    "case_id": "CASE-2026-000206",
+    "customer_id": "CUS-000449",
+    "opened_at": "2026-06-28T14:25:53Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-06-30T04:04:47Z"
+  },
+  {
+    "case_id": "CASE-2026-000207",
+    "customer_id": "CUS-000866",
+    "opened_at": "2026-06-29T01:43:51Z",
+    "status": "closed",
+    "priority_score": "35",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-06-29T09:43:22Z"
+  },
+  {
+    "case_id": "CASE-2026-000208",
+    "customer_id": "CUS-004573",
+    "opened_at": "2026-06-29T12:59:55Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-01T02:47:43Z"
+  },
+  {
+    "case_id": "CASE-2026-000209",
+    "customer_id": "CUS-004826",
+    "opened_at": "2026-06-29T14:52:58Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-06-30T23:30:51Z"
+  },
+  {
+    "case_id": "CASE-2026-000210",
+    "customer_id": "CUS-002854",
+    "opened_at": "2026-06-29T18:55:28Z",
+    "status": "closed",
+    "priority_score": "40",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-01T01:14:38Z"
+  },
+  {
+    "case_id": "CASE-2026-000211",
+    "customer_id": "CUS-004533",
+    "opened_at": "2026-06-29T19:59:52Z",
+    "status": "in_review",
+    "priority_score": "50",
+    "final_disposition": "",
+    "closed_at": ""
+  },
+  {
+    "case_id": "CASE-2026-000212",
+    "customer_id": "CUS-003544",
+    "opened_at": "2026-06-30T20:20:22Z",
+    "status": "closed",
+    "priority_score": "25",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-02T02:48:22Z"
+  },
+  {
+    "case_id": "CASE-2026-000213",
+    "customer_id": "CUS-001020",
+    "opened_at": "2026-07-01T00:34:03Z",
+    "status": "closed",
+    "priority_score": "54",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-02T16:15:33Z"
+  },
+  {
+    "case_id": "CASE-2026-000214",
+    "customer_id": "CUS-001135",
+    "opened_at": "2026-07-01T00:51:43Z",
+    "status": "closed",
+    "priority_score": "40",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-03T09:42:53Z"
+  },
+  {
+    "case_id": "CASE-2026-000215",
+    "customer_id": "CUS-000634",
+    "opened_at": "2026-07-01T05:15:31Z",
+    "status": "closed",
+    "priority_score": "45",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-03T07:43:22Z"
+  },
+  {
+    "case_id": "CASE-2026-000216",
+    "customer_id": "CUS-004102",
+    "opened_at": "2026-07-01T06:38:07Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-03T04:56:57Z"
+  },
+  {
+    "case_id": "CASE-2026-000217",
+    "customer_id": "CUS-000412",
+    "opened_at": "2026-07-01T08:41:30Z",
+    "status": "closed",
+    "priority_score": "29",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-02T08:48:03Z"
+  },
+  {
+    "case_id": "CASE-2026-000218",
+    "customer_id": "CUS-001505",
+    "opened_at": "2026-07-01T09:29:19Z",
+    "status": "closed",
+    "priority_score": "75",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-07-01T23:04:20Z"
+  },
+  {
+    "case_id": "CASE-2026-000219",
+    "customer_id": "CUS-000597",
+    "opened_at": "2026-07-01T14:50:01Z",
+    "status": "closed",
+    "priority_score": "25",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-07-02T13:19:24Z"
+  },
+  {
+    "case_id": "CASE-2026-000220",
+    "customer_id": "CUS-001105",
+    "opened_at": "2026-07-01T18:24:52Z",
+    "status": "closed",
+    "priority_score": "55",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-02T19:51:06Z"
+  },
+  {
+    "case_id": "CASE-2026-000221",
+    "customer_id": "CUS-001754",
+    "opened_at": "2026-07-03T00:11:20Z",
+    "status": "in_review",
+    "priority_score": "29",
+    "final_disposition": "",
+    "closed_at": ""
+  },
+  {
+    "case_id": "CASE-2026-000222",
+    "customer_id": "CUS-001486",
+    "opened_at": "2026-07-03T09:25:23Z",
+    "status": "closed",
+    "priority_score": "25",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-05T10:27:27Z"
+  },
+  {
+    "case_id": "CASE-2026-000223",
+    "customer_id": "CUS-002669",
+    "opened_at": "2026-07-03T12:28:57Z",
+    "status": "closed",
+    "priority_score": "75",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-03T20:06:52Z"
+  },
+  {
+    "case_id": "CASE-2026-000224",
+    "customer_id": "CUS-001659",
+    "opened_at": "2026-07-03T21:44:26Z",
+    "status": "closed",
+    "priority_score": "70",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-05T01:24:31Z"
+  },
+  {
+    "case_id": "CASE-2026-000225",
+    "customer_id": "CUS-004278",
+    "opened_at": "2026-07-04T07:45:28Z",
+    "status": "closed",
+    "priority_score": "64",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-06T06:06:30Z"
+  },
+  {
+    "case_id": "CASE-2026-000226",
+    "customer_id": "CUS-001451",
+    "opened_at": "2026-07-04T11:17:41Z",
+    "status": "closed",
+    "priority_score": "55",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-05T17:54:11Z"
+  },
+  {
+    "case_id": "CASE-2026-000227",
+    "customer_id": "CUS-003524",
+    "opened_at": "2026-07-04T14:15:56Z",
+    "status": "closed",
+    "priority_score": "65",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-06T02:34:58Z"
+  },
+  {
+    "case_id": "CASE-2026-000228",
+    "customer_id": "CUS-004910",
+    "opened_at": "2026-07-04T23:05:39Z",
+    "status": "closed",
+    "priority_score": "55",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-06T13:33:28Z"
+  },
+  {
+    "case_id": "CASE-2026-000229",
+    "customer_id": "CUS-001712",
+    "opened_at": "2026-07-05T00:41:37Z",
+    "status": "closed",
+    "priority_score": "75",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-07T02:57:49Z"
+  },
+  {
+    "case_id": "CASE-2026-000230",
+    "customer_id": "CUS-003921",
+    "opened_at": "2026-07-05T15:43:47Z",
+    "status": "closed",
+    "priority_score": "62",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-07T03:08:12Z"
+  },
+  {
+    "case_id": "CASE-2026-000231",
+    "customer_id": "CUS-000838",
+    "opened_at": "2026-07-05T17:54:12Z",
+    "status": "closed",
+    "priority_score": "65",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-07-07T15:23:29Z"
+  },
+  {
+    "case_id": "CASE-2026-000232",
+    "customer_id": "CUS-001118",
+    "opened_at": "2026-07-06T14:48:45Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-07T08:09:33Z"
+  },
+  {
+    "case_id": "CASE-2026-000233",
+    "customer_id": "CUS-000744",
+    "opened_at": "2026-07-06T20:58:07Z",
+    "status": "closed",
+    "priority_score": "48",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-07T06:02:37Z"
+  },
+  {
+    "case_id": "CASE-2026-000234",
+    "customer_id": "CUS-002902",
+    "opened_at": "2026-07-06T23:37:11Z",
+    "status": "closed",
+    "priority_score": "55",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-08T21:42:28Z"
+  },
+  {
+    "case_id": "CASE-2026-000235",
+    "customer_id": "CUS-004968",
+    "opened_at": "2026-07-07T17:37:56Z",
+    "status": "closed",
+    "priority_score": "30",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-09T19:53:41Z"
+  },
+  {
+    "case_id": "CASE-2026-000236",
+    "customer_id": "CUS-004061",
+    "opened_at": "2026-07-08T10:14:40Z",
+    "status": "closed",
+    "priority_score": "80",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-09T15:27:02Z"
+  },
+  {
+    "case_id": "CASE-2026-000237",
+    "customer_id": "CUS-003949",
+    "opened_at": "2026-07-08T10:21:28Z",
+    "status": "closed",
+    "priority_score": "54",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-10T06:30:14Z"
+  },
+  {
+    "case_id": "CASE-2026-000238",
+    "customer_id": "CUS-003662",
+    "opened_at": "2026-07-08T14:42:09Z",
+    "status": "closed",
+    "priority_score": "29",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-09T19:40:56Z"
+  },
+  {
+    "case_id": "CASE-2026-000239",
+    "customer_id": "CUS-001840",
+    "opened_at": "2026-07-08T18:48:38Z",
+    "status": "closed",
+    "priority_score": "55",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-09T08:27:41Z"
+  },
+  {
+    "case_id": "CASE-2026-000240",
+    "customer_id": "CUS-003339",
+    "opened_at": "2026-07-08T20:34:14Z",
+    "status": "closed",
+    "priority_score": "44",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-10T13:10:36Z"
+  },
+  {
+    "case_id": "CASE-2026-000241",
+    "customer_id": "CUS-000019",
+    "opened_at": "2026-07-09T16:47:41Z",
+    "status": "closed",
+    "priority_score": "79",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-10T14:17:59Z"
+  },
+  {
+    "case_id": "CASE-2026-000242",
+    "customer_id": "CUS-000680",
+    "opened_at": "2026-07-09T18:18:58Z",
+    "status": "closed",
+    "priority_score": "50",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-11T18:28:34Z"
+  },
+  {
+    "case_id": "CASE-2026-000243",
+    "customer_id": "CUS-004925",
+    "opened_at": "2026-07-09T20:34:00Z",
+    "status": "closed",
+    "priority_score": "40",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-11T13:15:53Z"
+  },
+  {
+    "case_id": "CASE-2026-000244",
+    "customer_id": "CUS-003533",
+    "opened_at": "2026-07-09T22:02:13Z",
+    "status": "closed",
+    "priority_score": "46",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-10T16:28:45Z"
+  },
+  {
+    "case_id": "CASE-2026-000245",
+    "customer_id": "CUS-001316",
+    "opened_at": "2026-07-09T23:22:06Z",
+    "status": "closed",
+    "priority_score": "30",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-12T02:36:14Z"
+  },
+  {
+    "case_id": "CASE-2026-000246",
+    "customer_id": "CUS-000327",
+    "opened_at": "2026-07-10T07:22:30Z",
+    "status": "closed",
+    "priority_score": "82",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-12T02:11:18Z"
+  },
+  {
+    "case_id": "CASE-2026-000247",
+    "customer_id": "CUS-001472",
+    "opened_at": "2026-07-10T11:48:30Z",
+    "status": "closed",
+    "priority_score": "45",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-12T11:47:51Z"
+  },
+  {
+    "case_id": "CASE-2026-000248",
+    "customer_id": "CUS-000902",
+    "opened_at": "2026-07-10T12:15:29Z",
+    "status": "closed",
+    "priority_score": "55",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-12T13:08:14Z"
+  },
+  {
+    "case_id": "CASE-2026-000249",
+    "customer_id": "CUS-000893",
+    "opened_at": "2026-07-10T15:18:23Z",
+    "status": "closed",
+    "priority_score": "44",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-11T16:42:25Z"
+  },
+  {
+    "case_id": "CASE-2026-000250",
+    "customer_id": "CUS-000823",
+    "opened_at": "2026-07-10T16:05:51Z",
+    "status": "closed",
+    "priority_score": "37",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-10T19:15:29Z"
+  },
+  {
+    "case_id": "CASE-2026-000251",
+    "customer_id": "CUS-003139",
+    "opened_at": "2026-07-11T14:10:07Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-12T22:52:40Z"
+  },
+  {
+    "case_id": "CASE-2026-000252",
+    "customer_id": "CUS-003033",
+    "opened_at": "2026-07-11T22:54:10Z",
+    "status": "closed",
+    "priority_score": "27",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-12T15:53:49Z"
+  },
+  {
+    "case_id": "CASE-2026-000253",
+    "customer_id": "CUS-004089",
+    "opened_at": "2026-07-12T02:10:05Z",
+    "status": "closed",
+    "priority_score": "40",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-07-13T00:55:09Z"
+  },
+  {
+    "case_id": "CASE-2026-000254",
+    "customer_id": "CUS-000860",
+    "opened_at": "2026-07-12T07:56:10Z",
+    "status": "open",
+    "priority_score": "25",
+    "final_disposition": "",
+    "closed_at": ""
+  },
+  {
+    "case_id": "CASE-2026-000255",
+    "customer_id": "CUS-002615",
+    "opened_at": "2026-07-12T09:42:06Z",
+    "status": "closed",
+    "priority_score": "48",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-14T18:44:24Z"
+  },
+  {
+    "case_id": "CASE-2026-000256",
+    "customer_id": "CUS-000231",
+    "opened_at": "2026-07-12T19:39:20Z",
+    "status": "closed",
+    "priority_score": "50",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-13T12:42:36Z"
+  },
+  {
+    "case_id": "CASE-2026-000257",
+    "customer_id": "CUS-001102",
+    "opened_at": "2026-07-13T04:15:05Z",
+    "status": "closed",
+    "priority_score": "74",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-14T13:23:32Z"
+  },
+  {
+    "case_id": "CASE-2026-000258",
+    "customer_id": "CUS-004430",
+    "opened_at": "2026-07-13T08:55:40Z",
+    "status": "in_review",
+    "priority_score": "30",
+    "final_disposition": "",
+    "closed_at": ""
+  },
+  {
+    "case_id": "CASE-2026-000259",
+    "customer_id": "CUS-004640",
+    "opened_at": "2026-07-13T13:00:34Z",
+    "status": "closed",
+    "priority_score": "62",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-07-14T01:04:41Z"
+  },
+  {
+    "case_id": "CASE-2026-000260",
+    "customer_id": "CUS-001941",
+    "opened_at": "2026-07-13T18:24:32Z",
+    "status": "closed",
+    "priority_score": "68",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-15T15:58:02Z"
+  },
+  {
+    "case_id": "CASE-2026-000261",
+    "customer_id": "CUS-002233",
+    "opened_at": "2026-07-14T00:12:45Z",
+    "status": "open",
+    "priority_score": "64",
+    "final_disposition": "",
+    "closed_at": ""
+  },
+  {
+    "case_id": "CASE-2026-000262",
+    "customer_id": "CUS-003034",
+    "opened_at": "2026-07-14T17:06:32Z",
+    "status": "closed",
+    "priority_score": "52",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-16T08:42:03Z"
+  },
+  {
+    "case_id": "CASE-2026-000263",
+    "customer_id": "CUS-004294",
+    "opened_at": "2026-07-14T17:51:23Z",
+    "status": "closed",
+    "priority_score": "29",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-15T10:48:06Z"
+  },
+  {
+    "case_id": "CASE-2026-000264",
+    "customer_id": "CUS-003941",
+    "opened_at": "2026-07-14T20:50:13Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-17T07:15:25Z"
+  },
+  {
+    "case_id": "CASE-2026-000265",
+    "customer_id": "CUS-001060",
+    "opened_at": "2026-07-15T01:25:46Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-15T12:34:05Z"
+  },
+  {
+    "case_id": "CASE-2026-000266",
+    "customer_id": "CUS-003114",
+    "opened_at": "2026-07-15T11:51:41Z",
+    "status": "closed",
+    "priority_score": "54",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-16T23:11:14Z"
+  },
+  {
+    "case_id": "CASE-2026-000267",
+    "customer_id": "CUS-001388",
+    "opened_at": "2026-07-16T03:00:24Z",
+    "status": "closed",
+    "priority_score": "35",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-18T01:31:20Z"
+  },
+  {
+    "case_id": "CASE-2026-000268",
+    "customer_id": "CUS-003113",
+    "opened_at": "2026-07-16T08:51:08Z",
+    "status": "closed",
+    "priority_score": "74",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-17T07:20:28Z"
+  },
+  {
+    "case_id": "CASE-2026-000269",
+    "customer_id": "CUS-004091",
+    "opened_at": "2026-07-16T11:17:45Z",
+    "status": "closed",
+    "priority_score": "50",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-17T17:33:36Z"
+  },
+  {
+    "case_id": "CASE-2026-000270",
+    "customer_id": "CUS-001068",
+    "opened_at": "2026-07-16T12:58:08Z",
+    "status": "closed",
+    "priority_score": "65",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-17T16:05:03Z"
+  },
+  {
+    "case_id": "CASE-2026-000271",
+    "customer_id": "CUS-003817",
+    "opened_at": "2026-07-16T17:06:39Z",
+    "status": "closed",
+    "priority_score": "55",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-18T00:35:58Z"
+  },
+  {
+    "case_id": "CASE-2026-000272",
+    "customer_id": "CUS-002228",
+    "opened_at": "2026-07-17T03:23:18Z",
+    "status": "closed",
+    "priority_score": "29",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-18T00:06:35Z"
+  },
+  {
+    "case_id": "CASE-2026-000273",
+    "customer_id": "CUS-000836",
+    "opened_at": "2026-07-17T06:16:15Z",
+    "status": "closed",
+    "priority_score": "70",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-07-18T21:27:57Z"
+  },
+  {
+    "case_id": "CASE-2026-000274",
+    "customer_id": "CUS-002583",
+    "opened_at": "2026-07-17T09:17:07Z",
+    "status": "closed",
+    "priority_score": "20",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-17T17:38:37Z"
+  },
+  {
+    "case_id": "CASE-2026-000275",
+    "customer_id": "CUS-000743",
+    "opened_at": "2026-07-17T13:28:54Z",
+    "status": "closed",
+    "priority_score": "29",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-07-19T02:41:36Z"
+  },
+  {
+    "case_id": "CASE-2026-000276",
+    "customer_id": "CUS-003992",
+    "opened_at": "2026-07-18T04:15:58Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-20T02:28:27Z"
+  },
+  {
+    "case_id": "CASE-2026-000277",
+    "customer_id": "CUS-004609",
+    "opened_at": "2026-07-18T13:56:26Z",
+    "status": "closed",
+    "priority_score": "50",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-19T10:46:53Z"
+  },
+  {
+    "case_id": "CASE-2026-000278",
+    "customer_id": "CUS-004769",
+    "opened_at": "2026-07-19T06:51:55Z",
+    "status": "closed",
+    "priority_score": "41",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-19T17:47:22Z"
+  },
+  {
+    "case_id": "CASE-2026-000279",
+    "customer_id": "CUS-004625",
+    "opened_at": "2026-07-19T10:19:03Z",
+    "status": "closed",
+    "priority_score": "54",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-20T11:48:01Z"
+  },
+  {
+    "case_id": "CASE-2026-000280",
+    "customer_id": "CUS-002729",
+    "opened_at": "2026-07-19T11:20:08Z",
+    "status": "closed",
+    "priority_score": "50",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-21T11:33:25Z"
+  },
+  {
+    "case_id": "CASE-2026-000281",
+    "customer_id": "CUS-000725",
+    "opened_at": "2026-07-19T18:09:00Z",
+    "status": "closed",
+    "priority_score": "45",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-21T01:22:16Z"
+  },
+  {
+    "case_id": "CASE-2026-000282",
+    "customer_id": "CUS-003806",
+    "opened_at": "2026-07-19T23:56:39Z",
+    "status": "closed",
+    "priority_score": "25",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-21T20:20:25Z"
+  },
+  {
+    "case_id": "CASE-2026-000283",
+    "customer_id": "CUS-000972",
+    "opened_at": "2026-07-20T16:26:58Z",
+    "status": "closed",
+    "priority_score": "20",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-21T08:23:50Z"
+  },
+  {
+    "case_id": "CASE-2026-000284",
+    "customer_id": "CUS-002695",
+    "opened_at": "2026-07-20T17:53:31Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-21T14:34:36Z"
+  },
+  {
+    "case_id": "CASE-2026-000285",
+    "customer_id": "CUS-001208",
+    "opened_at": "2026-07-21T04:10:45Z",
+    "status": "closed",
+    "priority_score": "35",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-22T02:59:41Z"
+  },
+  {
+    "case_id": "CASE-2026-000286",
+    "customer_id": "CUS-002199",
+    "opened_at": "2026-07-21T15:36:56Z",
+    "status": "closed",
+    "priority_score": "35",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-22T08:18:11Z"
+  },
+  {
+    "case_id": "CASE-2026-000287",
+    "customer_id": "CUS-003093",
+    "opened_at": "2026-07-21T18:00:18Z",
+    "status": "closed",
+    "priority_score": "25",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-07-22T13:53:17Z"
+  },
+  {
+    "case_id": "CASE-2026-000288",
+    "customer_id": "CUS-000971",
+    "opened_at": "2026-07-21T19:04:57Z",
+    "status": "closed",
+    "priority_score": "35",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-23T13:26:47Z"
+  },
+  {
+    "case_id": "CASE-2026-000289",
+    "customer_id": "CUS-001850",
+    "opened_at": "2026-07-21T21:11:17Z",
+    "status": "closed",
+    "priority_score": "48",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-22T15:36:41Z"
+  },
+  {
+    "case_id": "CASE-2026-000290",
+    "customer_id": "CUS-000962",
+    "opened_at": "2026-07-22T10:34:05Z",
+    "status": "closed",
+    "priority_score": "69",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-24T17:05:54Z"
+  },
+  {
+    "case_id": "CASE-2026-000291",
+    "customer_id": "CUS-004955",
+    "opened_at": "2026-07-23T02:43:45Z",
+    "status": "closed",
+    "priority_score": "25",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-25T02:35:04Z"
+  },
+  {
+    "case_id": "CASE-2026-000292",
+    "customer_id": "CUS-001948",
+    "opened_at": "2026-07-23T03:32:41Z",
+    "status": "closed",
+    "priority_score": "59",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-07-25T04:18:17Z"
+  },
+  {
+    "case_id": "CASE-2026-000293",
+    "customer_id": "CUS-004671",
+    "opened_at": "2026-07-23T10:28:38Z",
+    "status": "closed",
+    "priority_score": "85",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-24T17:22:00Z"
+  },
+  {
+    "case_id": "CASE-2026-000294",
+    "customer_id": "CUS-004053",
+    "opened_at": "2026-07-23T13:06:06Z",
+    "status": "closed",
+    "priority_score": "35",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-24T02:09:29Z"
+  },
+  {
+    "case_id": "CASE-2026-000295",
+    "customer_id": "CUS-002694",
+    "opened_at": "2026-07-23T14:16:18Z",
+    "status": "closed",
+    "priority_score": "40",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-25T11:13:02Z"
+  },
+  {
+    "case_id": "CASE-2026-000296",
+    "customer_id": "CUS-004100",
+    "opened_at": "2026-07-23T14:59:45Z",
+    "status": "closed",
+    "priority_score": "30",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-24T07:42:22Z"
+  },
+  {
+    "case_id": "CASE-2026-000297",
+    "customer_id": "CUS-000933",
+    "opened_at": "2026-07-23T20:59:53Z",
+    "status": "closed",
+    "priority_score": "45",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-24T17:05:15Z"
+  },
+  {
+    "case_id": "CASE-2026-000298",
+    "customer_id": "CUS-000279",
+    "opened_at": "2026-07-23T23:43:58Z",
+    "status": "closed",
+    "priority_score": "55",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-26T00:41:34Z"
+  },
+  {
+    "case_id": "CASE-2026-000299",
+    "customer_id": "CUS-000732",
+    "opened_at": "2026-07-24T08:19:42Z",
+    "status": "closed",
+    "priority_score": "46",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-07-25T15:05:58Z"
+  },
+  {
+    "case_id": "CASE-2026-000300",
+    "customer_id": "CUS-000454",
+    "opened_at": "2026-07-24T09:01:38Z",
+    "status": "closed",
+    "priority_score": "25",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-24T18:03:06Z"
+  },
+  {
+    "case_id": "CASE-2026-000301",
+    "customer_id": "CUS-001928",
+    "opened_at": "2026-07-24T15:17:33Z",
+    "status": "closed",
+    "priority_score": "65",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-30T04:04:21Z"
+  },
+  {
+    "case_id": "CASE-2026-000302",
+    "customer_id": "CUS-000476",
+    "opened_at": "2026-07-24T17:02:42Z",
+    "status": "closed",
+    "priority_score": "55",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-26T05:45:01Z"
+  },
+  {
+    "case_id": "CASE-2026-000303",
+    "customer_id": "CUS-002224",
+    "opened_at": "2026-07-24T17:29:21Z",
+    "status": "closed",
+    "priority_score": "65",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-07-25T09:14:34Z"
+  },
+  {
+    "case_id": "CASE-2026-000304",
+    "customer_id": "CUS-003942",
+    "opened_at": "2026-07-25T16:25:51Z",
+    "status": "closed",
+    "priority_score": "30",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-25T23:50:58Z"
+  },
+  {
+    "case_id": "CASE-2026-000305",
+    "customer_id": "CUS-002937",
+    "opened_at": "2026-07-25T20:25:16Z",
+    "status": "closed",
+    "priority_score": "55",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-26T13:12:57Z"
+  },
+  {
+    "case_id": "CASE-2026-000306",
+    "customer_id": "CUS-001003",
+    "opened_at": "2026-07-26T03:28:32Z",
+    "status": "closed",
+    "priority_score": "70",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-26T11:39:48Z"
+  },
+  {
+    "case_id": "CASE-2026-000307",
+    "customer_id": "CUS-000073",
+    "opened_at": "2026-07-26T06:37:45Z",
+    "status": "closed",
+    "priority_score": "35",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-28T01:59:32Z"
+  },
+  {
+    "case_id": "CASE-2026-000308",
+    "customer_id": "CUS-003910",
+    "opened_at": "2026-07-26T07:40:44Z",
+    "status": "closed",
+    "priority_score": "35",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-27T07:28:00Z"
+  },
+  {
+    "case_id": "CASE-2026-000309",
+    "customer_id": "CUS-000686",
+    "opened_at": "2026-07-26T17:31:37Z",
+    "status": "closed",
+    "priority_score": "75",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-27T07:52:04Z"
+  },
+  {
+    "case_id": "CASE-2026-000310",
+    "customer_id": "CUS-003968",
+    "opened_at": "2026-07-27T02:10:58Z",
+    "status": "open",
+    "priority_score": "70",
+    "final_disposition": "",
+    "closed_at": ""
+  },
+  {
+    "case_id": "CASE-2026-000311",
+    "customer_id": "CUS-001623",
+    "opened_at": "2026-07-27T03:31:38Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-29T04:40:26Z"
+  },
+  {
+    "case_id": "CASE-2026-000312",
+    "customer_id": "CUS-001018",
+    "opened_at": "2026-07-27T21:59:39Z",
+    "status": "closed",
+    "priority_score": "54",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-29T09:35:48Z"
+  },
+  {
+    "case_id": "CASE-2026-000313",
+    "customer_id": "CUS-000335",
+    "opened_at": "2026-07-27T22:36:37Z",
+    "status": "closed",
+    "priority_score": "56",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-28T18:07:59Z"
+  },
+  {
+    "case_id": "CASE-2026-000314",
+    "customer_id": "CUS-001549",
+    "opened_at": "2026-07-28T02:50:49Z",
+    "status": "closed",
+    "priority_score": "50",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-29T10:23:06Z"
+  },
+  {
+    "case_id": "CASE-2026-000315",
+    "customer_id": "CUS-004906",
+    "opened_at": "2026-07-28T06:08:46Z",
+    "status": "closed",
+    "priority_score": "29",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-07-29T07:31:21Z"
+  },
+  {
+    "case_id": "CASE-2026-000316",
+    "customer_id": "CUS-003657",
+    "opened_at": "2026-07-28T11:32:11Z",
+    "status": "closed",
+    "priority_score": "69",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-07-29T13:06:22Z"
+  },
+  {
+    "case_id": "CASE-2026-000317",
+    "customer_id": "CUS-004411",
+    "opened_at": "2026-07-28T19:46:42Z",
+    "status": "closed",
+    "priority_score": "35",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-30T20:15:40Z"
+  },
+  {
+    "case_id": "CASE-2026-000318",
+    "customer_id": "CUS-002775",
+    "opened_at": "2026-07-28T19:47:31Z",
+    "status": "closed",
+    "priority_score": "65",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-31T00:04:27Z"
+  },
+  {
+    "case_id": "CASE-2026-000319",
+    "customer_id": "CUS-002238",
+    "opened_at": "2026-07-29T00:01:17Z",
+    "status": "closed",
+    "priority_score": "68",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-30T05:17:59Z"
+  },
+  {
+    "case_id": "CASE-2026-000320",
+    "customer_id": "CUS-003201",
+    "opened_at": "2026-07-29T09:55:02Z",
+    "status": "closed",
+    "priority_score": "29",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-30T06:45:04Z"
+  },
+  {
+    "case_id": "CASE-2026-000321",
+    "customer_id": "CUS-000500",
+    "opened_at": "2026-07-29T10:45:55Z",
+    "status": "closed",
+    "priority_score": "55",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-30T06:28:24Z"
+  },
+  {
+    "case_id": "CASE-2026-000322",
+    "customer_id": "CUS-002665",
+    "opened_at": "2026-07-29T11:09:47Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-30T14:11:33Z"
+  },
+  {
+    "case_id": "CASE-2026-000323",
+    "customer_id": "CUS-002461",
+    "opened_at": "2026-07-29T15:14:34Z",
+    "status": "closed",
+    "priority_score": "59",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-30T16:45:59Z"
+  },
+  {
+    "case_id": "CASE-2026-000324",
+    "customer_id": "CUS-003379",
+    "opened_at": "2026-07-29T17:10:37Z",
+    "status": "closed",
+    "priority_score": "34",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-30T14:01:44Z"
+  },
+  {
+    "case_id": "CASE-2026-000325",
+    "customer_id": "CUS-000182",
+    "opened_at": "2026-07-30T19:57:36Z",
+    "status": "closed",
+    "priority_score": "30",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-01T06:12:10Z"
+  },
+  {
+    "case_id": "CASE-2026-000326",
+    "customer_id": "CUS-000387",
+    "opened_at": "2026-07-30T20:01:34Z",
+    "status": "closed",
+    "priority_score": "44",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-07-31T20:32:50Z"
+  },
+  {
+    "case_id": "CASE-2026-000327",
+    "customer_id": "CUS-003318",
+    "opened_at": "2026-07-30T23:17:44Z",
+    "status": "closed",
+    "priority_score": "45",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-02T03:01:13Z"
+  },
+  {
+    "case_id": "CASE-2026-000328",
+    "customer_id": "CUS-002706",
+    "opened_at": "2026-07-31T01:20:58Z",
+    "status": "closed",
+    "priority_score": "31",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-01T03:58:47Z"
+  },
+  {
+    "case_id": "CASE-2026-000329",
+    "customer_id": "CUS-003592",
+    "opened_at": "2026-07-31T01:39:36Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-07-31T22:01:41Z"
+  },
+  {
+    "case_id": "CASE-2026-000330",
+    "customer_id": "CUS-003153",
+    "opened_at": "2026-07-31T03:23:34Z",
+    "status": "closed",
+    "priority_score": "25",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-01T22:46:58Z"
+  },
+  {
+    "case_id": "CASE-2026-000331",
+    "customer_id": "CUS-001833",
+    "opened_at": "2026-07-31T07:35:40Z",
+    "status": "closed",
+    "priority_score": "54",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-08-01T00:23:51Z"
+  },
+  {
+    "case_id": "CASE-2026-000332",
+    "customer_id": "CUS-001247",
+    "opened_at": "2026-07-31T13:37:53Z",
+    "status": "closed",
+    "priority_score": "75",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-01T07:38:43Z"
+  },
+  {
+    "case_id": "CASE-2026-000333",
+    "customer_id": "CUS-004772",
+    "opened_at": "2026-07-31T14:33:58Z",
+    "status": "closed",
+    "priority_score": "50",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-01T17:32:37Z"
+  },
+  {
+    "case_id": "CASE-2026-000334",
+    "customer_id": "CUS-000237",
+    "opened_at": "2026-07-31T15:04:00Z",
+    "status": "closed",
+    "priority_score": "39",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-02T01:33:04Z"
+  },
+  {
+    "case_id": "CASE-2026-000335",
+    "customer_id": "CUS-001538",
+    "opened_at": "2026-07-31T18:37:23Z",
+    "status": "closed",
+    "priority_score": "30",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-02T05:05:34Z"
+  },
+  {
+    "case_id": "CASE-2026-000336",
+    "customer_id": "CUS-004196",
+    "opened_at": "2026-08-01T02:39:02Z",
+    "status": "closed",
+    "priority_score": "25",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-03T06:55:43Z"
+  },
+  {
+    "case_id": "CASE-2026-000337",
+    "customer_id": "CUS-001044",
+    "opened_at": "2026-08-01T06:02:57Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-02T01:59:40Z"
+  },
+  {
+    "case_id": "CASE-2026-000338",
+    "customer_id": "CUS-001038",
+    "opened_at": "2026-08-01T14:23:03Z",
+    "status": "closed",
+    "priority_score": "20",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-03T09:38:58Z"
+  },
+  {
+    "case_id": "CASE-2026-000339",
+    "customer_id": "CUS-001838",
+    "opened_at": "2026-08-02T02:16:00Z",
+    "status": "closed",
+    "priority_score": "50",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-02T07:53:37Z"
+  },
+  {
+    "case_id": "CASE-2026-000340",
+    "customer_id": "CUS-004639",
+    "opened_at": "2026-08-02T09:22:50Z",
+    "status": "closed",
+    "priority_score": "58",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-04T16:23:01Z"
+  },
+  {
+    "case_id": "CASE-2026-000341",
+    "customer_id": "CUS-001396",
+    "opened_at": "2026-08-02T16:12:57Z",
+    "status": "closed",
+    "priority_score": "65",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-03T08:53:43Z"
+  },
+  {
+    "case_id": "CASE-2026-000342",
+    "customer_id": "CUS-000692",
+    "opened_at": "2026-08-02T18:52:02Z",
+    "status": "closed",
+    "priority_score": "20",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-03T11:00:51Z"
+  },
+  {
+    "case_id": "CASE-2026-000343",
+    "customer_id": "CUS-003316",
+    "opened_at": "2026-08-02T19:23:30Z",
+    "status": "closed",
+    "priority_score": "54",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-08-05T00:42:27Z"
+  },
+  {
+    "case_id": "CASE-2026-000344",
+    "customer_id": "CUS-004987",
+    "opened_at": "2026-08-03T09:20:41Z",
+    "status": "closed",
+    "priority_score": "25",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-03T21:08:24Z"
+  },
+  {
+    "case_id": "CASE-2026-000345",
+    "customer_id": "CUS-003611",
+    "opened_at": "2026-08-03T11:33:35Z",
+    "status": "closed",
+    "priority_score": "54",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-04T22:43:23Z"
+  },
+  {
+    "case_id": "CASE-2026-000346",
+    "customer_id": "CUS-004530",
+    "opened_at": "2026-08-04T02:49:29Z",
+    "status": "closed",
+    "priority_score": "40",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-06T12:34:37Z"
+  },
+  {
+    "case_id": "CASE-2026-000347",
+    "customer_id": "CUS-003104",
+    "opened_at": "2026-08-04T13:52:58Z",
+    "status": "closed",
+    "priority_score": "48",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-05T15:51:23Z"
+  },
+  {
+    "case_id": "CASE-2026-000348",
+    "customer_id": "CUS-001830",
+    "opened_at": "2026-08-04T14:40:32Z",
+    "status": "closed",
+    "priority_score": "48",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-06T01:21:17Z"
+  },
+  {
+    "case_id": "CASE-2026-000349",
+    "customer_id": "CUS-002687",
+    "opened_at": "2026-08-04T16:11:26Z",
+    "status": "closed",
+    "priority_score": "27",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-05T11:07:50Z"
+  },
+  {
+    "case_id": "CASE-2026-000350",
+    "customer_id": "CUS-000421",
+    "opened_at": "2026-08-04T23:27:25Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-07T08:22:37Z"
+  },
+  {
+    "case_id": "CASE-2026-000351",
+    "customer_id": "CUS-000248",
+    "opened_at": "2026-08-05T00:48:45Z",
+    "status": "closed",
+    "priority_score": "25",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-06T19:24:36Z"
+  },
+  {
+    "case_id": "CASE-2026-000352",
+    "customer_id": "CUS-003404",
+    "opened_at": "2026-08-06T03:13:40Z",
+    "status": "closed",
+    "priority_score": "34",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-07T06:12:15Z"
+  },
+  {
+    "case_id": "CASE-2026-000353",
+    "customer_id": "CUS-003121",
+    "opened_at": "2026-08-06T12:10:43Z",
+    "status": "closed",
+    "priority_score": "34",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-08T02:27:11Z"
+  },
+  {
+    "case_id": "CASE-2026-000354",
+    "customer_id": "CUS-001382",
+    "opened_at": "2026-08-06T21:15:47Z",
+    "status": "closed",
+    "priority_score": "70",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-07T08:11:05Z"
+  },
+  {
+    "case_id": "CASE-2026-000355",
+    "customer_id": "CUS-001794",
+    "opened_at": "2026-08-06T22:09:56Z",
+    "status": "closed",
+    "priority_score": "35",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-08T12:52:39Z"
+  },
+  {
+    "case_id": "CASE-2026-000356",
+    "customer_id": "CUS-001220",
+    "opened_at": "2026-08-06T22:36:16Z",
+    "status": "closed",
+    "priority_score": "30",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-09T00:35:31Z"
+  },
+  {
+    "case_id": "CASE-2026-000357",
+    "customer_id": "CUS-003214",
+    "opened_at": "2026-08-07T08:18:39Z",
+    "status": "closed",
+    "priority_score": "40",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-09T04:41:35Z"
+  },
+  {
+    "case_id": "CASE-2026-000358",
+    "customer_id": "CUS-000669",
+    "opened_at": "2026-08-07T08:39:24Z",
+    "status": "closed",
+    "priority_score": "65",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-09T09:01:08Z"
+  },
+  {
+    "case_id": "CASE-2026-000359",
+    "customer_id": "CUS-003020",
+    "opened_at": "2026-08-07T18:23:24Z",
+    "status": "closed",
+    "priority_score": "35",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-09T09:42:16Z"
+  },
+  {
+    "case_id": "CASE-2026-000360",
+    "customer_id": "CUS-004905",
+    "opened_at": "2026-08-07T21:29:33Z",
+    "status": "closed",
+    "priority_score": "25",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-09T05:54:44Z"
+  },
+  {
+    "case_id": "CASE-2026-000361",
+    "customer_id": "CUS-002105",
+    "opened_at": "2026-08-07T21:53:19Z",
+    "status": "in_review",
+    "priority_score": "69",
+    "final_disposition": "",
+    "closed_at": ""
+  },
+  {
+    "case_id": "CASE-2026-000362",
+    "customer_id": "CUS-002142",
+    "opened_at": "2026-08-08T04:22:59Z",
+    "status": "closed",
+    "priority_score": "70",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-09T02:57:46Z"
+  },
+  {
+    "case_id": "CASE-2026-000363",
+    "customer_id": "CUS-000675",
+    "opened_at": "2026-08-09T10:36:38Z",
+    "status": "closed",
+    "priority_score": "25",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-11T03:35:53Z"
+  },
+  {
+    "case_id": "CASE-2026-000364",
+    "customer_id": "CUS-004620",
+    "opened_at": "2026-08-10T00:23:16Z",
+    "status": "closed",
+    "priority_score": "25",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-11T13:00:43Z"
+  },
+  {
+    "case_id": "CASE-2026-000365",
+    "customer_id": "CUS-000192",
+    "opened_at": "2026-08-10T01:08:09Z",
+    "status": "closed",
+    "priority_score": "57",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-08-10T18:44:31Z"
+  },
+  {
+    "case_id": "CASE-2026-000366",
+    "customer_id": "CUS-004225",
+    "opened_at": "2026-08-10T12:26:01Z",
+    "status": "closed",
+    "priority_score": "33",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-12T12:56:35Z"
+  },
+  {
+    "case_id": "CASE-2026-000367",
+    "customer_id": "CUS-002254",
+    "opened_at": "2026-08-10T14:58:04Z",
+    "status": "closed",
+    "priority_score": "72",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-11T01:40:06Z"
+  },
+  {
+    "case_id": "CASE-2026-000368",
+    "customer_id": "CUS-003994",
+    "opened_at": "2026-08-10T22:53:57Z",
+    "status": "closed",
+    "priority_score": "48",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-11T10:44:15Z"
+  },
+  {
+    "case_id": "CASE-2026-000369",
+    "customer_id": "CUS-001632",
+    "opened_at": "2026-08-11T04:27:36Z",
+    "status": "closed",
+    "priority_score": "34",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-08-13T05:09:01Z"
+  },
+  {
+    "case_id": "CASE-2026-000370",
+    "customer_id": "CUS-004598",
+    "opened_at": "2026-08-11T17:06:13Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-08-13T11:05:12Z"
+  },
+  {
+    "case_id": "CASE-2026-000371",
+    "customer_id": "CUS-003750",
+    "opened_at": "2026-08-12T00:52:14Z",
+    "status": "closed",
+    "priority_score": "35",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-13T16:33:01Z"
+  },
+  {
+    "case_id": "CASE-2026-000372",
+    "customer_id": "CUS-003403",
+    "opened_at": "2026-08-12T19:54:54Z",
+    "status": "closed",
+    "priority_score": "45",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-13T05:53:55Z"
+  },
+  {
+    "case_id": "CASE-2026-000373",
+    "customer_id": "CUS-001943",
+    "opened_at": "2026-08-13T04:12:40Z",
+    "status": "closed",
+    "priority_score": "54",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-14T06:06:23Z"
+  },
+  {
+    "case_id": "CASE-2026-000374",
+    "customer_id": "CUS-003421",
+    "opened_at": "2026-08-13T20:10:46Z",
+    "status": "closed",
+    "priority_score": "39",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-15T07:30:55Z"
+  },
+  {
+    "case_id": "CASE-2026-000375",
+    "customer_id": "CUS-001517",
+    "opened_at": "2026-08-13T22:42:59Z",
+    "status": "closed",
+    "priority_score": "35",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-15T22:00:17Z"
+  },
+  {
+    "case_id": "CASE-2026-000376",
+    "customer_id": "CUS-004142",
+    "opened_at": "2026-08-14T18:33:47Z",
+    "status": "closed",
+    "priority_score": "39",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-16T11:53:36Z"
+  },
+  {
+    "case_id": "CASE-2026-000377",
+    "customer_id": "CUS-002311",
+    "opened_at": "2026-08-14T22:40:30Z",
+    "status": "closed",
+    "priority_score": "50",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-16T20:16:23Z"
+  },
+  {
+    "case_id": "CASE-2026-000378",
+    "customer_id": "CUS-000839",
+    "opened_at": "2026-08-15T03:06:52Z",
+    "status": "closed",
+    "priority_score": "80",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-16T02:28:33Z"
+  },
+  {
+    "case_id": "CASE-2026-000379",
+    "customer_id": "CUS-000023",
+    "opened_at": "2026-08-15T05:37:20Z",
+    "status": "closed",
+    "priority_score": "88",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-16T17:11:07Z"
+  },
+  {
+    "case_id": "CASE-2026-000380",
+    "customer_id": "CUS-001967",
+    "opened_at": "2026-08-15T16:46:12Z",
+    "status": "closed",
+    "priority_score": "59",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-16T05:37:10Z"
+  },
+  {
+    "case_id": "CASE-2026-000381",
+    "customer_id": "CUS-001977",
+    "opened_at": "2026-08-15T21:51:35Z",
+    "status": "in_review",
+    "priority_score": "65",
+    "final_disposition": "",
+    "closed_at": ""
+  },
+  {
+    "case_id": "CASE-2026-000382",
+    "customer_id": "CUS-003601",
+    "opened_at": "2026-08-16T00:05:35Z",
+    "status": "closed",
+    "priority_score": "59",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-16T23:15:09Z"
+  },
+  {
+    "case_id": "CASE-2026-000383",
+    "customer_id": "CUS-002959",
+    "opened_at": "2026-08-16T17:59:02Z",
+    "status": "closed",
+    "priority_score": "30",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-17T14:29:25Z"
+  },
+  {
+    "case_id": "CASE-2026-000384",
+    "customer_id": "CUS-003620",
+    "opened_at": "2026-08-16T22:26:53Z",
+    "status": "closed",
+    "priority_score": "40",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-17T14:08:31Z"
+  },
+  {
+    "case_id": "CASE-2026-000385",
+    "customer_id": "CUS-002726",
+    "opened_at": "2026-08-17T01:10:55Z",
+    "status": "closed",
+    "priority_score": "75",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-19T00:33:15Z"
+  },
+  {
+    "case_id": "CASE-2026-000386",
+    "customer_id": "CUS-004842",
+    "opened_at": "2026-08-17T06:03:37Z",
+    "status": "closed",
+    "priority_score": "39",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-19T14:58:47Z"
+  },
+  {
+    "case_id": "CASE-2026-000387",
+    "customer_id": "CUS-002929",
+    "opened_at": "2026-08-17T10:13:16Z",
+    "status": "closed",
+    "priority_score": "79",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-19T09:50:37Z"
+  },
+  {
+    "case_id": "CASE-2026-000388",
+    "customer_id": "CUS-002272",
+    "opened_at": "2026-08-17T10:18:49Z",
+    "status": "closed",
+    "priority_score": "27",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-17T21:32:22Z"
+  },
+  {
+    "case_id": "CASE-2026-000389",
+    "customer_id": "CUS-001207",
+    "opened_at": "2026-08-17T10:28:18Z",
+    "status": "closed",
+    "priority_score": "70",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-19T01:55:24Z"
+  },
+  {
+    "case_id": "CASE-2026-000390",
+    "customer_id": "CUS-003570",
+    "opened_at": "2026-08-18T06:47:56Z",
+    "status": "closed",
+    "priority_score": "28",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-20T07:55:55Z"
+  },
+  {
+    "case_id": "CASE-2026-000391",
+    "customer_id": "CUS-004489",
+    "opened_at": "2026-08-18T18:18:51Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-19T05:13:25Z"
+  },
+  {
+    "case_id": "CASE-2026-000392",
+    "customer_id": "CUS-001534",
+    "opened_at": "2026-08-18T22:14:34Z",
+    "status": "closed",
+    "priority_score": "25",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-20T19:31:42Z"
+  },
+  {
+    "case_id": "CASE-2026-000393",
+    "customer_id": "CUS-002947",
+    "opened_at": "2026-08-18T22:58:58Z",
+    "status": "closed",
+    "priority_score": "70",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-21T03:40:22Z"
+  },
+  {
+    "case_id": "CASE-2026-000394",
+    "customer_id": "CUS-002853",
+    "opened_at": "2026-08-19T13:22:23Z",
+    "status": "closed",
+    "priority_score": "25",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-21T07:54:20Z"
+  },
+  {
+    "case_id": "CASE-2026-000395",
+    "customer_id": "CUS-002613",
+    "opened_at": "2026-08-19T17:13:40Z",
+    "status": "closed",
+    "priority_score": "54",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-21T18:11:57Z"
+  },
+  {
+    "case_id": "CASE-2026-000396",
+    "customer_id": "CUS-000010",
+    "opened_at": "2026-08-19T22:40:00Z",
+    "status": "closed",
+    "priority_score": "47",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-20T08:28:39Z"
+  },
+  {
+    "case_id": "CASE-2026-000397",
+    "customer_id": "CUS-003908",
+    "opened_at": "2026-08-20T08:05:44Z",
+    "status": "closed",
+    "priority_score": "20",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-21T15:58:28Z"
+  },
+  {
+    "case_id": "CASE-2026-000398",
+    "customer_id": "CUS-003408",
+    "opened_at": "2026-08-20T08:56:08Z",
+    "status": "closed",
+    "priority_score": "44",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-21T11:35:27Z"
+  },
+  {
+    "case_id": "CASE-2026-000399",
+    "customer_id": "CUS-002009",
+    "opened_at": "2026-08-20T10:20:24Z",
+    "status": "closed",
+    "priority_score": "46",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-22T04:40:35Z"
+  },
+  {
+    "case_id": "CASE-2026-000400",
+    "customer_id": "CUS-001969",
+    "opened_at": "2026-08-20T15:22:30Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-21T20:55:15Z"
+  },
+  {
+    "case_id": "CASE-2026-000401",
+    "customer_id": "CUS-000613",
+    "opened_at": "2026-08-20T17:53:30Z",
+    "status": "closed",
+    "priority_score": "25",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-22T03:54:44Z"
+  },
+  {
+    "case_id": "CASE-2026-000402",
+    "customer_id": "CUS-000897",
+    "opened_at": "2026-08-20T20:59:39Z",
+    "status": "closed",
+    "priority_score": "72",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-22T15:38:46Z"
+  },
+  {
+    "case_id": "CASE-2026-000403",
+    "customer_id": "CUS-001765",
+    "opened_at": "2026-08-21T01:50:35Z",
+    "status": "closed",
+    "priority_score": "64",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-22T13:19:42Z"
+  },
+  {
+    "case_id": "CASE-2026-000404",
+    "customer_id": "CUS-004236",
+    "opened_at": "2026-08-21T03:45:18Z",
+    "status": "closed",
+    "priority_score": "48",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-21T15:09:01Z"
+  },
+  {
+    "case_id": "CASE-2026-000405",
+    "customer_id": "CUS-003577",
+    "opened_at": "2026-08-21T08:32:39Z",
+    "status": "closed",
+    "priority_score": "35",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-21T23:26:36Z"
+  },
+  {
+    "case_id": "CASE-2026-000406",
+    "customer_id": "CUS-003178",
+    "opened_at": "2026-08-21T18:00:00Z",
+    "status": "closed",
+    "priority_score": "55",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-23T17:06:28Z"
+  },
+  {
+    "case_id": "CASE-2026-000407",
+    "customer_id": "CUS-000320",
+    "opened_at": "2026-08-21T20:46:44Z",
+    "status": "closed",
+    "priority_score": "30",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-23T15:44:30Z"
+  },
+  {
+    "case_id": "CASE-2026-000408",
+    "customer_id": "CUS-003526",
+    "opened_at": "2026-08-21T22:20:21Z",
+    "status": "closed",
+    "priority_score": "62",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-23T19:56:31Z"
+  },
+  {
+    "case_id": "CASE-2026-000409",
+    "customer_id": "CUS-002216",
+    "opened_at": "2026-08-21T23:42:00Z",
+    "status": "closed",
+    "priority_score": "59",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-08-23T06:48:22Z"
+  },
+  {
+    "case_id": "CASE-2026-000410",
+    "customer_id": "CUS-000547",
+    "opened_at": "2026-08-22T01:32:20Z",
+    "status": "closed",
+    "priority_score": "25",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-22T08:05:13Z"
+  },
+  {
+    "case_id": "CASE-2026-000411",
+    "customer_id": "CUS-002310",
+    "opened_at": "2026-08-22T03:26:32Z",
+    "status": "closed",
+    "priority_score": "20",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-24T07:22:50Z"
+  },
+  {
+    "case_id": "CASE-2026-000412",
+    "customer_id": "CUS-002573",
+    "opened_at": "2026-08-22T18:02:25Z",
+    "status": "closed",
+    "priority_score": "50",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-08-22T20:40:13Z"
+  },
+  {
+    "case_id": "CASE-2026-000413",
+    "customer_id": "CUS-003761",
+    "opened_at": "2026-08-22T22:07:30Z",
+    "status": "closed",
+    "priority_score": "63",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-23T16:02:25Z"
+  },
+  {
+    "case_id": "CASE-2026-000414",
+    "customer_id": "CUS-002989",
+    "opened_at": "2026-08-23T00:36:38Z",
+    "status": "closed",
+    "priority_score": "43",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-08-23T22:44:43Z"
+  },
+  {
+    "case_id": "CASE-2026-000415",
+    "customer_id": "CUS-003236",
+    "opened_at": "2026-08-23T02:05:53Z",
+    "status": "closed",
+    "priority_score": "39",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-24T06:14:58Z"
+  },
+  {
+    "case_id": "CASE-2026-000416",
+    "customer_id": "CUS-002379",
+    "opened_at": "2026-08-23T03:38:19Z",
+    "status": "closed",
+    "priority_score": "78",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-24T16:52:31Z"
+  },
+  {
+    "case_id": "CASE-2026-000417",
+    "customer_id": "CUS-001963",
+    "opened_at": "2026-08-23T07:48:17Z",
+    "status": "closed",
+    "priority_score": "70",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-23T18:38:33Z"
+  },
+  {
+    "case_id": "CASE-2026-000418",
+    "customer_id": "CUS-001233",
+    "opened_at": "2026-08-23T09:34:26Z",
+    "status": "closed",
+    "priority_score": "79",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-24T07:24:44Z"
+  },
+  {
+    "case_id": "CASE-2026-000419",
+    "customer_id": "CUS-004697",
+    "opened_at": "2026-08-23T10:36:38Z",
+    "status": "closed",
+    "priority_score": "40",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-25T13:18:02Z"
+  },
+  {
+    "case_id": "CASE-2026-000420",
+    "customer_id": "CUS-002530",
+    "opened_at": "2026-08-23T21:35:10Z",
+    "status": "closed",
+    "priority_score": "24",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-24T20:14:36Z"
+  },
+  {
+    "case_id": "CASE-2026-000421",
+    "customer_id": "CUS-004378",
+    "opened_at": "2026-08-24T10:56:09Z",
+    "status": "closed",
+    "priority_score": "42",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-25T21:49:53Z"
+  },
+  {
+    "case_id": "CASE-2026-000422",
+    "customer_id": "CUS-004403",
+    "opened_at": "2026-08-24T13:52:58Z",
+    "status": "closed",
+    "priority_score": "80",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-26T18:14:36Z"
+  },
+  {
+    "case_id": "CASE-2026-000423",
+    "customer_id": "CUS-004804",
+    "opened_at": "2026-08-25T01:05:27Z",
+    "status": "closed",
+    "priority_score": "20",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-26T22:44:09Z"
+  },
+  {
+    "case_id": "CASE-2026-000424",
+    "customer_id": "CUS-003579",
+    "opened_at": "2026-08-25T06:35:10Z",
+    "status": "closed",
+    "priority_score": "45",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-27T05:28:16Z"
+  },
+  {
+    "case_id": "CASE-2026-000425",
+    "customer_id": "CUS-004670",
+    "opened_at": "2026-08-25T11:18:35Z",
+    "status": "closed",
+    "priority_score": "59",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-26T21:07:11Z"
+  },
+  {
+    "case_id": "CASE-2026-000426",
+    "customer_id": "CUS-003921",
+    "opened_at": "2026-08-25T14:34:41Z",
+    "status": "closed",
+    "priority_score": "80",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-28T02:07:18Z"
+  },
+  {
+    "case_id": "CASE-2026-000427",
+    "customer_id": "CUS-000544",
+    "opened_at": "2026-08-25T21:44:32Z",
+    "status": "closed",
+    "priority_score": "64",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-26T16:12:38Z"
+  },
+  {
+    "case_id": "CASE-2026-000428",
+    "customer_id": "CUS-003773",
+    "opened_at": "2026-08-26T02:00:20Z",
+    "status": "closed",
+    "priority_score": "44",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-27T07:04:43Z"
+  },
+  {
+    "case_id": "CASE-2026-000429",
+    "customer_id": "CUS-001159",
+    "opened_at": "2026-08-26T07:46:20Z",
+    "status": "closed",
+    "priority_score": "64",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-28T13:46:57Z"
+  },
+  {
+    "case_id": "CASE-2026-000430",
+    "customer_id": "CUS-002036",
+    "opened_at": "2026-08-27T05:27:18Z",
+    "status": "closed",
+    "priority_score": "54",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-27T12:25:51Z"
+  },
+  {
+    "case_id": "CASE-2026-000431",
+    "customer_id": "CUS-000845",
+    "opened_at": "2026-08-27T10:51:53Z",
+    "status": "closed",
+    "priority_score": "70",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-28T15:53:09Z"
+  },
+  {
+    "case_id": "CASE-2026-000432",
+    "customer_id": "CUS-001581",
+    "opened_at": "2026-08-27T13:13:35Z",
+    "status": "closed",
+    "priority_score": "45",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-29T16:40:42Z"
+  },
+  {
+    "case_id": "CASE-2026-000433",
+    "customer_id": "CUS-002549",
+    "opened_at": "2026-08-27T15:54:06Z",
+    "status": "closed",
+    "priority_score": "65",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-28T08:05:07Z"
+  },
+  {
+    "case_id": "CASE-2026-000434",
+    "customer_id": "CUS-004825",
+    "opened_at": "2026-08-27T16:59:03Z",
+    "status": "closed",
+    "priority_score": "40",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-28T21:25:49Z"
+  },
+  {
+    "case_id": "CASE-2026-000435",
+    "customer_id": "CUS-001854",
+    "opened_at": "2026-08-27T19:32:21Z",
+    "status": "closed",
+    "priority_score": "40",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-29T13:02:35Z"
+  },
+  {
+    "case_id": "CASE-2026-000436",
+    "customer_id": "CUS-001180",
+    "opened_at": "2026-08-27T23:02:13Z",
+    "status": "closed",
+    "priority_score": "38",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-29T20:16:10Z"
+  },
+  {
+    "case_id": "CASE-2026-000437",
+    "customer_id": "CUS-004964",
+    "opened_at": "2026-08-27T23:15:03Z",
+    "status": "closed",
+    "priority_score": "55",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-30T04:29:19Z"
+  },
+  {
+    "case_id": "CASE-2026-000438",
+    "customer_id": "CUS-004887",
+    "opened_at": "2026-08-28T04:01:17Z",
+    "status": "closed",
+    "priority_score": "20",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-28T12:26:38Z"
+  },
+  {
+    "case_id": "CASE-2026-000439",
+    "customer_id": "CUS-004163",
+    "opened_at": "2026-08-28T16:32:57Z",
+    "status": "closed",
+    "priority_score": "35",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-30T22:07:15Z"
+  },
+  {
+    "case_id": "CASE-2026-000440",
+    "customer_id": "CUS-002343",
+    "opened_at": "2026-08-28T18:10:00Z",
+    "status": "closed",
+    "priority_score": "45",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-29T21:16:29Z"
+  },
+  {
+    "case_id": "CASE-2026-000441",
+    "customer_id": "CUS-001657",
+    "opened_at": "2026-08-29T01:00:58Z",
+    "status": "closed",
+    "priority_score": "34",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-29T19:58:43Z"
+  },
+  {
+    "case_id": "CASE-2026-000442",
+    "customer_id": "CUS-003044",
+    "opened_at": "2026-08-29T01:03:01Z",
+    "status": "closed",
+    "priority_score": "30",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-08-30T01:48:38Z"
+  },
+  {
+    "case_id": "CASE-2026-000443",
+    "customer_id": "CUS-003198",
+    "opened_at": "2026-08-29T13:27:46Z",
+    "status": "closed",
+    "priority_score": "74",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-31T07:35:47Z"
+  },
+  {
+    "case_id": "CASE-2026-000444",
+    "customer_id": "CUS-002796",
+    "opened_at": "2026-08-29T17:08:39Z",
+    "status": "closed",
+    "priority_score": "39",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-30T17:12:08Z"
+  },
+  {
+    "case_id": "CASE-2026-000445",
+    "customer_id": "CUS-001759",
+    "opened_at": "2026-08-29T17:53:48Z",
+    "status": "closed",
+    "priority_score": "39",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-30T15:46:19Z"
+  },
+  {
+    "case_id": "CASE-2026-000446",
+    "customer_id": "CUS-000035",
+    "opened_at": "2026-08-30T18:29:51Z",
+    "status": "closed",
+    "priority_score": "35",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-08-31T19:52:05Z"
+  },
+  {
+    "case_id": "CASE-2026-000447",
+    "customer_id": "CUS-001343",
+    "opened_at": "2026-08-30T23:47:14Z",
+    "status": "closed",
+    "priority_score": "69",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-08-31T21:24:20Z"
+  },
+  {
+    "case_id": "CASE-2026-000448",
+    "customer_id": "CUS-004038",
+    "opened_at": "2026-08-31T01:27:27Z",
+    "status": "closed",
+    "priority_score": "20",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-09-01T18:34:58Z"
+  },
+  {
+    "case_id": "CASE-2026-000449",
+    "customer_id": "CUS-000119",
+    "opened_at": "2026-08-31T02:37:28Z",
+    "status": "in_review",
+    "priority_score": "70",
+    "final_disposition": "",
+    "closed_at": ""
+  },
+  {
+    "case_id": "CASE-2026-000450",
+    "customer_id": "CUS-002746",
+    "opened_at": "2026-08-31T20:32:22Z",
+    "status": "closed",
+    "priority_score": "20",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-09-01T22:22:23Z"
+  },
+  {
+    "case_id": "CASE-2026-000451",
+    "customer_id": "CUS-003208",
+    "opened_at": "2026-09-01T03:19:22Z",
+    "status": "closed",
+    "priority_score": "75",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-03T06:50:36Z"
+  },
+  {
+    "case_id": "CASE-2026-000452",
+    "customer_id": "CUS-003719",
+    "opened_at": "2026-09-01T15:01:45Z",
+    "status": "closed",
+    "priority_score": "55",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-02T08:32:18Z"
+  },
+  {
+    "case_id": "CASE-2026-000453",
+    "customer_id": "CUS-003637",
+    "opened_at": "2026-09-01T18:21:10Z",
+    "status": "closed",
+    "priority_score": "30",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-09-03T18:14:20Z"
+  },
+  {
+    "case_id": "CASE-2026-000454",
+    "customer_id": "CUS-002100",
+    "opened_at": "2026-09-01T19:49:15Z",
+    "status": "closed",
+    "priority_score": "44",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-09-02T05:27:29Z"
+  },
+  {
+    "case_id": "CASE-2026-000455",
+    "customer_id": "CUS-001709",
+    "opened_at": "2026-09-01T22:43:25Z",
+    "status": "closed",
+    "priority_score": "50",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-02T12:18:55Z"
+  },
+  {
+    "case_id": "CASE-2026-000456",
+    "customer_id": "CUS-003616",
+    "opened_at": "2026-09-01T22:57:26Z",
+    "status": "closed",
+    "priority_score": "44",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-09-03T06:22:47Z"
+  },
+  {
+    "case_id": "CASE-2026-000457",
+    "customer_id": "CUS-001139",
+    "opened_at": "2026-09-02T03:44:39Z",
+    "status": "closed",
+    "priority_score": "45",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-02T13:15:14Z"
+  },
+  {
+    "case_id": "CASE-2026-000458",
+    "customer_id": "CUS-000745",
+    "opened_at": "2026-09-02T21:27:59Z",
+    "status": "closed",
+    "priority_score": "55",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-04T01:29:50Z"
+  },
+  {
+    "case_id": "CASE-2026-000459",
+    "customer_id": "CUS-000004",
+    "opened_at": "2026-09-03T00:12:02Z",
+    "status": "closed",
+    "priority_score": "39",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-09-04T07:40:15Z"
+  },
+  {
+    "case_id": "CASE-2026-000460",
+    "customer_id": "CUS-000229",
+    "opened_at": "2026-09-03T09:00:43Z",
+    "status": "closed",
+    "priority_score": "82",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-04T21:40:38Z"
+  },
+  {
+    "case_id": "CASE-2026-000461",
+    "customer_id": "CUS-001650",
+    "opened_at": "2026-09-03T18:24:02Z",
+    "status": "closed",
+    "priority_score": "45",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-05T00:32:23Z"
+  },
+  {
+    "case_id": "CASE-2026-000462",
+    "customer_id": "CUS-004152",
+    "opened_at": "2026-09-04T12:38:06Z",
+    "status": "closed",
+    "priority_score": "55",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-06T16:40:55Z"
+  },
+  {
+    "case_id": "CASE-2026-000463",
+    "customer_id": "CUS-003540",
+    "opened_at": "2026-09-05T18:51:08Z",
+    "status": "closed",
+    "priority_score": "70",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-06T05:42:58Z"
+  },
+  {
+    "case_id": "CASE-2026-000464",
+    "customer_id": "CUS-000395",
+    "opened_at": "2026-09-06T15:32:00Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-07T07:00:09Z"
+  },
+  {
+    "case_id": "CASE-2026-000465",
+    "customer_id": "CUS-001112",
+    "opened_at": "2026-09-07T08:52:04Z",
+    "status": "closed",
+    "priority_score": "44",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-08T00:54:20Z"
+  },
+  {
+    "case_id": "CASE-2026-000466",
+    "customer_id": "CUS-004465",
+    "opened_at": "2026-09-07T09:41:06Z",
+    "status": "closed",
+    "priority_score": "33",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-09-09T12:14:24Z"
+  },
+  {
+    "case_id": "CASE-2026-000467",
+    "customer_id": "CUS-004004",
+    "opened_at": "2026-09-07T18:12:28Z",
+    "status": "closed",
+    "priority_score": "67",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-09T12:53:18Z"
+  },
+  {
+    "case_id": "CASE-2026-000468",
+    "customer_id": "CUS-003150",
+    "opened_at": "2026-09-07T19:50:54Z",
+    "status": "closed",
+    "priority_score": "40",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-09-08T06:24:47Z"
+  },
+  {
+    "case_id": "CASE-2026-000469",
+    "customer_id": "CUS-000157",
+    "opened_at": "2026-09-08T01:09:25Z",
+    "status": "closed",
+    "priority_score": "62",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-08T22:51:06Z"
+  },
+  {
+    "case_id": "CASE-2026-000470",
+    "customer_id": "CUS-004480",
+    "opened_at": "2026-09-08T12:35:53Z",
+    "status": "closed",
+    "priority_score": "25",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-09-09T10:38:40Z"
+  },
+  {
+    "case_id": "CASE-2026-000471",
+    "customer_id": "CUS-001624",
+    "opened_at": "2026-09-09T11:56:28Z",
+    "status": "closed",
+    "priority_score": "79",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-11T04:37:38Z"
+  },
+  {
+    "case_id": "CASE-2026-000472",
+    "customer_id": "CUS-001398",
+    "opened_at": "2026-09-09T15:33:59Z",
+    "status": "closed",
+    "priority_score": "65",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-11T02:28:05Z"
+  },
+  {
+    "case_id": "CASE-2026-000473",
+    "customer_id": "CUS-004917",
+    "opened_at": "2026-09-10T01:11:45Z",
+    "status": "closed",
+    "priority_score": "27",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-09-11T22:55:52Z"
+  },
+  {
+    "case_id": "CASE-2026-000474",
+    "customer_id": "CUS-002600",
+    "opened_at": "2026-09-10T05:41:00Z",
+    "status": "closed",
+    "priority_score": "70",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-11T16:39:38Z"
+  },
+  {
+    "case_id": "CASE-2026-000475",
+    "customer_id": "CUS-000055",
+    "opened_at": "2026-09-10T05:58:16Z",
+    "status": "closed",
+    "priority_score": "79",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-11T19:04:10Z"
+  },
+  {
+    "case_id": "CASE-2026-000476",
+    "customer_id": "CUS-001301",
+    "opened_at": "2026-09-10T15:12:54Z",
+    "status": "closed",
+    "priority_score": "80",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-11T07:08:25Z"
+  },
+  {
+    "case_id": "CASE-2026-000477",
+    "customer_id": "CUS-003483",
+    "opened_at": "2026-09-10T23:26:42Z",
+    "status": "closed",
+    "priority_score": "49",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-12T01:38:12Z"
+  },
+  {
+    "case_id": "CASE-2026-000478",
+    "customer_id": "CUS-000741",
+    "opened_at": "2026-09-11T21:55:36Z",
+    "status": "closed",
+    "priority_score": "40",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-09-12T00:24:49Z"
+  },
+  {
+    "case_id": "CASE-2026-000479",
+    "customer_id": "CUS-002401",
+    "opened_at": "2026-09-12T00:34:07Z",
+    "status": "closed",
+    "priority_score": "30",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-09-13T14:17:40Z"
+  },
+  {
+    "case_id": "CASE-2026-000480",
+    "customer_id": "CUS-001821",
+    "opened_at": "2026-09-12T08:27:18Z",
+    "status": "closed",
+    "priority_score": "62",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-13T19:47:20Z"
+  },
+  {
+    "case_id": "CASE-2026-000481",
+    "customer_id": "CUS-003767",
+    "opened_at": "2026-09-13T05:46:36Z",
+    "status": "closed",
+    "priority_score": "40",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-09-13T14:23:07Z"
+  },
+  {
+    "case_id": "CASE-2026-000482",
+    "customer_id": "CUS-002247",
+    "opened_at": "2026-09-13T06:18:40Z",
+    "status": "closed",
+    "priority_score": "62",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-14T23:04:38Z"
+  },
+  {
+    "case_id": "CASE-2026-000483",
+    "customer_id": "CUS-000771",
+    "opened_at": "2026-09-13T23:25:04Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-15T09:39:23Z"
+  },
+  {
+    "case_id": "CASE-2026-000484",
+    "customer_id": "CUS-002728",
+    "opened_at": "2026-09-14T06:12:44Z",
+    "status": "closed",
+    "priority_score": "49",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-15T18:04:10Z"
+  },
+  {
+    "case_id": "CASE-2026-000485",
+    "customer_id": "CUS-003668",
+    "opened_at": "2026-09-14T19:04:05Z",
+    "status": "closed",
+    "priority_score": "45",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-16T15:58:33Z"
+  },
+  {
+    "case_id": "CASE-2026-000486",
+    "customer_id": "CUS-003666",
+    "opened_at": "2026-09-15T03:37:19Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-17T07:33:23Z"
+  },
+  {
+    "case_id": "CASE-2026-000487",
+    "customer_id": "CUS-003058",
+    "opened_at": "2026-09-15T07:33:14Z",
+    "status": "closed",
+    "priority_score": "70",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-09-16T11:01:36Z"
+  },
+  {
+    "case_id": "CASE-2026-000488",
+    "customer_id": "CUS-003326",
+    "opened_at": "2026-09-15T09:20:40Z",
+    "status": "closed",
+    "priority_score": "54",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-16T20:24:38Z"
+  },
+  {
+    "case_id": "CASE-2026-000489",
+    "customer_id": "CUS-001359",
+    "opened_at": "2026-09-15T10:45:09Z",
+    "status": "closed",
+    "priority_score": "25",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-09-17T19:04:26Z"
+  },
+  {
+    "case_id": "CASE-2026-000490",
+    "customer_id": "CUS-000323",
+    "opened_at": "2026-09-15T15:05:28Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-17T09:01:21Z"
+  },
+  {
+    "case_id": "CASE-2026-000491",
+    "customer_id": "CUS-003496",
+    "opened_at": "2026-09-15T22:58:08Z",
+    "status": "closed",
+    "priority_score": "35",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-09-16T07:52:47Z"
+  },
+  {
+    "case_id": "CASE-2026-000492",
+    "customer_id": "CUS-004520",
+    "opened_at": "2026-09-15T23:17:39Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-18T00:18:46Z"
+  },
+  {
+    "case_id": "CASE-2026-000493",
+    "customer_id": "CUS-000689",
+    "opened_at": "2026-09-16T01:15:15Z",
+    "status": "closed",
+    "priority_score": "40",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-09-17T03:40:34Z"
+  },
+  {
+    "case_id": "CASE-2026-000494",
+    "customer_id": "CUS-001281",
+    "opened_at": "2026-09-16T02:40:23Z",
+    "status": "closed",
+    "priority_score": "35",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-09-16T15:02:32Z"
+  },
+  {
+    "case_id": "CASE-2026-000495",
+    "customer_id": "CUS-004467",
+    "opened_at": "2026-09-17T01:13:07Z",
+    "status": "closed",
+    "priority_score": "38",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-09-18T05:12:04Z"
+  },
+  {
+    "case_id": "CASE-2026-000496",
+    "customer_id": "CUS-001987",
+    "opened_at": "2026-09-17T05:17:03Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-17T09:58:52Z"
+  },
+  {
+    "case_id": "CASE-2026-000497",
+    "customer_id": "CUS-003745",
+    "opened_at": "2026-09-17T12:59:44Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-17T19:35:03Z"
+  },
+  {
+    "case_id": "CASE-2026-000498",
+    "customer_id": "CUS-002579",
+    "opened_at": "2026-09-17T18:31:04Z",
+    "status": "closed",
+    "priority_score": "59",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-19T21:39:32Z"
+  },
+  {
+    "case_id": "CASE-2026-000499",
+    "customer_id": "CUS-004351",
+    "opened_at": "2026-09-17T18:40:15Z",
+    "status": "closed",
+    "priority_score": "57",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-19T16:37:38Z"
+  },
+  {
+    "case_id": "CASE-2026-000500",
+    "customer_id": "CUS-003333",
+    "opened_at": "2026-09-18T02:09:04Z",
+    "status": "closed",
+    "priority_score": "64",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-19T11:01:33Z"
+  },
+  {
+    "case_id": "CASE-2026-000501",
+    "customer_id": "CUS-002393",
+    "opened_at": "2026-09-18T02:41:41Z",
+    "status": "closed",
+    "priority_score": "70",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-20T04:41:54Z"
+  },
+  {
+    "case_id": "CASE-2026-000502",
+    "customer_id": "CUS-002986",
+    "opened_at": "2026-09-18T03:49:31Z",
+    "status": "closed",
+    "priority_score": "45",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-19T22:43:25Z"
+  },
+  {
+    "case_id": "CASE-2026-000503",
+    "customer_id": "CUS-003195",
+    "opened_at": "2026-09-18T10:09:50Z",
+    "status": "closed",
+    "priority_score": "46",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-20T18:35:27Z"
+  },
+  {
+    "case_id": "CASE-2026-000504",
+    "customer_id": "CUS-002568",
+    "opened_at": "2026-09-18T13:06:59Z",
+    "status": "closed",
+    "priority_score": "40",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-20T08:01:22Z"
+  },
+  {
+    "case_id": "CASE-2026-000505",
+    "customer_id": "CUS-003092",
+    "opened_at": "2026-09-18T14:52:58Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-20T20:12:33Z"
+  },
+  {
+    "case_id": "CASE-2026-000506",
+    "customer_id": "CUS-003903",
+    "opened_at": "2026-09-19T00:45:01Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-19T17:56:37Z"
+  },
+  {
+    "case_id": "CASE-2026-000507",
+    "customer_id": "CUS-002874",
+    "opened_at": "2026-09-19T06:34:24Z",
+    "status": "closed",
+    "priority_score": "58",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-20T07:16:55Z"
+  },
+  {
+    "case_id": "CASE-2026-000508",
+    "customer_id": "CUS-000303",
+    "opened_at": "2026-09-19T20:56:39Z",
+    "status": "closed",
+    "priority_score": "50",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-20T01:50:05Z"
+  },
+  {
+    "case_id": "CASE-2026-000509",
+    "customer_id": "CUS-001863",
+    "opened_at": "2026-09-20T13:46:20Z",
+    "status": "closed",
+    "priority_score": "31",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-09-22T00:41:58Z"
+  },
+  {
+    "case_id": "CASE-2026-000510",
+    "customer_id": "CUS-000452",
+    "opened_at": "2026-09-20T21:09:21Z",
+    "status": "closed",
+    "priority_score": "84",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-22T02:40:14Z"
+  },
+  {
+    "case_id": "CASE-2026-000511",
+    "customer_id": "CUS-003560",
+    "opened_at": "2026-09-21T10:29:31Z",
+    "status": "closed",
+    "priority_score": "25",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-09-22T08:58:39Z"
+  },
+  {
+    "case_id": "CASE-2026-000512",
+    "customer_id": "CUS-004201",
+    "opened_at": "2026-09-21T19:26:04Z",
+    "status": "closed",
+    "priority_score": "63",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-22T11:52:41Z"
+  },
+  {
+    "case_id": "CASE-2026-000513",
+    "customer_id": "CUS-003660",
+    "opened_at": "2026-09-22T05:45:03Z",
+    "status": "closed",
+    "priority_score": "52",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-24T02:22:53Z"
+  },
+  {
+    "case_id": "CASE-2026-000514",
+    "customer_id": "CUS-001203",
+    "opened_at": "2026-09-22T08:04:13Z",
+    "status": "closed",
+    "priority_score": "75",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-24T13:09:22Z"
+  },
+  {
+    "case_id": "CASE-2026-000515",
+    "customer_id": "CUS-003176",
+    "opened_at": "2026-09-22T15:46:41Z",
+    "status": "closed",
+    "priority_score": "56",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-24T03:30:04Z"
+  },
+  {
+    "case_id": "CASE-2026-000516",
+    "customer_id": "CUS-001127",
+    "opened_at": "2026-09-22T20:50:34Z",
+    "status": "in_review",
+    "priority_score": "30",
+    "final_disposition": "",
+    "closed_at": ""
+  },
+  {
+    "case_id": "CASE-2026-000517",
+    "customer_id": "CUS-001090",
+    "opened_at": "2026-09-23T07:34:29Z",
+    "status": "closed",
+    "priority_score": "80",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-23T14:05:12Z"
+  },
+  {
+    "case_id": "CASE-2026-000518",
+    "customer_id": "CUS-001764",
+    "opened_at": "2026-09-23T07:45:34Z",
+    "status": "closed",
+    "priority_score": "31",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-09-25T02:38:55Z"
+  },
+  {
+    "case_id": "CASE-2026-000519",
+    "customer_id": "CUS-000960",
+    "opened_at": "2026-09-23T23:36:34Z",
+    "status": "closed",
+    "priority_score": "59",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-25T21:16:07Z"
+  },
+  {
+    "case_id": "CASE-2026-000520",
+    "customer_id": "CUS-001615",
+    "opened_at": "2026-09-24T19:04:57Z",
+    "status": "closed",
+    "priority_score": "40",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-09-25T09:38:23Z"
+  },
+  {
+    "case_id": "CASE-2026-000521",
+    "customer_id": "CUS-004405",
+    "opened_at": "2026-09-25T09:49:02Z",
+    "status": "closed",
+    "priority_score": "31",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-09-26T18:14:10Z"
+  },
+  {
+    "case_id": "CASE-2026-000522",
+    "customer_id": "CUS-002458",
+    "opened_at": "2026-09-25T17:52:55Z",
+    "status": "closed",
+    "priority_score": "55",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-27T17:56:45Z"
+  },
+  {
+    "case_id": "CASE-2026-000523",
+    "customer_id": "CUS-000815",
+    "opened_at": "2026-09-26T00:23:57Z",
+    "status": "closed",
+    "priority_score": "40",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-09-26T07:06:07Z"
+  },
+  {
+    "case_id": "CASE-2026-000524",
+    "customer_id": "CUS-001115",
+    "opened_at": "2026-09-26T03:25:31Z",
+    "status": "closed",
+    "priority_score": "56",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-09-27T19:44:04Z"
+  },
+  {
+    "case_id": "CASE-2026-000525",
+    "customer_id": "CUS-003788",
+    "opened_at": "2026-09-27T13:35:38Z",
+    "status": "closed",
+    "priority_score": "40",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-28T22:40:00Z"
+  },
+  {
+    "case_id": "CASE-2026-000526",
+    "customer_id": "CUS-001561",
+    "opened_at": "2026-09-27T19:54:54Z",
+    "status": "closed",
+    "priority_score": "45",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-28T10:05:55Z"
+  },
+  {
+    "case_id": "CASE-2026-000527",
+    "customer_id": "CUS-001593",
+    "opened_at": "2026-09-27T20:40:41Z",
+    "status": "closed",
+    "priority_score": "52",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-28T21:32:43Z"
+  },
+  {
+    "case_id": "CASE-2026-000528",
+    "customer_id": "CUS-000857",
+    "opened_at": "2026-09-28T01:34:23Z",
+    "status": "closed",
+    "priority_score": "70",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-28T19:01:48Z"
+  },
+  {
+    "case_id": "CASE-2026-000529",
+    "customer_id": "CUS-002858",
+    "opened_at": "2026-09-28T01:35:46Z",
+    "status": "closed",
+    "priority_score": "45",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-29T18:25:56Z"
+  },
+  {
+    "case_id": "CASE-2026-000530",
+    "customer_id": "CUS-001625",
+    "opened_at": "2026-09-28T13:30:25Z",
+    "status": "closed",
+    "priority_score": "55",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-30T13:28:08Z"
+  },
+  {
+    "case_id": "CASE-2026-000531",
+    "customer_id": "CUS-003373",
+    "opened_at": "2026-09-28T15:52:37Z",
+    "status": "closed",
+    "priority_score": "73",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-29T23:23:18Z"
+  },
+  {
+    "case_id": "CASE-2026-000532",
+    "customer_id": "CUS-000034",
+    "opened_at": "2026-09-28T17:36:05Z",
+    "status": "closed",
+    "priority_score": "69",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-09-29T05:24:26Z"
+  },
+  {
+    "case_id": "CASE-2026-000533",
+    "customer_id": "CUS-000685",
+    "opened_at": "2026-09-29T14:30:07Z",
+    "status": "closed",
+    "priority_score": "29",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-10-01T20:29:27Z"
+  },
+  {
+    "case_id": "CASE-2026-000534",
+    "customer_id": "CUS-001154",
+    "opened_at": "2026-09-29T15:43:47Z",
+    "status": "closed",
+    "priority_score": "49",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-01T06:14:35Z"
+  },
+  {
+    "case_id": "CASE-2026-000535",
+    "customer_id": "CUS-000447",
+    "opened_at": "2026-09-29T19:50:35Z",
+    "status": "closed",
+    "priority_score": "68",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-01T09:30:11Z"
+  },
+  {
+    "case_id": "CASE-2026-000536",
+    "customer_id": "CUS-004053",
+    "opened_at": "2026-09-30T14:02:50Z",
+    "status": "closed",
+    "priority_score": "85",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-01T16:27:39Z"
+  },
+  {
+    "case_id": "CASE-2026-000537",
+    "customer_id": "CUS-004658",
+    "opened_at": "2026-09-30T18:44:57Z",
+    "status": "closed",
+    "priority_score": "55",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-02T13:48:34Z"
+  },
+  {
+    "case_id": "CASE-2026-000538",
+    "customer_id": "CUS-004013",
+    "opened_at": "2026-10-01T17:40:27Z",
+    "status": "closed",
+    "priority_score": "49",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-01T23:51:10Z"
+  },
+  {
+    "case_id": "CASE-2026-000539",
+    "customer_id": "CUS-004276",
+    "opened_at": "2026-10-02T00:10:46Z",
+    "status": "closed",
+    "priority_score": "80",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-04T03:20:09Z"
+  },
+  {
+    "case_id": "CASE-2026-000540",
+    "customer_id": "CUS-004412",
+    "opened_at": "2026-10-02T15:27:58Z",
+    "status": "closed",
+    "priority_score": "49",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-04T19:04:27Z"
+  },
+  {
+    "case_id": "CASE-2026-000541",
+    "customer_id": "CUS-003773",
+    "opened_at": "2026-10-02T17:57:06Z",
+    "status": "closed",
+    "priority_score": "24",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-10-04T05:14:09Z"
+  },
+  {
+    "case_id": "CASE-2026-000542",
+    "customer_id": "CUS-002093",
+    "opened_at": "2026-10-03T03:28:19Z",
+    "status": "closed",
+    "priority_score": "44",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-05T01:04:51Z"
+  },
+  {
+    "case_id": "CASE-2026-000543",
+    "customer_id": "CUS-004981",
+    "opened_at": "2026-10-04T00:44:49Z",
+    "status": "closed",
+    "priority_score": "27",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-10-04T23:53:28Z"
+  },
+  {
+    "case_id": "CASE-2026-000544",
+    "customer_id": "CUS-004499",
+    "opened_at": "2026-10-04T18:17:28Z",
+    "status": "closed",
+    "priority_score": "70",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-06T13:34:59Z"
+  },
+  {
+    "case_id": "CASE-2026-000545",
+    "customer_id": "CUS-001090",
+    "opened_at": "2026-10-05T07:33:48Z",
+    "status": "closed",
+    "priority_score": "42",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-06T16:16:30Z"
+  },
+  {
+    "case_id": "CASE-2026-000546",
+    "customer_id": "CUS-002826",
+    "opened_at": "2026-10-05T11:37:29Z",
+    "status": "closed",
+    "priority_score": "75",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-06T17:47:38Z"
+  },
+  {
+    "case_id": "CASE-2026-000547",
+    "customer_id": "CUS-004523",
+    "opened_at": "2026-10-07T06:03:29Z",
+    "status": "closed",
+    "priority_score": "59",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-08T05:30:45Z"
+  },
+  {
+    "case_id": "CASE-2026-000548",
+    "customer_id": "CUS-001743",
+    "opened_at": "2026-10-07T16:01:38Z",
+    "status": "closed",
+    "priority_score": "25",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-10-09T16:29:36Z"
+  },
+  {
+    "case_id": "CASE-2026-000549",
+    "customer_id": "CUS-003231",
+    "opened_at": "2026-10-08T01:20:08Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-09T18:17:07Z"
+  },
+  {
+    "case_id": "CASE-2026-000550",
+    "customer_id": "CUS-004434",
+    "opened_at": "2026-10-08T13:49:31Z",
+    "status": "closed",
+    "priority_score": "79",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-10-10T13:30:38Z"
+  },
+  {
+    "case_id": "CASE-2026-000551",
+    "customer_id": "CUS-001063",
+    "opened_at": "2026-10-08T21:05:28Z",
+    "status": "closed",
+    "priority_score": "80",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-10T11:50:12Z"
+  },
+  {
+    "case_id": "CASE-2026-000552",
+    "customer_id": "CUS-000128",
+    "opened_at": "2026-10-09T01:54:19Z",
+    "status": "closed",
+    "priority_score": "49",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-10T16:35:39Z"
+  },
+  {
+    "case_id": "CASE-2026-000553",
+    "customer_id": "CUS-002425",
+    "opened_at": "2026-10-09T14:05:09Z",
+    "status": "closed",
+    "priority_score": "69",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-11T19:19:36Z"
+  },
+  {
+    "case_id": "CASE-2026-000554",
+    "customer_id": "CUS-004415",
+    "opened_at": "2026-10-09T14:09:24Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-11T18:04:22Z"
+  },
+  {
+    "case_id": "CASE-2026-000555",
+    "customer_id": "CUS-000664",
+    "opened_at": "2026-10-09T17:51:19Z",
+    "status": "closed",
+    "priority_score": "40",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-10-11T23:02:12Z"
+  },
+  {
+    "case_id": "CASE-2026-000556",
+    "customer_id": "CUS-004599",
+    "opened_at": "2026-10-09T23:17:40Z",
+    "status": "closed",
+    "priority_score": "37",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-10-12T05:56:21Z"
+  },
+  {
+    "case_id": "CASE-2026-000557",
+    "customer_id": "CUS-001101",
+    "opened_at": "2026-10-09T23:19:08Z",
+    "status": "closed",
+    "priority_score": "45",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-11T13:09:36Z"
+  },
+  {
+    "case_id": "CASE-2026-000558",
+    "customer_id": "CUS-000390",
+    "opened_at": "2026-10-10T01:00:23Z",
+    "status": "in_review",
+    "priority_score": "33",
+    "final_disposition": "",
+    "closed_at": ""
+  },
+  {
+    "case_id": "CASE-2026-000559",
+    "customer_id": "CUS-001082",
+    "opened_at": "2026-10-10T22:28:39Z",
+    "status": "closed",
+    "priority_score": "55",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-12T00:01:28Z"
+  },
+  {
+    "case_id": "CASE-2026-000560",
+    "customer_id": "CUS-001346",
+    "opened_at": "2026-10-11T21:23:39Z",
+    "status": "closed",
+    "priority_score": "42",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-12T22:45:55Z"
+  },
+  {
+    "case_id": "CASE-2026-000561",
+    "customer_id": "CUS-001121",
+    "opened_at": "2026-10-12T16:25:16Z",
+    "status": "closed",
+    "priority_score": "45",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-12T20:48:16Z"
+  },
+  {
+    "case_id": "CASE-2026-000562",
+    "customer_id": "CUS-001372",
+    "opened_at": "2026-10-12T22:04:03Z",
+    "status": "closed",
+    "priority_score": "37",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-10-14T05:19:14Z"
+  },
+  {
+    "case_id": "CASE-2026-000563",
+    "customer_id": "CUS-000964",
+    "opened_at": "2026-10-13T03:14:26Z",
+    "status": "closed",
+    "priority_score": "64",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-15T01:02:09Z"
+  },
+  {
+    "case_id": "CASE-2026-000564",
+    "customer_id": "CUS-003673",
+    "opened_at": "2026-10-14T10:12:07Z",
+    "status": "closed",
+    "priority_score": "73",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-15T23:58:48Z"
+  },
+  {
+    "case_id": "CASE-2026-000565",
+    "customer_id": "CUS-002278",
+    "opened_at": "2026-10-14T15:33:33Z",
+    "status": "closed",
+    "priority_score": "70",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-15T06:02:52Z"
+  },
+  {
+    "case_id": "CASE-2026-000566",
+    "customer_id": "CUS-002113",
+    "opened_at": "2026-10-15T00:30:26Z",
+    "status": "closed",
+    "priority_score": "79",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-16T08:15:53Z"
+  },
+  {
+    "case_id": "CASE-2026-000567",
+    "customer_id": "CUS-003491",
+    "opened_at": "2026-10-15T19:47:36Z",
+    "status": "closed",
+    "priority_score": "58",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-16T06:16:39Z"
+  },
+  {
+    "case_id": "CASE-2026-000568",
+    "customer_id": "CUS-002839",
+    "opened_at": "2026-10-16T14:06:14Z",
+    "status": "closed",
+    "priority_score": "70",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-17T22:03:51Z"
+  },
+  {
+    "case_id": "CASE-2026-000569",
+    "customer_id": "CUS-004644",
+    "opened_at": "2026-10-16T17:19:48Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-17T14:48:14Z"
+  },
+  {
+    "case_id": "CASE-2026-000570",
+    "customer_id": "CUS-001032",
+    "opened_at": "2026-10-16T19:21:13Z",
+    "status": "closed",
+    "priority_score": "49",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-17T12:14:48Z"
+  },
+  {
+    "case_id": "CASE-2026-000571",
+    "customer_id": "CUS-000368",
+    "opened_at": "2026-10-17T00:01:22Z",
+    "status": "closed",
+    "priority_score": "50",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-10-17T22:39:32Z"
+  },
+  {
+    "case_id": "CASE-2026-000572",
+    "customer_id": "CUS-001287",
+    "opened_at": "2026-10-17T01:15:51Z",
+    "status": "closed",
+    "priority_score": "73",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-18T13:38:24Z"
+  },
+  {
+    "case_id": "CASE-2026-000573",
+    "customer_id": "CUS-000742",
+    "opened_at": "2026-10-17T11:03:29Z",
+    "status": "closed",
+    "priority_score": "80",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-17T18:28:08Z"
+  },
+  {
+    "case_id": "CASE-2026-000574",
+    "customer_id": "CUS-003368",
+    "opened_at": "2026-10-17T17:58:13Z",
+    "status": "in_review",
+    "priority_score": "75",
+    "final_disposition": "",
+    "closed_at": ""
+  },
+  {
+    "case_id": "CASE-2026-000575",
+    "customer_id": "CUS-002291",
+    "opened_at": "2026-10-19T10:09:14Z",
+    "status": "closed",
+    "priority_score": "52",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-19T22:55:46Z"
+  },
+  {
+    "case_id": "CASE-2026-000576",
+    "customer_id": "CUS-004292",
+    "opened_at": "2026-10-20T06:06:51Z",
+    "status": "closed",
+    "priority_score": "75",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-21T13:20:39Z"
+  },
+  {
+    "case_id": "CASE-2026-000577",
+    "customer_id": "CUS-002177",
+    "opened_at": "2026-10-20T12:07:10Z",
+    "status": "closed",
+    "priority_score": "55",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-22T03:28:16Z"
+  },
+  {
+    "case_id": "CASE-2026-000578",
+    "customer_id": "CUS-001172",
+    "opened_at": "2026-10-20T12:07:41Z",
+    "status": "closed",
+    "priority_score": "27",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-10-21T14:12:29Z"
+  },
+  {
+    "case_id": "CASE-2026-000579",
+    "customer_id": "CUS-002436",
+    "opened_at": "2026-10-20T15:04:35Z",
+    "status": "closed",
+    "priority_score": "75",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-21T20:11:05Z"
+  },
+  {
+    "case_id": "CASE-2026-000580",
+    "customer_id": "CUS-002968",
+    "opened_at": "2026-10-20T17:32:38Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-22T04:48:51Z"
+  },
+  {
+    "case_id": "CASE-2026-000581",
+    "customer_id": "CUS-002000",
+    "opened_at": "2026-10-20T19:44:30Z",
+    "status": "closed",
+    "priority_score": "55",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-21T06:12:23Z"
+  },
+  {
+    "case_id": "CASE-2026-000582",
+    "customer_id": "CUS-003578",
+    "opened_at": "2026-10-20T19:46:46Z",
+    "status": "closed",
+    "priority_score": "70",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-22T21:54:16Z"
+  },
+  {
+    "case_id": "CASE-2026-000583",
+    "customer_id": "CUS-003986",
+    "opened_at": "2026-10-21T09:04:20Z",
+    "status": "closed",
+    "priority_score": "59",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-10-22T21:57:44Z"
+  },
+  {
+    "case_id": "CASE-2026-000584",
+    "customer_id": "CUS-001376",
+    "opened_at": "2026-10-22T19:37:02Z",
+    "status": "in_review",
+    "priority_score": "78",
+    "final_disposition": "",
+    "closed_at": ""
+  },
+  {
+    "case_id": "CASE-2026-000585",
+    "customer_id": "CUS-003691",
+    "opened_at": "2026-10-22T19:37:44Z",
+    "status": "closed",
+    "priority_score": "35",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-10-23T21:33:57Z"
+  },
+  {
+    "case_id": "CASE-2026-000586",
+    "customer_id": "CUS-001057",
+    "opened_at": "2026-10-22T21:00:04Z",
+    "status": "closed",
+    "priority_score": "50",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-23T12:11:12Z"
+  },
+  {
+    "case_id": "CASE-2026-000587",
+    "customer_id": "CUS-001562",
+    "opened_at": "2026-10-23T01:11:47Z",
+    "status": "closed",
+    "priority_score": "78",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-25T03:00:09Z"
+  },
+  {
+    "case_id": "CASE-2026-000588",
+    "customer_id": "CUS-001914",
+    "opened_at": "2026-10-23T18:34:02Z",
+    "status": "closed",
+    "priority_score": "45",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-24T13:10:23Z"
+  },
+  {
+    "case_id": "CASE-2026-000589",
+    "customer_id": "CUS-004777",
+    "opened_at": "2026-10-24T03:55:20Z",
+    "status": "closed",
+    "priority_score": "60",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-24T17:47:29Z"
+  },
+  {
+    "case_id": "CASE-2026-000590",
+    "customer_id": "CUS-001410",
+    "opened_at": "2026-10-24T07:37:17Z",
+    "status": "closed",
+    "priority_score": "54",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-26T09:28:27Z"
+  },
+  {
+    "case_id": "CASE-2026-000591",
+    "customer_id": "CUS-004540",
+    "opened_at": "2026-10-24T13:55:58Z",
+    "status": "closed",
+    "priority_score": "56",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-26T07:03:42Z"
+  },
+  {
+    "case_id": "CASE-2026-000592",
+    "customer_id": "CUS-004879",
+    "opened_at": "2026-10-25T00:52:12Z",
+    "status": "closed",
+    "priority_score": "85",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-10-27T00:15:01Z"
+  },
+  {
+    "case_id": "CASE-2026-000593",
+    "customer_id": "CUS-003632",
+    "opened_at": "2026-10-25T04:39:37Z",
+    "status": "closed",
+    "priority_score": "27",
+    "final_disposition": "false_positive",
+    "closed_at": "2026-10-27T01:06:30Z"
+  },
+  {
+    "case_id": "CASE-2026-000594",
+    "customer_id": "CUS-003385",
+    "opened_at": "2026-10-25T15:07:23Z",
+    "status": "closed",
+    "priority_score": "45",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-27T07:42:26Z"
+  },
+  {
+    "case_id": "CASE-2026-000595",
+    "customer_id": "CUS-003827",
+    "opened_at": "2026-10-26T01:02:39Z",
+    "status": "closed",
+    "priority_score": "70",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-28T06:31:10Z"
+  },
+  {
+    "case_id": "CASE-2026-000596",
+    "customer_id": "CUS-001527",
+    "opened_at": "2026-10-26T18:40:58Z",
+    "status": "closed",
+    "priority_score": "49",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-27T23:38:22Z"
+  },
+  {
+    "case_id": "CASE-2026-000597",
+    "customer_id": "CUS-004663",
+    "opened_at": "2026-10-27T02:48:40Z",
+    "status": "closed",
+    "priority_score": "49",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-28T00:12:18Z"
+  },
+  {
+    "case_id": "CASE-2026-000598",
+    "customer_id": "CUS-003590",
+    "opened_at": "2026-10-27T20:35:31Z",
+    "status": "closed",
+    "priority_score": "50",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-28T05:20:41Z"
+  },
+  {
+    "case_id": "CASE-2026-000599",
+    "customer_id": "CUS-000763",
+    "opened_at": "2026-10-27T21:58:22Z",
+    "status": "closed",
+    "priority_score": "50",
+    "final_disposition": "inconclusive",
+    "closed_at": "2026-10-29T13:05:32Z"
+  },
+  {
+    "case_id": "CASE-2026-000600",
+    "customer_id": "CUS-001996",
+    "opened_at": "2026-10-28T03:58:37Z",
+    "status": "closed",
+    "priority_score": "56",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-30T00:51:43Z"
+  },
+  {
+    "case_id": "CASE-2026-000601",
+    "customer_id": "CUS-001951",
+    "opened_at": "2026-10-28T19:29:17Z",
+    "status": "closed",
+    "priority_score": "56",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-31T04:36:09Z"
+  },
+  {
+    "case_id": "CASE-2026-000602",
+    "customer_id": "CUS-001450",
+    "opened_at": "2026-10-29T21:22:09Z",
+    "status": "closed",
+    "priority_score": "45",
+    "final_disposition": "confirmed_suspicious",
+    "closed_at": "2026-10-31T18:40:10Z"
+  },
+  {
+    "case_id": "CASE-2026-000603",
+    "customer_id": "CUS-003601",
+    "opened_at": "2026-10-16T04:27:16Z",
+    "status": "open",
+    "priority_score": "55",
+    "final_disposition": "",
+    "closed_at": ""
+  }
+]
