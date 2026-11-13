@@ -28,7 +28,6 @@
 | 3 | Said I wanted a real, working platform and asked for help | Claude proposed the plan: data dictionary, generator, rules and alerts, validator, web app, documentation |
 | 4 | Asked what to do first | Step 1: data dictionary and assumptions |
 
-<!-- Add any further messages from the first chat here (generator, hash comparison, GitHub push, removing the duplicate generator.py). -->
 
 ### Phase 2: schedule and constraints
 
@@ -63,6 +62,10 @@
 | 21 | Pasted the push output | Claude noticed `README (1).md` had been committed as a duplicate and gave the fix | |
 | 22 | Said the website works and asked what to do next | Final checklist: fresh clone test, README review, prompt log, public repository, submit | |
 | 23 | Asked for this prompt log to be more professional | This document | |
+| 24 | Pasted the fresh clone test output and asked for the next steps | Claude confirmed 15 tests OK and `RESULT: PASS` on the clone, and gave the README, prompt log, public repository and submission checklist | Fresh clone installs and passes |
+| 25 | Pasted git output showing "nothing to commit, working tree clean" | Claude explained the file had no unsaved changes and gave commands to check the tail of the log | Checked the log tail |
+| 26 | Pasted the prompt log tail and the placeholder search result | Claude found the leftover placeholder comment and gave the steps to remove it and add the last entries | Placeholder removed |
+
 
 ## Corrections and lessons
 
