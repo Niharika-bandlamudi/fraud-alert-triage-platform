@@ -1,0 +1,17 @@
+Loaded seed.sql into in-memory SQLite with foreign keys on.
+  customers                   5,000 rows OK
+  accounts                    7,000 rows OK
+  account_status_history      8,034 rows OK
+  merchants                     500 rows OK
+  devices                     7,731 rows OK
+  device_account_links       15,084 rows OK
+  transactions              100,004 rows OK
+  transfer_links              1,852 rows OK
+  risk_rules                      5 rows OK
+  alerts                      1,000 rows OK
+  cases                         985 rows OK
+  case_alerts                 1,000 rows OK
+  analyst_actions             3,333 rows OK
+  ground_truth                5,508 rows OK
+foreign_key_check violations: 0
+RESULT: PASS

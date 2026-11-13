@@ -12,7 +12,7 @@ import argparse, csv, hashlib, json, os
 from datetime import datetime, timedelta
 import numpy as np
 
-VERSION = "0.1.0"
+VERSION = "0.2.0"
 START = datetime(2026, 1, 1)
 END = datetime(2026, 10, 31, 23, 59, 59)
 DAY = timedelta(days=1)
@@ -21,9 +21,11 @@ HOUR_P /= HOUR_P.sum()
 CATS = ["grocery", "fuel", "travel", "electronics", "dining", "utilities", "gambling", "crypto", "other"]
 CAT_P = [.22, .08, .10, .08, .18, .12, .03, .02, .17]
 RISKY = ("electronics", "gambling", "crypto")
-# planted pattern instances per 1,000 alerts (scaled by --alerts)
-BASE_PATTERNS = dict(velocity=100, new_device=150, circular=70, dormant=80,
-                     bill_burst=80, upgrade=80, large_known=40)
+# planted pattern instances per 1,000 alerts (scaled by --alerts). Each instance raises one alert, so the
+# default (--alerts 1000) gives about 1,000 alerts: 590 true patterns and 392 benign look-alikes (false
+# positives), plus a few overlaps and the injected anomaly added later by build_triage.py.
+BASE_PATTERNS = dict(velocity=150, new_device=230, circular=100, dormant=110,
+                     bill_burst=150, upgrade=149, large_known=93)
 FIRST = ["Aarav", "Vivaan", "Aditya", "Ananya", "Diya", "Isha", "Kavya", "Rohan", "Saanvi", "Arjun",
          "Meera", "Nikhil", "Priya", "Rahul", "Sneha", "Tanvi", "Varun", "Neha", "Karthik", "Lakshmi"]
 LAST = ["Sharma", "Reddy", "Patel", "Iyer", "Khan", "Nair", "Gupta", "Das", "Rao", "Mehta",

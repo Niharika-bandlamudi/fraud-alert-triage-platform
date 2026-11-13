@@ -8,7 +8,7 @@
 6. **Alert to case.** An alert belongs to at most one case. Cases group alerts by customer.
 7. **Labels come from rules.** Pattern labels are produced by the same documented logic that plants the pattern, not by random assignment.
 8. **Anomalies.** The five injected anomalies are added after the clean baseline and each has a `ground_truth` row. They do not alter unrelated rows.
-9. **Reproducibility.** Default seed 20261022. Data sizes are parameters.
+9. **Reproducibility.** Default seed 20261022. Data sizes are parameters (`--customers --accounts --transactions --alerts`, or `--starter` for a small set).
 
 10. **Two folders.** `data/` is the clean baseline from `generator.py`. `build_triage.py` reads it and writes `data_final/` (baseline plus rules, alerts, cases, actions, anomalies). It refuses to run if a baseline file no longer matches its manifest hash, so anomalies can never be injected twice.
 11. **Rules read only transactions, transfers and account history.** They never read `ground_truth.csv`. Labels are used afterwards to measure detection.
@@ -21,8 +21,8 @@
 
 ## Known limitations (update as the project grows)
 
-- Rules are fixed thresholds, not learned. Overlaps happen: 6 of the 236 RUL-002 alerts fire on transactions that belong to circular-transfer or large-payment patterns (a new device legitimately used for a large debit). They are reported as `overlaps_other_pattern`.
-- About 600 alerts are produced from the 100,000 transactions (the generator's `--alerts` target of 1,000 only scales the planted patterns); every alert comes from a planted pattern or a labelled benign look-alike, so there is no unlabelled noise.
+- Rules are fixed thresholds, not learned. Overlaps happen: 16 of the 396 RUL-002 alerts fire on transactions that belong to other planted patterns (a new device legitimately used for a large debit). They are reported as `overlaps_other_pattern`, and one RUL-002 alert comes from ordinary activity and has no label (`unlabelled`).
+- Alert volume is exactly 1,000 for the default seed: 590 true patterns and 392 benign look-alikes are planted (`BASE_PATTERNS` in generator.py, tuned for seed 20261022), plus 16 overlaps, 1 unlabelled alert and the injected alert without a trigger. A different seed or scale gives roughly, not exactly, the target.
 - Benign look-alikes score lower on average but the ranges overlap, so score alone cannot separate them.
 - Analyst names, notes and timings are synthetic templates.
 - Pattern labels exist for transactions and transfers only; alerts and cases are judged through their triggering transaction.

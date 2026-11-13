@@ -2,58 +2,59 @@
   "builder_version": "0.2.0",
   "seed": 20261022,
   "baseline_dir": "data",
-  "baseline_generator_version": "0.1.0",
+  "baseline_generator_version": "0.2.0",
   "baseline_files": {
     "customers.csv": "4b88f8232739e38f6f70bab08f82996766136dcb9c651b73ac2b2067365c7de2",
-    "accounts.csv": "65ff60f0e766b369d3503e6fd6ace723eacfc38760bcaff26f6cae34477b11a5",
-    "account_status_history.csv": "a1ed843f2d8e253683238b29d6e02cd933e0411e4b30a026a57eea90028c92e3",
+    "accounts.csv": "700063400bd1df52b90f484febe4b17ffb9d6e16918aa89bbd0b3aec45a8f040",
+    "account_status_history.csv": "4a4ee8ac1a5a77a3da123d3693f0edb1f65b07b439320114a7480f52f8fb38f8",
     "merchants.csv": "5f2f279c0e96b6f5b6d36a56ee8927e91e22601ce4ae3b85102af27852b69cfb",
-    "devices.csv": "f474340361d273090ac4cc5121e69e3eefef75fb35128bd22e9719ac23ba480b",
-    "device_account_links.csv": "45197464e37739b72e6ca1f0c824316b2302cb949bbbcb3ef1478c9cca4ce96d",
-    "transactions.csv": "8e5856af6dcef363713dd4d9f0d38e168eb3ea37cfaa1a42fee24ea204ba999d",
-    "transfer_links.csv": "5d2e1d9f800cd51ebb4834bd2bc16c27b7fbd0bf84517c460f4a87e142944a1e",
-    "ground_truth.csv": "c31cc717243c5b85b39272f8f91e7a569fbb4ff1995a8fcfb1548cd93bd1b74a"
+    "devices.csv": "a7c45a5309f6ca4b2a00a14c2858a087cc24e81b79053e4f5c67f15a75da80d5",
+    "device_account_links.csv": "27afeceaca81b674444bfff2c912a44d1025f84faa3b7b4b77de2acbc0772c0a",
+    "transactions.csv": "9722b1f087a8f567ccb31320dca40a93ea5ad8452b0e0202021eee4536cac8d2",
+    "transfer_links.csv": "fd66d5826ac60bf9e770ac2a3a578fdbfb403a9779715c294ff371f4c9a327c3",
+    "ground_truth.csv": "5b5f5b412f8be4b7dcc5dbb497d52f24a6e13e2b7caf83e23499fdac6d21a56c"
   },
   "alerts_by_rule_and_label": {
     "RUL-001": {
-      "planted_pattern": 100,
-      "false_positive": 80
+      "false_positive": 150,
+      "planted_pattern": 150
     },
     "RUL-002": {
-      "planted_pattern": 150,
-      "overlaps_other_pattern": 6,
-      "false_positive": 80
+      "planted_pattern": 230,
+      "false_positive": 149,
+      "overlaps_other_pattern": 16,
+      "unlabelled": 1
     },
     "RUL-003": {
-      "planted_pattern": 70
+      "planted_pattern": 100
     },
     "RUL-004": {
-      "planted_pattern": 80
+      "planted_pattern": 110
     },
     "RUL-005": {
-      "false_positive": 40
+      "false_positive": 93
     }
   },
   "pattern_detection": {
     "benign_lookalike": {
-      "placed": 200,
-      "detected": 200
+      "placed": 392,
+      "detected": 392
     },
     "circular_transfer": {
-      "placed": 70,
-      "detected": 70
-    },
-    "dormant_reactivation": {
-      "placed": 80,
-      "detected": 80
-    },
-    "new_device_activity": {
-      "placed": 150,
-      "detected": 150
-    },
-    "velocity_spike": {
       "placed": 100,
       "detected": 100
+    },
+    "dormant_reactivation": {
+      "placed": 110,
+      "detected": 110
+    },
+    "new_device_activity": {
+      "placed": 230,
+      "detected": 230
+    },
+    "velocity_spike": {
+      "placed": 150,
+      "detected": 150
     }
   },
   "snapshot": "2026-11-05T00:00:00Z",
@@ -64,55 +65,55 @@
     },
     "accounts.csv": {
       "rows": 7000,
-      "sha256": "84e02f1f5bf34595a97ed3fb9117eff40a958fa7dc65318dd37d2d92c611230d"
+      "sha256": "30709334206ec9445ffd028824d886980e0dda75809f344d91bab93aef150b89"
     },
     "account_status_history.csv": {
-      "rows": 7974,
-      "sha256": "a1ed843f2d8e253683238b29d6e02cd933e0411e4b30a026a57eea90028c92e3"
+      "rows": 8034,
+      "sha256": "4a4ee8ac1a5a77a3da123d3693f0edb1f65b07b439320114a7480f52f8fb38f8"
     },
     "merchants.csv": {
       "rows": 500,
       "sha256": "5f2f279c0e96b6f5b6d36a56ee8927e91e22601ce4ae3b85102af27852b69cfb"
     },
     "devices.csv": {
-      "rows": 7582,
-      "sha256": "f474340361d273090ac4cc5121e69e3eefef75fb35128bd22e9719ac23ba480b"
+      "rows": 7731,
+      "sha256": "a7c45a5309f6ca4b2a00a14c2858a087cc24e81b79053e4f5c67f15a75da80d5"
     },
     "device_account_links.csv": {
-      "rows": 15008,
-      "sha256": "45197464e37739b72e6ca1f0c824316b2302cb949bbbcb3ef1478c9cca4ce96d"
+      "rows": 15084,
+      "sha256": "27afeceaca81b674444bfff2c912a44d1025f84faa3b7b4b77de2acbc0772c0a"
     },
     "transactions.csv": {
       "rows": 100004,
-      "sha256": "2b0cb9920141b8d9d0da6dae64985849f1fe3c4560c1506dc7a83f082396e239"
+      "sha256": "49088e9fce166e6d199aa2ce514a4722e2c758bfc623ec745918fb1d65e8337f"
     },
     "transfer_links.csv": {
-      "rows": 1740,
-      "sha256": "0078527a343b49838c65b255c5ec0323f4fe227bb59847ad64fbb02987224663"
+      "rows": 1852,
+      "sha256": "7adda661be980edb5b7545291ae83b988802a943f90b7dd932e6b9e906c709e5"
     },
     "risk_rules.csv": {
       "rows": 5,
       "sha256": "ffd8137606ec781ff5e643a024e78faaa65d778a7bf501a0763b06895f251848"
     },
     "alerts.csv": {
-      "rows": 607,
-      "sha256": "0fac869cb46ba28f3e7cf22e95b1b875cb729f316cc215f54a0f891f6a1405f4"
+      "rows": 1000,
+      "sha256": "c4472c99bb5a9b781f2716ebfa0a0852b722d05ba07fd24f7952e84307fbf495"
     },
     "cases.csv": {
-      "rows": 603,
-      "sha256": "e2d975c80f388265e172398f539880db095ed71397d27e7bc08c3471a4e80fa6"
+      "rows": 985,
+      "sha256": "eed009de919e8908cccce153ede45c2ec97eae756a4f22f226d0825a2fbadf6c"
     },
     "case_alerts.csv": {
-      "rows": 607,
-      "sha256": "36e3ad513179554d4eec528c5de19d923fb8294b017d58cb675833899dc18813"
+      "rows": 1000,
+      "sha256": "45eae3da4b6dd493f7cbd48b12c344ba029ccf52bbeaaff3c31cc9d5ccb9f129"
     },
     "analyst_actions.csv": {
-      "rows": 2054,
-      "sha256": "bca772f87b86213eaf1f0c1af023c1d800bdea4e93a38eb469baf14cf45a1915"
+      "rows": 3333,
+      "sha256": "bcaa72021dccf1141546177516bd2aecbe841c7274c8d203f3d04ff1092d8bd2"
     },
     "ground_truth.csv": {
-      "rows": 3396,
-      "sha256": "b521fda559e59a4b91ed698eeae6a8b601827ab907e01608cfb75362cf01dcd4"
+      "rows": 5508,
+      "sha256": "ade9c0fdf365f29f2cda182fba72de22ff6b46c27d6ce11f68c5c5cde0560c59"
     }
   }
 }

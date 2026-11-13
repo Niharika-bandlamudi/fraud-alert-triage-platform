@@ -1,27 +1,27 @@
 {
-  "generator_version": "0.1.0",
+  "generator_version": "0.2.0",
   "seed": 20261022,
   "customers": 5000,
   "accounts": 7000,
   "transactions": 100000,
   "alerts_target": 1000,
   "pattern_instances_requested": {
-    "velocity": 100,
-    "new_device": 150,
-    "circular": 70,
-    "dormant": 80,
-    "bill_burst": 80,
-    "upgrade": 80,
-    "large_known": 40
+    "velocity": 150,
+    "new_device": 230,
+    "circular": 100,
+    "dormant": 110,
+    "bill_burst": 150,
+    "upgrade": 149,
+    "large_known": 93
   },
   "pattern_instances_placed": {
-    "CIR": 70,
-    "DOR": 80,
-    "FPB": 80,
-    "FPL": 40,
-    "FPU": 80,
-    "NDV": 150,
-    "VEL": 100
+    "CIR": 100,
+    "DOR": 110,
+    "FPB": 150,
+    "FPL": 93,
+    "FPU": 149,
+    "NDV": 230,
+    "VEL": 150
   },
   "normal_transfers": 1500,
   "files": {
@@ -31,35 +31,35 @@
     },
     "accounts.csv": {
       "rows": 7000,
-      "sha256": "65ff60f0e766b369d3503e6fd6ace723eacfc38760bcaff26f6cae34477b11a5"
+      "sha256": "700063400bd1df52b90f484febe4b17ffb9d6e16918aa89bbd0b3aec45a8f040"
     },
     "account_status_history.csv": {
-      "rows": 7974,
-      "sha256": "a1ed843f2d8e253683238b29d6e02cd933e0411e4b30a026a57eea90028c92e3"
+      "rows": 8034,
+      "sha256": "4a4ee8ac1a5a77a3da123d3693f0edb1f65b07b439320114a7480f52f8fb38f8"
     },
     "merchants.csv": {
       "rows": 500,
       "sha256": "5f2f279c0e96b6f5b6d36a56ee8927e91e22601ce4ae3b85102af27852b69cfb"
     },
     "devices.csv": {
-      "rows": 7582,
-      "sha256": "f474340361d273090ac4cc5121e69e3eefef75fb35128bd22e9719ac23ba480b"
+      "rows": 7731,
+      "sha256": "a7c45a5309f6ca4b2a00a14c2858a087cc24e81b79053e4f5c67f15a75da80d5"
     },
     "device_account_links.csv": {
-      "rows": 15008,
-      "sha256": "45197464e37739b72e6ca1f0c824316b2302cb949bbbcb3ef1478c9cca4ce96d"
+      "rows": 15084,
+      "sha256": "27afeceaca81b674444bfff2c912a44d1025f84faa3b7b4b77de2acbc0772c0a"
     },
     "transactions.csv": {
       "rows": 100000,
-      "sha256": "8e5856af6dcef363713dd4d9f0d38e168eb3ea37cfaa1a42fee24ea204ba999d"
+      "sha256": "9722b1f087a8f567ccb31320dca40a93ea5ad8452b0e0202021eee4536cac8d2"
     },
     "transfer_links.csv": {
-      "rows": 1739,
-      "sha256": "5d2e1d9f800cd51ebb4834bd2bc16c27b7fbd0bf84517c460f4a87e142944a1e"
+      "rows": 1851,
+      "sha256": "fd66d5826ac60bf9e770ac2a3a578fdbfb403a9779715c294ff371f4c9a327c3"
     },
     "ground_truth.csv": {
-      "rows": 3390,
-      "sha256": "c31cc717243c5b85b39272f8f91e7a569fbb4ff1995a8fcfb1548cd93bd1b74a"
+      "rows": 5502,
+      "sha256": "5b5f5b412f8be4b7dcc5dbb497d52f24a6e13e2b7caf83e23499fdac6d21a56c"
     }
   }
 }

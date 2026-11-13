@@ -7,42 +7,42 @@
       "issue_type": "txn_on_closed_account",
       "entity_type": "transactions",
       "entity_id": "TXN-2026-00100001",
-      "detail": "posted 2026-08-31T14:40:04Z after closed_at 2026-08-28T11:12:26Z"
+      "detail": "posted 2026-08-07T13:11:54Z after closed_at 2026-08-04T09:44:16Z"
     },
     {
       "check": "balance_floor",
       "issue_type": "negative_balance_no_overdraft",
       "entity_type": "transactions",
       "entity_id": "TXN-2026-00100002",
-      "detail": "balance_after -7300.00 below overdraft floor -0.00"
+      "detail": "balance_after -3717.00 below overdraft floor -0.00"
     },
     {
       "check": "balance_floor",
       "issue_type": "negative_balance_no_overdraft",
       "entity_type": "accounts",
-      "entity_id": "ACC-CUS-001209-01",
-      "detail": "current_balance -7300.00 below overdraft floor -0.00"
+      "entity_id": "ACC-CUS-004985-01",
+      "detail": "current_balance -3717.00 below overdraft floor -0.00"
     },
     {
       "check": "transfer_amount",
       "issue_type": "transfer_legs_mismatch",
       "entity_type": "transfer_links",
-      "entity_id": "TRF-2026-001740",
-      "detail": "transfer 31720.00, debit leg 31720.00, credit leg 30996.00"
+      "entity_id": "TRF-2026-001852",
+      "detail": "transfer 23085.00, debit leg 23085.00, credit leg 22371.00"
     },
     {
       "check": "alert_trigger",
       "issue_type": "alert_without_trigger",
       "entity_type": "alerts",
-      "entity_id": "ALT-2026-000607",
+      "entity_id": "ALT-2026-001000",
       "detail": "no triggering transaction"
     },
     {
       "check": "action_time",
       "issue_type": "disposition_before_alert",
       "entity_type": "analyst_actions",
-      "entity_id": "ACT-2026-002054",
-      "detail": "disposition at 2026-06-30T11:30:25Z before alert created 2026-07-03T11:54:09Z"
+      "entity_id": "ACT-2026-003333",
+      "detail": "disposition at 2026-08-03T15:35:18Z before alert created 2026-08-04T15:49:10Z"
     }
   ],
   "missed": [],

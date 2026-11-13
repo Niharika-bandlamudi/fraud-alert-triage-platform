@@ -6,12 +6,16 @@ Run from the project root:   streamlit run src/app.py
 Pages: Overview, Alert queue, Case view (evidence + analyst actions), Rules & evaluation, Data quality.
 data_final/ is read-only. Actions logged here go to app_state/new_actions.csv (see app_data.py).
 """
+import html
+
 import pandas as pd
 import streamlit as st
 
 import app_data as ad
+import ui
 
-st.set_page_config(page_title="Fraud alert triage", layout="wide")
+st.set_page_config(page_title="Fraud alert triage", page_icon=":mag:", layout="wide")
+ui.inject()
 
 PAGES = ["Overview", "Alert queue", "Case view", "Rules & evaluation", "Data quality"]
 STATUSES = ["open", "in_review", "closed"]
@@ -62,8 +66,8 @@ def open_case(case_id):
 
 
 with st.sidebar:
-    st.title("Fraud alert triage")
-    st.caption("Synthetic data, INR. data_final/ is read-only.")
+    ui.sidebar_brand()
+    st.caption("All amounts in INR. data_final/ is read-only.")
     st.radio("Page", PAGES, key="page")
     st.divider()
     st.caption(f"Actions logged in this app: {len(NEW)}")
@@ -82,7 +86,7 @@ if flash:
 
 # ---------------------------------------------------------------- Overview
 def page_overview():
-    st.header("Overview")
+    ui.page_header("Overview", "Where the work stands: cases, alerts, and what needs attention first.")
     by = CASES["status"].value_counts()
     cols = st.columns(6)
     cols[0].metric("Cases", len(CASES))
@@ -95,18 +99,18 @@ def page_overview():
     left, right = st.columns(2)
     with left:
         st.subheader("Alerts by rule")
-        st.bar_chart(ALERTS.groupby("rule_name").size().rename("alerts"))
+        ui.bars(ALERTS.groupby("rule_name").size())
     with right:
         st.subheader("Alerts per month")
         monthly = ALERTS.set_index("created_at").resample("MS").size().rename("alerts")
         monthly.index = monthly.index.strftime("%Y-%m")
-        st.bar_chart(monthly)
+        ui.bars(monthly, horizontal=False)
 
     left, right = st.columns(2)
     with left:
         st.subheader("How closed cases ended")
         closed = CASES[CASES["status"] == "closed"]
-        st.bar_chart(closed["final_disposition"].value_counts().rename("cases"))
+        ui.bars(closed["final_disposition"].value_counts(), color=ui.GREEN)
     with right:
         st.subheader("Work in progress by analyst")
         wip = CASES[CASES["status"] != "closed"]
@@ -116,16 +120,30 @@ def page_overview():
             wip = wip.assign(assigned_to=wip["assigned_to"].replace("", "unassigned"))
             st.dataframe(pd.crosstab(wip["assigned_to"], wip["status"]))
 
-    st.subheader("Highest-priority work waiting")
     wip = CASES[CASES["status"] != "closed"]
+    left, right = st.columns(2)
+    with left:
+        st.subheader("Waiting cases by priority level")
+        lv = wip["priority_score"].map(ui.level).value_counts().reindex(["high", "medium", "low"]).fillna(0).astype(int)
+        ui.bars(lv, color=ui.AMBER)
+    with right:
+        st.subheader("Alert risk scores")
+        edges = list(range(0, 100, 10)) + [101]
+        names = [f"{a}-{b - 1}" for a, b in zip(edges[:-1], edges[1:])]
+        names[-1] = "90-100"
+        bands = pd.cut(ALERTS["risk_score"], bins=edges, right=False, labels=names).value_counts().reindex(names).fillna(0).astype(int)
+        ui.bars(bands, horizontal=False)
+
+    st.subheader("Highest-priority work waiting")
     top = queue_order(wip).head(8)[["case_id", "priority_score", "status", "alert_count", "rules", "full_name", "age_days"]]
-    st.dataframe(top, hide_index=True)
+    st.dataframe(top, hide_index=True, column_config={
+        "priority_score": st.column_config.ProgressColumn("Priority", min_value=0, max_value=100, format="%d"),
+        "age_days": st.column_config.NumberColumn("Age (days)")})
 
 
 # ---------------------------------------------------------------- Alert queue
 def page_queue():
-    st.header("Alert queue")
-    st.caption("Cases are the unit of work: alerts of one customer within 7 days of each other share a case.")
+    ui.page_header("Alert queue", "Cases are the unit of work: alerts of one customer within 7 days of each other share a case. Highest priority first.")
 
     c1, c2, c3 = st.columns([2, 2, 1])
     status_sel = c1.multiselect("Status", STATUSES, default=["open", "in_review"])
@@ -160,7 +178,8 @@ def page_queue():
     else:
         f = queue_order(f)
 
-    st.write(f"**{len(f)}** cases match.")
+    n_high = int((f["priority_score"] >= 70).sum())
+    st.markdown(f"**{len(f)}** cases match &nbsp; {ui.pill(f'{n_high} high priority', 'high')}", unsafe_allow_html=True)
     if f.empty:
         st.info("No cases match these filters.")
         return
@@ -193,7 +212,8 @@ def render_alert(a):
         st.markdown(f"**Why it fired.** {a['evidence']}")
         bd = ad.parse_breakdown(a["score_breakdown"])
         st.caption(f"Score breakdown, adds up to {a['risk_score']}")
-        st.dataframe(bd, hide_index=True)
+        if len(bd):
+            ui.breakdown_chart(bd)
         if len(bd) and int(bd["points"].sum()) != int(a["risk_score"]):
             st.warning("The breakdown does not add up to the risk score.")
     with right:
@@ -261,7 +281,7 @@ def render_action_panel(case, case_alerts):
 
 
 def page_case():
-    st.header("Case view")
+    ui.page_header("Case view", "Evidence, score breakdown, timeline and analyst actions for one case.")
     ids = CASES["case_id"].tolist()
     current = st.session_state.get("case_id")
     if current not in ids:
@@ -275,6 +295,15 @@ def page_case():
     st.session_state["case_id"] = cid  # plain key, so the chosen case survives page switches
     case = CASE_ROW.loc[cid].copy()
     case["case_id"] = cid
+    esc = ui.pill("escalated", "high") if case["escalated"] else ""
+    done = ui.pill(str(case["final_disposition"]).replace("_", " "), "info") if case["status"] == "closed" else ""
+    st.markdown(
+        f'<div class="case-head"><div class="id">{html.escape(cid)}</div>'
+        f'<div class="who">Customer {html.escape(str(case["full_name"]))} ({html.escape(str(case["customer_id"]))}) '
+        f'&middot; KYC {html.escape(str(case["kyc_status"]))} &middot; risk tier {html.escape(str(case["kyc_risk_tier"]))} '
+        f'&middot; opened {dt(case["opened_at"])} UTC</div>'
+        f'{ui.status_pill(case["status"])}{ui.priority_pill(case["priority_score"])}{esc}{done}</div>',
+        unsafe_allow_html=True)
     cols = st.columns(5)
     cols[0].metric("Status", case["status"])
     cols[1].metric("Priority", int(case["priority_score"]))
@@ -283,8 +312,6 @@ def page_case():
     cols[4].metric("Escalated", "yes" if case["escalated"] else "no")
     if case["status"] == "closed":
         st.write(f"Closed {dt(case['closed_at'])} as **{case['final_disposition']}**.")
-    st.write(f"Customer **{case['full_name']}** (`{case['customer_id']}`), KYC {case['kyc_status']}, "
-             f"risk tier {case['kyc_risk_tier']}. Opened {dt(case['opened_at'])} UTC.")
 
     for f in ad.case_findings(REPORT, T, cid, ACTS):
         st.warning(f"Validator finding ({f['issue_type']}) on {f['entity_id']}: {f['detail']}")
@@ -326,7 +353,7 @@ def page_case():
 
 # ---------------------------------------------------------------- Rules & evaluation
 def page_rules():
-    st.header("Rules and evaluation")
+    ui.page_header("Rules and evaluation", "The five transparent rules and how well they perform against the planted patterns.")
     rules = T["risk_rules"][["rule_id", "rule_name", "rule_type", "description", "weight", "parameters", "is_active"]]
     st.dataframe(rules, hide_index=True)
     st.caption("Fixed thresholds, not learned. The rules read only transactions, transfers and account history.")
@@ -344,12 +371,16 @@ def page_rules():
 
 # ---------------------------------------------------------------- Data quality
 def page_quality():
-    st.header("Data quality")
+    ui.page_header("Data quality", "Validator result, injected anomalies and table sizes.")
     if not REPORT:
         st.warning("validation_report.json not found. Run `python src/run_all.py`.")
         return
     findings = pd.DataFrame(REPORT.get("findings", []))
     missed, unexpected = REPORT.get("missed", []), REPORT.get("unexpected", [])
+    if REPORT.get("passed"):
+        st.success("Validator PASS: every labelled anomaly was caught and nothing unexpected was reported.")
+    else:
+        st.error("Validator FAIL: see the missed and unexpected counts below.")
     cols = st.columns(4)
     cols[0].metric("Validator result", "PASS" if REPORT.get("passed") else "FAIL")
     cols[1].metric("Findings", len(findings))
