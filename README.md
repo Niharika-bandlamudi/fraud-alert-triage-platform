@@ -27,7 +27,7 @@ python -m unittest discover -s tests -v               # 4. automated tests (abou
 | `src/build_triage.py` | Rules, alerts, cases, analyst actions and the five injected anomalies. Reads `data/`, writes `data_final/` |
 | `src/validator.py` | All validation checks, comparison with `ground_truth.csv`, and the reproducibility check (`--repro`) |
 | `src/export_seed.py` | SQL seed data (`exports/seed.sql`, loads into SQLite with foreign keys on) and per-table JSON |
-| `src/app.py`, `src/app_data.py` | Streamlit analyst web app and its data layer |
+| `src/app.py`, `src/app_data.py`, `src/ui.py` | Streamlit analyst web app, its data layer, and its look and feel (badges, charts, styling). Theme in `.streamlit/config.toml` |
 | `src/run_all.py` | One command for build, validate, reproduce, export |
 | `tests/test_pipeline.py` | 15 automated tests |
 | `docs/data_dictionary.md` | Every entity: field, type, required, allowed values, uniqueness, validation rule, keys, cardinality |
